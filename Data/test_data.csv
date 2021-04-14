@@ -1,0 +1,2294 @@
+ID,dcm_name,age,anatomy,benign_malignant,diagnosis,sex,target
+5aaf13d4116597691363465f,ISIC_0028313,45.0,posterior torso,benign,nevus,male,0
+5c954626db6d7c19d0bc1490,ISIC_0057696,35.0,anterior torso,benign,nevus,male,0
+IP_0703787,ISIC_2764032,80.0,torso,benign,nevus,male,0
+5aaf153f116597691363fd91,ISIC_0031985,20.0,posterior torso,benign,nevus,female,0
+5aaf1533116597691363f764,ISIC_0031861,40.0,lower extremity,benign,nevus,female,0
+IP_3714517,ISIC_2610709,40.0,torso,benign,nevus,male,0
+IP_3938557,ISIC_6817405,30.0,torso,benign,nevus,male,0
+5c9546fbdb6d7c19d0bc2d79,ISIC_0064073,20.0,lower extremity,malignant,melanoma,female,1
+5e8107a574440928c0be2671,ISIC_1603509,55.0,lower extremity,benign,nevus,male,0
+5c95463cdb6d7c19d0bc1729,ISIC_0058361,40.0,head/neck,benign,nevus,male,0
+5c954740db6d7c19d0bc3569,ISIC_0066105,50.0,upper extremity,malignant,melanoma,male,1
+5c9546d8db6d7c19d0bc2963,ISIC_0063027,65.0,lower extremity,malignant,melanoma,male,1
+5e8106d774440928c0be1af6,ISIC_5987590,60.0,upper extremity,benign,lentigo NOS,male,0
+5aaf136a1165976913631030,ISIC_0027226,75.0,lower extremity,benign,nevus,female,0
+5c95460ddb6d7c19d0bc119c,ISIC_0056940,50.0,anterior torso,malignant,melanoma,female,1
+5aaf129f116597691362a8d3,ISIC_0025152,70.0,upper extremity,benign,nevus,male,0
+558d60dabae47801cf734558,ISIC_0010037,45.0,lower extremity,benign,nevus,female,0
+5aaf13a71165976913632f00,ISIC_0027844,50.0,posterior torso,benign,nevus,male,0
+5436e3b0bae478396759f125,ISIC_0000043,35.0,lower extremity,malignant,melanoma,male,1
+5aaf158e1165976913642443,ISIC_0032758,50.0,anterior torso,benign,nevus,female,0
+5c95464ddb6d7c19d0bc191a,ISIC_0058858,70.0,anterior torso,malignant,melanoma,male,1
+5aaf139711659769136326ea,ISIC_0027682,35.0,lower extremity,benign,nevus,female,0
+581cd7c89fc3c13dcd0e2677,ISIC_0013433,40.0,lower extremity,benign,nevus,female,0
+5aaf12e9116597691362ce56,ISIC_0025905,45.0,anterior torso,benign,nevus,male,0
+559437ad9fc3c13155146621,ISIC_0012064,85.0,lower extremity,malignant,melanoma,male,1
+5e8106d374440928c0be1aa8,ISIC_1932488,40.0,posterior torso,benign,nevus,male,0
+5e8fbd77396583e25a506414,ISIC_4520704,30.0,lower extremity,benign,nevus,female,0
+559431b69fc3c131551462f3,ISIC_0011904,85.0,lower extremity,malignant,melanoma,female,1
+5c954738db6d7c19d0bc34a3,ISIC_0065907,55.0,anterior torso,benign,nevus,female,0
+581cda919fc3c13dcd0e4d20,ISIC_0014458,40.0,upper extremity,benign,nevus,female,0
+5aaf12ac116597691362af61,ISIC_0025283,50.0,lower extremity,benign,nevus,female,0
+5e95f269396583e25a507498,ISIC_6017985,50.0,lower extremity,malignant,melanoma,female,1
+5e80fbf174440928c0bdf417,ISIC_5356775,25.0,lower extremity,benign,nevus,female,0
+5c9546e1db6d7c19d0bc2a61,ISIC_0063281,60.0,anterior torso,benign,nevus,male,0
+5aaf15f711659769136459f6,ISIC_0033836,55.0,lower extremity,benign,nevus,female,0
+IP_9849868,ISIC_9087738,55.0,torso,benign,nevus,male,0
+5aaf153f116597691363fd5f,ISIC_0031981,40.0,anterior torso,benign,nevus,male,0
+IP_5596716,ISIC_2566365,45.0,torso,benign,nevus,male,0
+5e8403c42a5a4415fe695ef4,ISIC_5037592,45.0,lower extremity,benign,nevus,male,0
+5e81009774440928c0be0165,ISIC_2922381,50.0,lower extremity,benign,nevus,female,0
+5c9546e3db6d7c19d0bc2a99,ISIC_0063337,70.0,lower extremity,benign,nevus,female,0
+IP_8543718,ISIC_9015182,40.0,torso,benign,nevus,female,0
+5aaf14641165976913638f7e,ISIC_0029780,50.0,head/neck,malignant,melanoma,female,1
+5aaf1336116597691362f5d0,ISIC_0026697,75.0,head/neck,malignant,melanoma,male,1
+5c9546fcdb6d7c19d0bc2d89,ISIC_0064089,60.0,head/neck,malignant,melanoma,female,1
+5aaf148c116597691363a352,ISIC_0030176,40.0,lower extremity,benign,nevus,female,0
+581cd9fb9fc3c13dcd0e4549,ISIC_0014251,75.0,head/neck,benign,seborrheic keratosis,male,0
+5e8403902a5a4415fe695a39,ISIC_7930157,55.0,lower extremity,benign,nevus,male,0
+5c954712db6d7c19d0bc304b,ISIC_0064795,55.0,anterior torso,benign,nevus,female,0
+5aaf15a01165976913642db1,ISIC_0032948,45.0,upper extremity,benign,nevus,female,0
+5c9546fadb6d7c19d0bc2d51,ISIC_0064033,55.0,anterior torso,malignant,melanoma,female,1
+5c9546c0db6d7c19d0bc26a7,ISIC_0062327,30.0,anterior torso,benign,nevus,male,0
+5e95f204396583e25a506c7d,ISIC_7788318,50.0,lower extremity,malignant,melanoma,male,1
+5aaf126a1165976913628ecd,ISIC_0024633,45.0,lower extremity,benign,nevus,male,0
+5c954652db6d7c19d0bc19ad,ISIC_0059005,25.0,upper extremity,malignant,melanoma,female,1
+5c954789db6d7c19d0bc3d82,ISIC_0068178,75.0,anterior torso,malignant,melanoma,male,1
+5aaf14ab116597691363b2a6,ISIC_0030483,35.0,lower extremity,benign,nevus,male,0
+5e84026d2a5a4415fe69504b,ISIC_5734294,50.0,upper extremity,benign,nevus,female,0
+5aaf12de116597691362c902,ISIC_0025798,60.0,head/neck,benign,nevus,female,0
+IP_3780641,ISIC_8617084,65.0,torso,benign,nevus,female,0
+IP_6367015,ISIC_3846648,45.0,torso,benign,nevus,female,0
+5c9545c9db6d7c19d0bc09f6,ISIC_0054982,70.0,lower extremity,malignant,melanoma,female,1
+5aaf139f1165976913632b01,ISIC_0027764,45.0,lower extremity,benign,nevus,male,0
+5e84027c2a5a4415fe6951b7,ISIC_3004646,60.0,lower extremity,benign,nevus,female,0
+5e8403bb2a5a4415fe695e24,ISIC_6424987,40.0,lower extremity,benign,nevus,female,0
+5aaf13cc1165976913634218,ISIC_0028227,55.0,upper extremity,malignant,melanoma,male,1
+5c9545e6db6d7c19d0bc0d51,ISIC_0055841,80.0,upper extremity,malignant,melanoma,male,1
+5e8403b02a5a4415fe695d47,ISIC_6385627,45.0,lower extremity,benign,nevus,male,0
+5c9545e0db6d7c19d0bc0c82,ISIC_0055634,45.0,anterior torso,benign,nevus,female,0
+582b909d9fc3c1566bbcc089,ISIC_0015089,65.0,lower extremity,benign,nevus,male,0
+IP_6496337,ISIC_7637109,55.0,torso,benign,nevus,male,0
+5aaf15a41165976913642fa6,ISIC_0032987,70.0,head/neck,malignant,melanoma,male,1
+IP_6092770,ISIC_1502309,65.0,torso,benign,nevus,female,0
+5c9546addb6d7c19d0bc2461,ISIC_0061745,65.0,palms/soles,benign,nevus,male,0
+5aaf12e4116597691362cc25,ISIC_0025861,30.0,upper extremity,benign,nevus,male,0
+5aaf12e5116597691362cc99,ISIC_0025870,70.0,lower extremity,benign,nevus,female,0
+5c95481cdb6d7c19d0bc4f96,ISIC_0072806,35.0,anterior torso,benign,nevus,female,0
+5c95469ddb6d7c19d0bc2282,ISIC_0061266,35.0,anterior torso,benign,nevus,male,0
+582b91219fc3c1566bbcc2f3,ISIC_0015155,30.0,posterior torso,benign,nevus,female,0
+5e8402962a5a4415fe6953f5,ISIC_3715736,40.0,lower extremity,benign,nevus,male,0
+581cd8a99fc3c13dcd0e32f2,ISIC_0013764,65.0,anterior torso,benign,seborrheic keratosis,male,0
+5e81066874440928c0be14e3,ISIC_6386485,55.0,posterior torso,benign,nevus,female,0
+5e8403c72a5a4415fe695f49,ISIC_4294419,40.0,lower extremity,benign,nevus,female,0
+5c954699db6d7c19d0bc21e8,ISIC_0061112,65.0,head/neck,malignant,melanoma,male,1
+IP_7442385,ISIC_7821675,45.0,torso,benign,nevus,male,0
+558d640abae47801cf735101,ISIC_0010931,50.0,upper extremity,benign,nevus,female,0
+5c9545f9db6d7c19d0bc0f7d,ISIC_0056397,50.0,head/neck,benign,nevus,male,0
+5e8105af74440928c0be0b0e,ISIC_4548483,40.0,posterior torso,benign,nevus,female,0
+5c9546a0db6d7c19d0bc22c8,ISIC_0061336,75.0,anterior torso,malignant,melanoma,male,1
+5c9547c2db6d7c19d0bc4496,ISIC_0069990,50.0,anterior torso,benign,nevus,male,0
+5c95466ddb6d7c19d0bc1c65,ISIC_0059701,40.0,anterior torso,benign,nevus,male,0
+5c95460fdb6d7c19d0bc11c3,ISIC_0056979,50.0,upper extremity,malignant,melanoma,female,1
+558d62ebbae47801cf734a53,ISIC_0010361,40.0,head/neck,benign,nevus,male,0
+5aaf148d116597691363a3d2,ISIC_0030187,35.0,upper extremity,malignant,melanoma,male,1
+5c954828db6d7c19d0bc50f7,ISIC_0073159,45.0,lower extremity,benign,nevus,female,0
+5c954787db6d7c19d0bc3d3b,ISIC_0068107,70.0,anterior torso,malignant,melanoma,male,1
+558d6481bae47801cf7353bf,ISIC_0011165,70.0,anterior torso,benign,nevus,male,0
+5c9546f3db6d7c19d0bc2c93,ISIC_0063843,45.0,anterior torso,benign,nevus,female,0
+5aaf15b211659769136436d1,ISIC_0033131,70.0,posterior torso,benign,nevus,male,0
+5c9547a4db6d7c19d0bc40d9,ISIC_0069033,55.0,palms/soles,benign,nevus,female,0
+5aaf137c116597691363195e,ISIC_0027410,75.0,head/neck,benign,nevus,male,0
+5aaf14cb116597691363c2df,ISIC_0030808,35.0,anterior torso,benign,nevus,male,0
+IP_2675593,ISIC_9277434,60.0,torso,benign,nevus,female,0
+5c95469edb6d7c19d0bc229c,ISIC_0061292,30.0,lower extremity,benign,nevus,female,0
+5c95476adb6d7c19d0bc3a27,ISIC_0067319,35.0,anterior torso,benign,nevus,female,0
+5aaf12f3116597691362d385,ISIC_0026009,80.0,lower extremity,malignant,melanoma,female,1
+558d61a1bae47801cf7349ba,ISIC_0010310,75.0,upper extremity,benign,lentigo NOS,male,0
+5c9545d9db6d7c19d0bc0bca,ISIC_0055450,55.0,head/neck,malignant,melanoma,male,1
+5c95463edb6d7c19d0bc1758,ISIC_0058408,35.0,lower extremity,malignant,melanoma,female,1
+5e8402452a5a4415fe694cbf,ISIC_9059632,50.0,lower extremity,benign,nevus,male,0
+5592cfca9fc3c1315514587b,ISIC_0011590,15.0,upper extremity,malignant,melanoma,male,1
+5436e3c6bae478396759f235,ISIC_0000178,65.0,upper extremity,benign,nevus,female,0
+5aaf161c1165976913646ce5,ISIC_0034215,20.0,lower extremity,benign,nevus,female,0
+5825fda39fc3c171066d351e,ISIC_0014615,80.0,head/neck,benign,seborrheic keratosis,male,0
+5592fefc9fc3c13155145ee9,ISIC_0011789,50.0,lower extremity,benign,angioma,female,0
+5c9545e6db6d7c19d0bc0d4b,ISIC_0055835,30.0,anterior torso,benign,nevus,male,0
+5aaf13ff1165976913635c25,ISIC_0028751,35.0,posterior torso,benign,nevus,female,0
+5e8403c82a5a4415fe695f5c,ISIC_2889385,30.0,lower extremity,benign,nevus,male,0
+582b91589fc3c1566bbcc410,ISIC_0015184,30.0,lower extremity,benign,nevus,female,0
+5e8402502a5a4415fe694da3,ISIC_1739659,40.0,upper extremity,benign,nevus,female,0
+5aaf12531165976913628366,ISIC_0024404,45.0,lower extremity,benign,nevus,female,0
+5c95475fdb6d7c19d0bc38f9,ISIC_0067017,45.0,anterior torso,benign,nevus,female,0
+581cd72d9fc3c13dcd0e1ea0,ISIC_0013226,35.0,upper extremity,benign,nevus,female,0
+5436e3d4bae478396759f35d,ISIC_0000326,20.0,lower extremity,benign,nevus,female,0
+5aaf13c31165976913633d8d,ISIC_0028136,60.0,anterior torso,benign,nevus,male,0
+5c954659db6d7c19d0bc1a4e,ISIC_0059166,5.0,head/neck,benign,nevus,male,0
+5e81008074440928c0bdfff7,ISIC_5509459,60.0,head/neck,benign,lentigo NOS,female,0
+5aaf15e4116597691364505d,ISIC_0033643,70.0,lower extremity,malignant,melanoma,male,1
+5c9547c7db6d7c19d0bc4540,ISIC_0070160,40.0,anterior torso,malignant,melanoma,female,1
+558d63bcbae47801cf734f36,ISIC_0010778,85.0,posterior torso,malignant,melanoma,female,1
+IP_1658035,ISIC_8006094,40.0,torso,benign,nevus,male,0
+IP_5439716,ISIC_7289411,70.0,torso,benign,nevus,male,0
+5aaf16041165976913646091,ISIC_0033968,55.0,lower extremity,malignant,melanoma,male,1
+5c954697db6d7c19d0bc21b2,ISIC_0061058,55.0,anterior torso,benign,nevus,male,0
+5e84029c2a5a4415fe695496,ISIC_3444221,30.0,lower extremity,benign,nevus,female,0
+558d64f2bae47801cf73565f,ISIC_0011389,55.0,posterior torso,benign,nevus,male,0
+5aaf14cf116597691363c4fe,ISIC_0030851,65.0,posterior torso,benign,nevus,male,0
+5aaf1331116597691362f351,ISIC_0026647,75.0,lower extremity,malignant,melanoma,male,1
+5c9547cddb6d7c19d0bc4600,ISIC_0070352,40.0,upper extremity,malignant,melanoma,female,1
+581cd83d9fc3c13dcd0e2cf8,ISIC_0013606,85.0,upper extremity,malignant,melanoma,male,1
+5aaf129a116597691362a682,ISIC_0025106,65.0,upper extremity,benign,nevus,male,0
+5e81062474440928c0be11ed,ISIC_7876737,55.0,posterior torso,benign,nevus,male,0
+5c9547a5db6d7c19d0bc40ff,ISIC_0069071,35.0,upper extremity,benign,nevus,female,0
+5aaf14f7116597691363d8a7,ISIC_0031244,40.0,upper extremity,benign,nevus,female,0
+5aaf145511659769136387e6,ISIC_0029628,65.0,upper extremity,benign,nevus,female,0
+5c95481bdb6d7c19d0bc4f6f,ISIC_0072767,45.0,anterior torso,benign,nevus,female,0
+5aaf15c91165976913644262,ISIC_0033363,50.0,upper extremity,benign,nevus,male,0
+558d6344bae47801cf734c6c,ISIC_0010540,55.0,anterior torso,benign,nevus,female,0
+IP_8601697,ISIC_0268633,65.0,torso,benign,nevus,male,0
+5c95466fdb6d7c19d0bc1cb7,ISIC_0059783,65.0,anterior torso,benign,nevus,male,0
+5e8402a52a5a4415fe695558,ISIC_7356954,45.0,head/neck,benign,nevus,female,0
+5e8403c82a5a4415fe695f64,ISIC_4291907,50.0,lower extremity,benign,nevus,female,0
+5c954790db6d7c19d0bc3e6e,ISIC_0068414,45.0,anterior torso,benign,nevus,female,0
+5aaf14d4116597691363c729,ISIC_0030894,75.0,lower extremity,benign,nevus,female,0
+IP_7442385,ISIC_8984990,40.0,torso,benign,nevus,male,0
+IP_9905995,ISIC_4063390,35.0,torso,benign,nevus,female,0
+5aaf14d9116597691363c992,ISIC_0030942,50.0,lower extremity,benign,nevus,female,0
+5aaf149b116597691363aa9a,ISIC_0030322,45.0,lower extremity,benign,nevus,female,0
+5c954615db6d7c19d0bc128f,ISIC_0057183,55.0,upper extremity,benign,nevus,female,0
+558d64dabae47801cf7355d8,ISIC_0011344,25.0,upper extremity,malignant,melanoma,female,1
+582b92cf9fc3c1566bbccaac,ISIC_0015364,50.0,upper extremity,benign,nevus,female,0
+5aaf14e2116597691363ce38,ISIC_0031036,5.0,head/neck,benign,nevus,female,0
+5c95473ddb6d7c19d0bc3516,ISIC_0066022,55.0,head/neck,benign,nevus,female,0
+5c9545f6db6d7c19d0bc0f1d,ISIC_0056301,65.0,anterior torso,benign,nevus,female,0
+5c9545cddb6d7c19d0bc0a62,ISIC_0055090,45.0,anterior torso,benign,nevus,female,0
+582b8f7f9fc3c1566bbcbb40,ISIC_0014944,55.0,posterior torso,benign,nevus,female,0
+5aaf125b1165976913628748,ISIC_0024482,50.0,posterior torso,malignant,melanoma,male,1
+5aaf1437116597691363789e,ISIC_0029321,60.0,anterior torso,benign,nevus,male,0
+5aaf135d116597691363095b,ISIC_0027089,55.0,anterior torso,malignant,melanoma,male,1
+5e81062474440928c0be11ea,ISIC_8465152,55.0,upper extremity,benign,nevus,male,0
+5c9545bddb6d7c19d0bc088c,ISIC_0054620,60.0,anterior torso,benign,nevus,male,0
+5aaf14ce116597691363c403,ISIC_0030831,40.0,anterior torso,benign,nevus,female,0
+558d63c0bae47801cf734f4e,ISIC_0010786,45.0,lower extremity,benign,nevus,female,0
+5436e3c7bae478396759f253,ISIC_0000193,55.0,upper extremity,benign,nevus,female,0
+5aaf1319116597691362e6f5,ISIC_0026399,35.0,anterior torso,benign,nevus,female,0
+5e8106e674440928c0be1c28,ISIC_9756079,65.0,lower extremity,benign,lichenoid keratosis,female,0
+5aaf12bd116597691362b816,ISIC_0025458,45.0,lower extremity,benign,nevus,female,0
+IP_8964608,ISIC_5498202,45.0,torso,benign,nevus,male,0
+5aaf139511659769136325eb,ISIC_0027662,15.0,upper extremity,benign,nevus,male,0
+5c9546dbdb6d7c19d0bc29bb,ISIC_0063115,55.0,head/neck,benign,nevus,female,0
+5aaf12d6116597691362c4d4,ISIC_0025714,20.0,posterior torso,benign,nevus,male,0
+5c95468bdb6d7c19d0bc202d,ISIC_0060669,35.0,anterior torso,benign,nevus,male,0
+558d616cbae47801cf7348a0,ISIC_0010217,60.0,lower extremity,malignant,melanoma,male,1
+5593f45a9fc3c131551460ca,ISIC_0011855,40.0,anterior torso,benign,nevus,female,0
+5aaf15c6116597691364410a,ISIC_0033336,70.0,upper extremity,malignant,melanoma,male,1
+5c954628db6d7c19d0bc14c5,ISIC_0057749,30.0,anterior torso,benign,nevus,male,0
+581cdac69fc3c13dcd0e4fc0,ISIC_0014526,65.0,head/neck,benign,seborrheic keratosis,female,0
+5aaf13d311659769136345bd,ISIC_0028300,55.0,posterior torso,benign,nevus,female,0
+IP_1657778,ISIC_3663513,60.0,torso,benign,nevus,female,0
+5aaf13d21165976913634539,ISIC_0028290,35.0,posterior torso,benign,nevus,male,0
+558d6300bae47801cf734ace,ISIC_0010402,70.0,head/neck,malignant,melanoma,male,1
+558d613fbae47801cf7347a1,ISIC_0010132,60.0,posterior torso,benign,nevus,female,0
+5aaf134d1165976913630165,ISIC_0026930,60.0,anterior torso,malignant,melanoma,male,1
+5c954677db6d7c19d0bc1dba,ISIC_0060042,40.0,anterior torso,benign,nevus,female,0
+5aaf160d1165976913646565,ISIC_0034065,50.0,torso,malignant,melanoma,male,1
+5aaf157611659769136418d4,ISIC_0032530,25.0,lower extremity,benign,nevus,female,0
+5aaf15c61165976913644122,ISIC_0033338,50.0,anterior torso,benign,nevus,female,0
+IP_0630349,ISIC_9537532,55.0,torso,benign,nevus,male,0
+5c954782db6d7c19d0bc3ca9,ISIC_0067961,50.0,anterior torso,benign,nevus,female,0
+5aaf13e31165976913634db4,ISIC_0028461,60.0,lower extremity,benign,nevus,female,0
+IP_2976930,ISIC_7647076,35.0,torso,benign,nevus,female,0
+IP_5203658,ISIC_1685257,75.0,upper extremity,benign,seborrheic keratosis,male,0
+5aaf13a91165976913633040,ISIC_0027869,35.0,lower extremity,benign,nevus,female,0
+5c9545cddb6d7c19d0bc0a57,ISIC_0055079,35.0,lower extremity,malignant,melanoma,female,1
+559431559fc3c13155146244,ISIC_0011869,85.0,upper extremity,malignant,basal cell carcinoma,male,1
+581cdad49fc3c13dcd0e5089,ISIC_0014547,65.0,upper extremity,benign,nevus,female,0
+558d6089bae47801cf734387,ISIC_0009882,60.0,upper extremity,malignant,melanoma,female,1
+5e8403a32a5a4415fe695bfc,ISIC_6162545,50.0,lower extremity,benign,nevus,male,0
+IP_2411134,ISIC_7060501,40.0,torso,benign,nevus,female,0
+5aaf147a1165976913639a9f,ISIC_0030003,35.0,lower extremity,benign,nevus,male,0
+5c9547d8db6d7c19d0bc475b,ISIC_0070699,45.0,anterior torso,benign,nevus,male,0
+5c95471adb6d7c19d0bc313f,ISIC_0065039,45.0,anterior torso,malignant,melanoma,female,1
+5aa301751165972a9e961750,ISIC_0024215,60.0,torso,malignant,melanoma,male,1
+IP_0891666,ISIC_2400766,70.0,torso,benign,nevus,male,0
+5c954714db6d7c19d0bc306f,ISIC_0064831,50.0,anterior torso,benign,nevus,female,0
+IP_0085460,ISIC_2152755,30.0,torso,benign,nevus,female,0
+5e8403db2a5a4415fe696116,ISIC_9781112,40.0,lower extremity,benign,nevus,male,0
+5c9547c2db6d7c19d0bc4492,ISIC_0069986,75.0,lower extremity,malignant,melanoma,male,1
+5c9545fbdb6d7c19d0bc0fb0,ISIC_0056448,50.0,lower extremity,malignant,melanoma,female,1
+5c954635db6d7c19d0bc1653,ISIC_0058147,25.0,lower extremity,benign,nevus,female,0
+IP_6764319,ISIC_8580423,45.0,torso,benign,nevus,female,0
+5aaf12871165976913629d76,ISIC_0024926,35.0,lower extremity,benign,nevus,female,0
+5c954791db6d7c19d0bc3e7b,ISIC_0068427,65.0,head/neck,malignant,melanoma,male,1
+5e95f316396583e25a50831c,ISIC_3009877,35.0,lower extremity,malignant,melanoma,female,1
+5c954756db6d7c19d0bc3810,ISIC_0066784,70.0,anterior torso,benign,nevus,female,0
+5e95f26a396583e25a5074b1,ISIC_6829008,50.0,lower extremity,malignant,melanoma,female,1
+5e84025f2a5a4415fe694f01,ISIC_2873294,60.0,upper extremity,benign,nevus,female,0
+5c954655db6d7c19d0bc19e9,ISIC_0059065,85.0,head/neck,malignant,melanoma,female,1
+558d645fbae47801cf7352fc,ISIC_0011100,20.0,posterior torso,benign,nevus,male,0
+5aaf12d3116597691362c34a,ISIC_0025683,25.0,anterior torso,benign,nevus,female,0
+5c954744db6d7c19d0bc35e8,ISIC_0066232,50.0,anterior torso,benign,nevus,male,0
+581cd9b89fc3c13dcd0e41bf,ISIC_0014157,55.0,posterior torso,malignant,melanoma,male,1
+5c954729db6d7c19d0bc32c7,ISIC_0065431,65.0,anterior torso,malignant,melanoma,male,1
+5e8403ae2a5a4415fe695d18,ISIC_2152051,55.0,head/neck,benign,nevus,female,0
+5c95460ddb6d7c19d0bc11b0,ISIC_0056960,50.0,anterior torso,benign,nevus,female,0
+558d64d8bae47801cf7355c9,ISIC_0011339,45.0,anterior torso,benign,nevus,female,0
+5c9545c7db6d7c19d0bc09c5,ISIC_0054933,35.0,head/neck,benign,nevus,female,0
+558d615fbae47801cf734858,ISIC_0010193,85.0,head/neck,benign,nevus,female,0
+5c95475cdb6d7c19d0bc38c3,ISIC_0066963,40.0,anterior torso,benign,nevus,male,0
+IP_6009973,ISIC_8097808,65.0,torso,benign,nevus,male,0
+558d6127bae47801cf734720,ISIC_0010089,45.0,anterior torso,malignant,melanoma,female,1
+581cd7d79fc3c13dcd0e2749,ISIC_0013455,80.0,upper extremity,malignant,melanoma,male,1
+5c9547d1db6d7c19d0bc4689,ISIC_0070489,50.0,lower extremity,malignant,melanoma,female,1
+5aaf15d011659769136445e1,ISIC_0033433,20.0,lower extremity,benign,nevus,male,0
+5c954690db6d7c19d0bc20de,ISIC_0060846,50.0,anterior torso,benign,nevus,female,0
+5c9547b0db6d7c19d0bc4252,ISIC_0069410,60.0,lower extremity,malignant,melanoma,male,1
+IP_3780490,ISIC_0679972,40.0,torso,benign,nevus,female,0
+5c9546bcdb6d7c19d0bc261b,ISIC_0062187,30.0,anterior torso,benign,nevus,male,0
+5aaf138d1165976913632192,ISIC_0027575,45.0,upper extremity,benign,nevus,female,0
+5aaf13d11165976913634485,ISIC_0028276,20.0,posterior torso,benign,nevus,female,0
+IP_5519306,ISIC_8466737,45.0,torso,benign,nevus,male,0
+5e8403ea2a5a4415fe696254,ISIC_4427596,40.0,upper extremity,benign,nevus,female,0
+5c954809db6d7c19d0bc4d56,ISIC_0072230,45.0,lower extremity,malignant,melanoma,male,1
+5592cfca9fc3c131551458a8,ISIC_0011605,50.0,anterior torso,benign,nevus,male,0
+5c9545d5db6d7c19d0bc0b4a,ISIC_0055322,30.0,palms/soles,benign,nevus,female,0
+5c95470ddb6d7c19d0bc2fb3,ISIC_0064643,40.0,anterior torso,benign,nevus,male,0
+5aaf144a1165976913638204,ISIC_0029510,45.0,posterior torso,benign,nevus,male,0
+5aaf13d0116597691363443c,ISIC_0028270,45.0,upper extremity,benign,nevus,female,0
+5aa316a71165972a9e9620ce,ISIC_0024305,85.0,torso,malignant,squamous cell carcinoma,male,1
+5c954755db6d7c19d0bc37e3,ISIC_0066739,40.0,lower extremity,benign,nevus,male,0
+558d60ccbae47801cf734510,ISIC_0010013,50.0,lower extremity,benign,nevus,male,0
+5aaf136e116597691363124e,ISIC_0027268,45.0,upper extremity,benign,nevus,female,0
+IP_9662709,ISIC_5365919,50.0,torso,benign,nevus,male,0
+5c9547cfdb6d7c19d0bc463d,ISIC_0070413,40.0,anterior torso,benign,nevus,female,0
+5aaf12a0116597691362a960,ISIC_0025163,50.0,anterior torso,benign,nevus,male,0
+581cd6e69fc3c13dcd0e1963,ISIC_0013085,45.0,anterior torso,benign,seborrheic keratosis,male,0
+IP_4750282,ISIC_8880492,45.0,torso,benign,nevus,female,0
+IP_2039882,ISIC_1867838,45.0,torso,benign,nevus,female,0
+5aaf161b1165976913646c74,ISIC_0034206,20.0,posterior torso,benign,nevus,female,0
+5c9545c3db6d7c19d0bc0933,ISIC_0054787,45.0,head/neck,malignant,melanoma,female,1
+5aaf12511165976913628271,ISIC_0024385,40.0,lower extremity,benign,nevus,female,0
+5436e3e3bae478396759f40b,ISIC_0000413,50.0,torso,malignant,melanoma,male,1
+IP_3420228,ISIC_5657535,30.0,torso,benign,nevus,female,0
+5c954824db6d7c19d0bc5073,ISIC_0073027,30.0,anterior torso,benign,nevus,female,0
+IP_3365162,ISIC_2651049,65.0,upper extremity,benign,seborrheic keratosis,male,0
+582b8ea19fc3c1566bbcb729,ISIC_0014833,20.0,upper extremity,benign,nevus,male,0
+5e8f94044ad5f6bd588b18b5,ISIC_5331102,55.0,lower extremity,malignant,melanoma,male,1
+IP_3780641,ISIC_1640023,70.0,torso,benign,nevus,female,0
+IP_6428232,ISIC_5774749,45.0,torso,benign,nevus,male,0
+5436e3fbbae478396759f522,ISIC_0000551,50.0,posterior torso,malignant,melanoma,male,1
+5e81062474440928c0be11e1,ISIC_4374944,55.0,lower extremity,benign,nevus,male,0
+5c9545e9db6d7c19d0bc0d95,ISIC_0055909,25.0,lower extremity,benign,nevus,male,0
+581cda619fc3c13dcd0e4ab0,ISIC_0014394,70.0,posterior torso,benign,nevus,male,0
+5aaf125011659769136281e3,ISIC_0024374,35.0,head/neck,benign,nevus,female,0
+5aaf12b9116597691362b5c9,ISIC_0025412,20.0,posterior torso,benign,nevus,female,0
+5c954606db6d7c19d0bc1104,ISIC_0056788,55.0,upper extremity,malignant,melanoma,male,1
+581cd9e29fc3c13dcd0e4411,ISIC_0014219,65.0,upper extremity,malignant,melanoma,female,1
+5e8402592a5a4415fe694e74,ISIC_1669883,45.0,upper extremity,benign,nevus,male,0
+5c9546b7db6d7c19d0bc258a,ISIC_0062042,75.0,anterior torso,malignant,melanoma,male,1
+5c954699db6d7c19d0bc21f7,ISIC_0061127,35.0,anterior torso,malignant,melanoma,male,1
+5e8403d92a5a4415fe6960dd,ISIC_1815282,55.0,lower extremity,benign,nevus,male,0
+581cdaa19fc3c13dcd0e4de0,ISIC_0014478,65.0,posterior torso,malignant,melanoma,male,1
+5aaf1491116597691363a5b3,ISIC_0030224,55.0,anterior torso,benign,nevus,female,0
+5c954622db6d7c19d0bc1404,ISIC_0057556,50.0,anterior torso,malignant,melanoma,female,1
+5aaf1514116597691363e79c,ISIC_0031545,75.0,posterior torso,malignant,melanoma,female,1
+5aaf1337116597691362f64f,ISIC_0026707,40.0,anterior torso,benign,nevus,female,0
+5e84024a2a5a4415fe694d29,ISIC_8076729,55.0,lower extremity,benign,nevus,male,0
+5592cc799fc3c13155145638,ISIC_0011538,60.0,upper extremity,benign,nevus,male,0
+5436e3d3bae478396759f34f,ISIC_0000319,50.0,posterior torso,benign,nevus,male,0
+581cd9719fc3c13dcd0e3e1c,ISIC_0014061,60.0,posterior torso,malignant,melanoma,female,1
+5e8107c874440928c0be268c,ISIC_3047981,60.0,head/neck,benign,seborrheic keratosis,male,0
+5e84038b2a5a4415fe6959dc,ISIC_0435596,55.0,lower extremity,benign,nevus,male,0
+5436e3c6bae478396759f23f,ISIC_0000183,30.0,anterior torso,benign,nevus,female,0
+IP_4092780,ISIC_5109296,55.0,torso,benign,nevus,male,0
+5aaf145b1165976913638b17,ISIC_0029692,50.0,posterior torso,benign,nevus,female,0
+5c95468ddb6d7c19d0bc2068,ISIC_0060728,40.0,head/neck,malignant,melanoma,female,1
+5e8105f674440928c0be0dfa,ISIC_4288522,45.0,posterior torso,benign,nevus,female,0
+5c9547e0db6d7c19d0bc485b,ISIC_0070955,55.0,oral/genital,benign,nevus,male,0
+5aaf1538116597691363f9fa,ISIC_0031913,65.0,posterior torso,benign,nevus,male,0
+5c9547a9db6d7c19d0bc4169,ISIC_0069177,40.0,upper extremity,benign,nevus,female,0
+5c9545eedb6d7c19d0bc0e27,ISIC_0056055,30.0,anterior torso,benign,nevus,male,0
+5e81031c74440928c0be045e,ISIC_4620906,35.0,posterior torso,benign,nevus,female,0
+5c9546e3db6d7c19d0bc2a86,ISIC_0063318,65.0,anterior torso,malignant,melanoma,male,1
+5aaf13e11165976913634cba,ISIC_0028441,80.0,anterior torso,benign,nevus,male,0
+5c9545afdb6d7c19d0bc06d8,ISIC_0054184,50.0,head/neck,benign,nevus,male,0
+5c9546a7db6d7c19d0bc23a2,ISIC_0061554,70.0,anterior torso,malignant,melanoma,male,1
+5c9545b3db6d7c19d0bc074e,ISIC_0054302,55.0,head/neck,malignant,melanoma,male,1
+5c9547c9db6d7c19d0bc4585,ISIC_0070229,55.0,lower extremity,benign,nevus,male,0
+5c95475ddb6d7c19d0bc38ca,ISIC_0066970,40.0,anterior torso,benign,nevus,female,0
+IP_4707488,ISIC_9073486,50.0,torso,benign,nevus,male,0
+5c954730db6d7c19d0bc33a7,ISIC_0065655,60.0,lower extremity,malignant,melanoma,male,1
+582b91529fc3c1566bbcc3f5,ISIC_0015181,40.0,head/neck,benign,seborrheic keratosis,male,0
+5aaf1536116597691363f8c7,ISIC_0031889,55.0,anterior torso,benign,nevus,male,0
+IP_7232395,ISIC_3313736,50.0,torso,benign,nevus,male,0
+5aaf15e01165976913644e38,ISIC_0033600,35.0,posterior torso,benign,nevus,male,0
+5aaf15bb1165976913643b9a,ISIC_0033227,45.0,anterior torso,benign,nevus,female,0
+5aaf13aa11659769136330bd,ISIC_0027879,40.0,lower extremity,benign,nevus,female,0
+5aaf1499116597691363a9b0,ISIC_0030304,55.0,lower extremity,benign,nevus,female,0
+5592ac939fc3c13155a57aee,ISIC_0011430,60.0,upper extremity,malignant,melanoma,female,1
+5aaf12e5116597691362cc4b,ISIC_0025864,45.0,lower extremity,benign,nevus,female,0
+582b90039fc3c1566bbcbdb3,ISIC_0015011,25.0,anterior torso,benign,nevus,female,0
+5e81061d74440928c0be1156,ISIC_8712921,35.0,posterior torso,benign,nevus,female,0
+5e8403d92a5a4415fe6960e3,ISIC_3803947,35.0,lower extremity,benign,nevus,female,0
+5c954676db6d7c19d0bc1da1,ISIC_0060017,85.0,head/neck,malignant,melanoma,female,1
+5e8100af74440928c0be02de,ISIC_6232156,35.0,anterior torso,benign,nevus,male,0
+5e81077174440928c0be2231,ISIC_0188432,50.0,upper extremity,malignant,melanoma,female,1
+5436e3c8bae478396759f255,ISIC_0000194,30.0,upper extremity,benign,nevus,male,0
+5c954802db6d7c19d0bc4c6d,ISIC_0071997,80.0,anterior torso,malignant,melanoma,female,1
+5e84037a2a5a4415fe695820,ISIC_6315037,45.0,lower extremity,benign,nevus,female,0
+581cd6b09fc3c13dcd0e15d3,ISIC_0012989,45.0,lateral torso,malignant,melanoma,male,1
+5aaf15c21165976913643ee7,ISIC_0033293,35.0,anterior torso,benign,nevus,female,0
+IP_6510081,ISIC_7706503,45.0,torso,benign,nevus,female,0
+IP_2675593,ISIC_7306535,55.0,torso,benign,nevus,female,0
+5592dc689fc3c13155145a6c,ISIC_0011711,25.0,anterior torso,malignant,melanoma,female,1
+IP_0423032,ISIC_4273914,45.0,torso,benign,nevus,male,0
+5aaf1507116597691363e0d8,ISIC_0031409,70.0,anterior torso,benign,nevus,male,0
+5aaf132e116597691362f1f2,ISIC_0026620,40.0,lower extremity,benign,nevus,male,0
+5aaf12db116597691362c736,ISIC_0025762,35.0,anterior torso,benign,nevus,male,0
+5c9546bbdb6d7c19d0bc25f9,ISIC_0062153,40.0,lower extremity,benign,nevus,female,0
+5e8402bc2a5a4415fe69578b,ISIC_3173734,35.0,lower extremity,benign,nevus,male,0
+5c95467adb6d7c19d0bc1e16,ISIC_0060134,35.0,lower extremity,benign,nevus,female,0
+5aaf15cc1165976913644422,ISIC_0033398,45.0,head/neck,benign,nevus,male,0
+5aaf127511659769136294b3,ISIC_0024751,45.0,lower extremity,benign,nevus,male,0
+5c954829db6d7c19d0bc511a,ISIC_0073194,55.0,lower extremity,malignant,melanoma,female,1
+5aaf13e21165976913634d2d,ISIC_0028450,55.0,posterior torso,benign,nevus,male,0
+5c954723db6d7c19d0bc323f,ISIC_0065295,40.0,anterior torso,benign,nevus,female,0
+5c9546b4db6d7c19d0bc252f,ISIC_0061951,60.0,anterior torso,benign,nevus,female,0
+5c9547a8db6d7c19d0bc414e,ISIC_0069150,40.0,anterior torso,benign,nevus,female,0
+5aaf14061165976913635fd8,ISIC_0028825,30.0,posterior torso,benign,nevus,female,0
+5e8f92114ad5f6bd588b10e3,ISIC_3994631,50.0,posterior torso,benign,nevus,female,0
+5c9545fadb6d7c19d0bc0f8d,ISIC_0056413,60.0,palms/soles,malignant,melanoma,female,1
+5aaf16001165976913645ec5,ISIC_0033932,60.0,upper extremity,benign,nevus,female,0
+5e81031d74440928c0be0467,ISIC_9891119,35.0,posterior torso,benign,nevus,female,0
+IP_1135236,ISIC_9259384,45.0,torso,benign,nevus,male,0
+5c9546addb6d7c19d0bc2457,ISIC_0061735,50.0,lower extremity,malignant,melanoma,female,1
+IP_2482649,ISIC_4961292,80.0,torso,benign,nevus,male,0
+5c9545b1db6d7c19d0bc0715,ISIC_0054245,25.0,anterior torso,benign,nevus,male,0
+5aaf1511116597691363e5c8,ISIC_0031508,55.0,anterior torso,benign,nevus,female,0
+IP_8191902,ISIC_7633322,60.0,torso,benign,nevus,male,0
+5e8402622a5a4415fe694f3f,ISIC_1133501,55.0,lower extremity,benign,nevus,male,0
+5aaf15d01165976913644645,ISIC_0033441,20.0,anterior torso,benign,nevus,female,0
+558d611ebae47801cf7346e4,ISIC_0010069,65.0,anterior torso,benign,nevus,female,0
+5aaf1345116597691362fd46,ISIC_0026847,65.0,posterior torso,malignant,melanoma,male,1
+5c954758db6d7c19d0bc384b,ISIC_0066843,60.0,upper extremity,benign,nevus,female,0
+IP_8039328,ISIC_8660830,40.0,torso,benign,nevus,female,0
+558d6487bae47801cf7353e3,ISIC_0011177,60.0,posterior torso,benign,nevus,male,0
+5c954603db6d7c19d0bc10bd,ISIC_0056717,75.0,lower extremity,malignant,melanoma,male,1
+581cd78f9fc3c13dcd0e23d4,ISIC_0013364,50.0,head/neck,benign,seborrheic keratosis,female,0
+5c954771db6d7c19d0bc3ae9,ISIC_0067513,50.0,upper extremity,malignant,melanoma,female,1
+5c95475fdb6d7c19d0bc38f1,ISIC_0067009,50.0,upper extremity,malignant,melanoma,male,1
+582b8fbf9fc3c1566bbcbc63,ISIC_0014975,70.0,head/neck,malignant,melanoma,male,1
+5c954648db6d7c19d0bc188c,ISIC_0058716,65.0,head/neck,malignant,melanoma,male,1
+582b946c9fc3c1566bbcd1f3,ISIC_0015563,45.0,upper extremity,benign,nevus,female,0
+5e81059774440928c0be0913,ISIC_5267208,55.0,posterior torso,malignant,melanoma,female,1
+5c9547d6db6d7c19d0bc4712,ISIC_0070626,30.0,anterior torso,benign,nevus,female,0
+5e8403ab2a5a4415fe695cd3,ISIC_0781161,45.0,lower extremity,benign,nevus,male,0
+5c9545a2db6d7c19d0bc0582,ISIC_0053842,65.0,upper extremity,benign,nevus,female,0
+5aaf132b116597691362f072,ISIC_0026589,45.0,upper extremity,benign,nevus,female,0
+5aaf157311659769136416e8,ISIC_0032491,70.0,lower extremity,benign,nevus,male,0
+5aaf15851165976913641fdd,ISIC_0032670,20.0,anterior torso,benign,nevus,female,0
+5aaf158f11659769136424db,ISIC_0032770,40.0,lower extremity,benign,nevus,female,0
+5aaf149c116597691363ab22,ISIC_0030333,80.0,upper extremity,malignant,melanoma,male,1
+5c954770db6d7c19d0bc3acc,ISIC_0067484,45.0,lower extremity,benign,nevus,male,0
+5aaf158d116597691364240a,ISIC_0032753,70.0,lower extremity,benign,nevus,male,0
+5c954598db6d7c19d0bc047b,ISIC_0053579,25.0,anterior torso,benign,nevus,female,0
+5e8402b12a5a4415fe695682,ISIC_1733995,50.0,lower extremity,benign,nevus,female,0
+558d64a6bae47801cf7354a0,ISIC_0011240,50.0,upper extremity,benign,nevus,female,0
+5e8107d674440928c0be27bb,ISIC_1613289,55.0,posterior torso,benign,nevus,male,0
+5c954670db6d7c19d0bc1cd5,ISIC_0059813,40.0,anterior torso,benign,nevus,female,0
+5aaf161f1165976913646e51,ISIC_0034243,45.0,lower extremity,malignant,melanoma,female,1
+5c95467edb6d7c19d0bc1e9a,ISIC_0060266,60.0,lower extremity,malignant,melanoma,female,1
+581cd8d79fc3c13dcd0e357f,ISIC_0013832,65.0,posterior torso,malignant,melanoma,male,1
+5e8fb17c396583e25a505697,ISIC_5814177,60.0,lower extremity,benign,nevus,male,0
+558d6424bae47801cf73519d,ISIC_0010983,55.0,head/neck,benign,nevus,male,0
+5aaf14521165976913638686,ISIC_0029601,35.0,upper extremity,benign,nevus,male,0
+581cd68e9fc3c13dcd0e139c,ISIC_0012930,70.0,posterior torso,malignant,melanoma,female,1
+5aaf125d116597691362885a,ISIC_0024503,50.0,lower extremity,benign,nevus,male,0
+558d6396bae47801cf734e52,ISIC_0010702,60.0,posterior torso,benign,nevus,male,0
+5c954657db6d7c19d0bc1a38,ISIC_0059144,35.0,anterior torso,benign,nevus,female,0
+558d63ccbae47801cf734f96,ISIC_0010810,80.0,head/neck,malignant,melanoma,female,1
+5e8402a42a5a4415fe69554d,ISIC_5410088,55.0,lower extremity,benign,nevus,female,0
+558d6460bae47801cf735302,ISIC_0011102,75.0,upper extremity,benign,nevus,female,0
+5c954612db6d7c19d0bc1234,ISIC_0057092,25.0,anterior torso,benign,nevus,male,0
+IP_4194721,ISIC_1674580,50.0,torso,benign,nevus,male,0
+5aaf14db116597691363cae5,ISIC_0030969,40.0,upper extremity,benign,nevus,male,0
+5aaf146d11659769136393ea,ISIC_0029869,45.0,upper extremity,benign,nevus,female,0
+5c9546b4db6d7c19d0bc2538,ISIC_0061960,45.0,anterior torso,malignant,melanoma,male,1
+5593f41f9fc3c13155146061,ISIC_0011834,45.0,lower extremity,benign,lentigo simplex,female,0
+5aaf143b1165976913637a66,ISIC_0029357,50.0,lower extremity,benign,nevus,female,0
+5c954822db6d7c19d0bc5040,ISIC_0072976,80.0,head/neck,malignant,melanoma,male,1
+5aaf13c8116597691363404c,ISIC_0028191,35.0,upper extremity,benign,nevus,female,0
+5aaf12d1116597691362c257,ISIC_0025664,50.0,lower extremity,benign,nevus,female,0
+5c954604db6d7c19d0bc10d2,ISIC_0056738,50.0,anterior torso,benign,nevus,female,0
+5c9546a8db6d7c19d0bc23a8,ISIC_0061560,35.0,anterior torso,benign,nevus,female,0
+5aaf144e1165976913638466,ISIC_0029558,75.0,upper extremity,malignant,melanoma,male,1
+5e8403a92a5a4415fe695c9b,ISIC_6968982,50.0,upper extremity,benign,nevus,male,0
+5aaf12a3116597691362aaf3,ISIC_0025195,60.0,posterior torso,malignant,melanoma,female,1
+5aaf15801165976913641da7,ISIC_0032626,35.0,upper extremity,malignant,melanoma,female,1
+5c954662db6d7c19d0bc1b23,ISIC_0059379,45.0,anterior torso,benign,nevus,male,0
+558d62fcbae47801cf734ab6,ISIC_0010394,85.0,posterior torso,malignant,melanoma,male,1
+5c9546c0db6d7c19d0bc26a5,ISIC_0062325,50.0,anterior torso,malignant,melanoma,female,1
+5c954633db6d7c19d0bc161a,ISIC_0058090,35.0,anterior torso,benign,nevus,male,0
+5e95f299396583e25a50787d,ISIC_5576354,85.0,posterior torso,malignant,melanoma,female,1
+559431699fc3c13155146267,ISIC_0011876,40.0,lower extremity,malignant,melanoma,female,1
+5c954610db6d7c19d0bc11ff,ISIC_0057039,40.0,anterior torso,benign,nevus,female,0
+5c9545eddb6d7c19d0bc0e16,ISIC_0056038,45.0,upper extremity,benign,nevus,female,0
+5aaf1339116597691362f716,ISIC_0026723,35.0,lower extremity,benign,nevus,male,0
+5436e3f7bae478396759f4e2,ISIC_0000519,50.0,posterior torso,malignant,melanoma,male,1
+IP_0891666,ISIC_9441572,70.0,torso,benign,nevus,male,0
+581cda319fc3c13dcd0e4819,ISIC_0014325,70.0,upper extremity,malignant,melanoma,female,1
+5aaf13bf1165976913633b44,ISIC_0028090,55.0,lower extremity,benign,nevus,male,0
+5c954708db6d7c19d0bc2f11,ISIC_0064481,40.0,anterior torso,malignant,melanoma,male,1
+5e8403df2a5a4415fe69614c,ISIC_6811363,45.0,upper extremity,benign,nevus,male,0
+IP_4837579,ISIC_0761713,30.0,torso,benign,nevus,female,0
+5aaf13ca1165976913634146,ISIC_0028211,65.0,head/neck,malignant,melanoma,male,1
+5aaf146f11659769136394bb,ISIC_0029885,35.0,posterior torso,malignant,melanoma,male,1
+IP_9284916,ISIC_6985114,55.0,torso,benign,nevus,male,0
+581cd6979fc3c13dcd0e142f,ISIC_0012945,60.0,head/neck,benign,nevus,female,0
+5c954800db6d7c19d0bc4c3b,ISIC_0071947,80.0,anterior torso,benign,nevus,female,0
+5c9545eedb6d7c19d0bc0e34,ISIC_0056068,35.0,upper extremity,benign,nevus,male,0
+5436e3f6bae478396759f4d6,ISIC_0000513,50.0,upper extremity,malignant,melanoma,male,1
+558d64dabae47801cf7355d5,ISIC_0011343,25.0,upper extremity,benign,nevus,female,0
+5c954703db6d7c19d0bc2e64,ISIC_0064308,45.0,anterior torso,benign,nevus,female,0
+5aaf1576116597691364188f,ISIC_0032524,55.0,posterior torso,benign,nevus,male,0
+5aaf137c1165976913631917,ISIC_0027404,35.0,anterior torso,benign,nevus,male,0
+582b8e539fc3c1566bbcb5b8,ISIC_0014793,50.0,upper extremity,benign,seborrheic keratosis,female,0
+5aaf13cb1165976913634171,ISIC_0028214,50.0,head/neck,benign,nevus,male,0
+5aaf134b1165976913630055,ISIC_0026909,30.0,lower extremity,malignant,melanoma,female,1
+IP_6676060,ISIC_9477362,45.0,torso,benign,nevus,female,0
+558d60b0bae47801cf734468,ISIC_0009957,45.0,posterior torso,benign,nevus,male,0
+5c95478fdb6d7c19d0bc3e35,ISIC_0068357,55.0,anterior torso,benign,nevus,female,0
+5e81061f74440928c0be1180,ISIC_4388706,50.0,upper extremity,benign,lentigo NOS,female,0
+5aaf158b1165976913642330,ISIC_0032736,65.0,anterior torso,malignant,melanoma,male,1
+558d63adbae47801cf734ed6,ISIC_0010746,65.0,anterior torso,malignant,melanoma,male,1
+5c95481edb6d7c19d0bc4fc2,ISIC_0072850,50.0,upper extremity,benign,nevus,female,0
+5e8403862a5a4415fe69595d,ISIC_7350199,65.0,upper extremity,benign,nevus,female,0
+5aaf157b1165976913641b49,ISIC_0032579,55.0,lower extremity,benign,nevus,female,0
+5e8faa10396583e25a5050cc,ISIC_9210255,55.0,anterior torso,malignant,melanoma,male,1
+5e84039d2a5a4415fe695b75,ISIC_5855835,35.0,lower extremity,benign,nevus,female,0
+581cd98b9fc3c13dcd0e3f5e,ISIC_0014094,45.0,posterior torso,benign,nevus,female,0
+5aaf139f1165976913632af6,ISIC_0027763,55.0,anterior torso,benign,nevus,male,0
+558d6473bae47801cf735371,ISIC_0011139,70.0,head/neck,malignant,melanoma,male,1
+5aaf12c0116597691362b9bc,ISIC_0025491,60.0,posterior torso,benign,nevus,male,0
+IP_9160612,ISIC_1334438,60.0,torso,benign,nevus,female,0
+5e80fcbf74440928c0bdfd21,ISIC_7681593,30.0,anterior torso,benign,nevus,male,0
+581cdab09fc3c13dcd0e4eac,ISIC_0014498,35.0,anterior torso,benign,nevus,female,0
+IP_4852531,ISIC_8571168,55.0,torso,benign,nevus,male,0
+5e8403d82a5a4415fe6960c4,ISIC_7430728,50.0,lower extremity,benign,nevus,female,0
+5aaf155a1165976913640add,ISIC_0032251,40.0,lower extremity,benign,nevus,female,0
+5592cc769fc3c13155145633,ISIC_0011537,75.0,lower extremity,malignant,melanoma,male,1
+5aaf15e01165976913644e2a,ISIC_0033599,65.0,posterior torso,benign,nevus,female,0
+5aaf15571165976913640945,ISIC_0032219,85.0,posterior torso,malignant,melanoma,male,1
+5aaf132d116597691362f16f,ISIC_0026609,40.0,posterior torso,benign,nevus,female,0
+5c954686db6d7c19d0bc1f94,ISIC_0060516,20.0,lower extremity,benign,nevus,female,0
+5c9547f8db6d7c19d0bc4b24,ISIC_0071668,45.0,anterior torso,malignant,melanoma,female,1
+5aaf13f611659769136357f7,ISIC_0028667,45.0,lower extremity,benign,nevus,female,0
+5aaf12a6116597691362ac8b,ISIC_0025227,50.0,posterior torso,benign,nevus,male,0
+5c9546dcdb6d7c19d0bc29c3,ISIC_0063123,50.0,anterior torso,benign,nevus,male,0
+5aaf13f51165976913635712,ISIC_0028649,60.0,lower extremity,benign,nevus,male,0
+559437f09fc3c1315514668a,ISIC_0012085,25.0,lateral torso,benign,nevus,male,0
+5aaf16171165976913646a14,ISIC_0034158,55.0,lower extremity,benign,nevus,male,0
+IP_8007888,ISIC_3890800,40.0,torso,benign,nevus,male,0
+5c954619db6d7c19d0bc1313,ISIC_0057315,60.0,anterior torso,malignant,melanoma,male,1
+5592cfca9fc3c1315514592c,ISIC_0011649,85.0,lower extremity,malignant,melanoma,male,1
+5e8fb417396583e25a5059c3,ISIC_5613297,75.0,posterior torso,benign,nevus,male,0
+IP_6616887,ISIC_5730062,70.0,torso,benign,nevus,female,0
+5aaf1496116597691363a897,ISIC_0030282,50.0,upper extremity,benign,nevus,female,0
+5c9545f9db6d7c19d0bc0f80,ISIC_0056400,30.0,anterior torso,benign,nevus,male,0
+5e81073f74440928c0be20e1,ISIC_5144730,30.0,head/neck,benign,nevus,female,0
+5c9546b5db6d7c19d0bc255d,ISIC_0061997,35.0,head/neck,malignant,melanoma,male,1
+582b90519fc3c1566bbcbf27,ISIC_0015051,65.0,lateral torso,benign,nevus,male,0
+5aaf1567116597691364113e,ISIC_0032378,55.0,anterior torso,benign,nevus,female,0
+5c954673db6d7c19d0bc1d3c,ISIC_0059916,65.0,anterior torso,benign,nevus,male,0
+5e8403c22a5a4415fe695ec0,ISIC_1288751,45.0,lower extremity,benign,nevus,male,0
+5aaf1309116597691362def9,ISIC_0026239,55.0,anterior torso,malignant,melanoma,male,1
+5c95478adb6d7c19d0bc3d9d,ISIC_0068205,45.0,anterior torso,benign,nevus,female,0
+5e8403bb2a5a4415fe695e1b,ISIC_3535007,65.0,lower extremity,benign,nevus,male,0
+5c95478ddb6d7c19d0bc3e01,ISIC_0068305,15.0,anterior torso,benign,nevus,male,0
+5aaf13d01165976913634447,ISIC_0028271,35.0,lower extremity,benign,nevus,male,0
+558d6412bae47801cf735134,ISIC_0010948,10.0,posterior torso,benign,nevus,male,0
+5c95478adb6d7c19d0bc3daa,ISIC_0068218,50.0,anterior torso,malignant,melanoma,female,1
+IP_2675593,ISIC_2458845,60.0,torso,benign,nevus,female,0
+5e8402b72a5a4415fe695704,ISIC_9869789,40.0,lower extremity,benign,nevus,female,0
+5aaf14fd116597691363db6c,ISIC_0031300,45.0,anterior torso,benign,nevus,male,0
+5c95470ddb6d7c19d0bc2fb8,ISIC_0064648,40.0,anterior torso,benign,nevus,male,0
+5c9546e4db6d7c19d0bc2ab9,ISIC_0063369,65.0,anterior torso,malignant,melanoma,male,1
+5aaf15491165976913640230,ISIC_0032077,30.0,upper extremity,benign,nevus,female,0
+5c954739db6d7c19d0bc34bb,ISIC_0065931,55.0,upper extremity,benign,nevus,female,0
+5e8402a62a5a4415fe695570,ISIC_0543132,70.0,head/neck,benign,nevus,male,0
+5c9545fedb6d7c19d0bc1025,ISIC_0056565,30.0,lower extremity,benign,nevus,female,0
+5aaf15e6116597691364516c,ISIC_0033664,50.0,lower extremity,benign,nevus,female,0
+IP_2873493,ISIC_9431739,60.0,torso,benign,nevus,male,0
+5e8402a32a5a4415fe695525,ISIC_9059293,55.0,upper extremity,benign,nevus,male,0
+5c954647db6d7c19d0bc1873,ISIC_0058691,20.0,head/neck,benign,nevus,male,0
+5e8403822a5a4415fe6958ef,ISIC_6869019,40.0,lower extremity,benign,nevus,female,0
+5c9547cadb6d7c19d0bc459d,ISIC_0070253,70.0,head/neck,malignant,melanoma,female,1
+5e84025d2a5a4415fe694ec6,ISIC_2339849,45.0,upper extremity,benign,nevus,female,0
+5aaf133c116597691362f8d2,ISIC_0026758,45.0,lower extremity,benign,nevus,male,0
+5c954667db6d7c19d0bc1bb5,ISIC_0059525,55.0,upper extremity,malignant,melanoma,female,1
+5aaf154a11659769136402d7,ISIC_0032090,45.0,head/neck,benign,nevus,female,0
+5aaf12d7116597691362c52b,ISIC_0025721,35.0,lower extremity,benign,nevus,male,0
+5e8402512a5a4415fe694db4,ISIC_8641048,55.0,lower extremity,benign,nevus,female,0
+5c95465fdb6d7c19d0bc1ad3,ISIC_0059299,25.0,anterior torso,benign,nevus,male,0
+5aaf1353116597691363042c,ISIC_0026985,70.0,anterior torso,benign,nevus,male,0
+5e8403e72a5a4415fe696216,ISIC_3385425,55.0,lower extremity,benign,nevus,female,0
+5c954647db6d7c19d0bc185a,ISIC_0058666,85.0,anterior torso,malignant,melanoma,female,1
+5e81066b74440928c0be1528,ISIC_2741716,60.0,upper extremity,benign,nevus,male,0
+5e8403a92a5a4415fe695ca5,ISIC_8068865,35.0,lower extremity,benign,nevus,female,0
+5e8f94554ad5f6bd588b190e,ISIC_5033871,70.0,posterior torso,benign,nevus,female,0
+5aaf15821165976913641e8c,ISIC_0032644,35.0,lower extremity,benign,nevus,female,0
+558d612dbae47801cf734741,ISIC_0010100,50.0,lower extremity,benign,nevus,female,0
+5aaf12c8116597691362bd75,ISIC_0025566,35.0,posterior torso,benign,nevus,female,0
+582b902d9fc3c1566bbcbe76,ISIC_0015032,65.0,anterior torso,benign,seborrheic keratosis,female,0
+IP_2411134,ISIC_8366570,40.0,torso,benign,nevus,female,0
+5c9545ebdb6d7c19d0bc0de0,ISIC_0055984,75.0,anterior torso,malignant,melanoma,male,1
+581cda8d9fc3c13dcd0e4cf3,ISIC_0014453,55.0,anterior torso,benign,nevus,male,0
+5e8402592a5a4415fe694e6b,ISIC_9571782,55.0,lower extremity,benign,nevus,female,0
+5c954754db6d7c19d0bc37c7,ISIC_0066711,35.0,anterior torso,benign,nevus,male,0
+5c95473cdb6d7c19d0bc3501,ISIC_0066001,60.0,anterior torso,malignant,melanoma,male,1
+5c954684db6d7c19d0bc1f5d,ISIC_0060461,40.0,lower extremity,benign,nevus,female,0
+5aaf14e5116597691363cfd2,ISIC_0031068,45.0,lower extremity,benign,nevus,male,0
+IP_3293726,ISIC_2021296,75.0,torso,benign,nevus,male,0
+5e84038e2a5a4415fe695a09,ISIC_4086312,80.0,lower extremity,benign,nevus,male,0
+5aaf1514116597691363e790,ISIC_0031544,45.0,lower extremity,benign,nevus,female,0
+5aaf14fc116597691363db1b,ISIC_0031293,30.0,posterior torso,benign,nevus,male,0
+5c954755db6d7c19d0bc37de,ISIC_0066734,50.0,head/neck,malignant,melanoma,male,1
+5e80f8a174440928c0bdedda,ISIC_1467583,65.0,anterior torso,benign,lichenoid keratosis,male,0
+5c954713db6d7c19d0bc3065,ISIC_0064821,55.0,upper extremity,malignant,melanoma,male,1
+5c9545dbdb6d7c19d0bc0bfb,ISIC_0055499,20.0,head/neck,benign,nevus,male,0
+5aaf155d1165976913640c49,ISIC_0032279,65.0,posterior torso,benign,nevus,male,0
+5c9547e9db6d7c19d0bc4958,ISIC_0071208,85.0,head/neck,malignant,melanoma,female,1
+5aaf13d81165976913634886,ISIC_0028356,40.0,lower extremity,benign,nevus,female,0
+5aaf125811659769136285ff,ISIC_0024456,75.0,posterior torso,benign,nevus,female,0
+IP_0358262,ISIC_7175127,50.0,torso,benign,nevus,male,0
+5aaf14a8116597691363b120,ISIC_0030453,30.0,lower extremity,benign,nevus,female,0
+5e8402ac2a5a4415fe695602,ISIC_4569077,60.0,lower extremity,benign,nevus,female,0
+5c9547fcdb6d7c19d0bc4b96,ISIC_0071782,85.0,lower extremity,malignant,melanoma,female,1
+5c954737db6d7c19d0bc3478,ISIC_0065864,40.0,anterior torso,malignant,melanoma,female,1
+5aaf133d116597691362f956,ISIC_0026768,55.0,lower extremity,benign,nevus,male,0
+5aaf14341165976913637753,ISIC_0029296,40.0,posterior torso,benign,nevus,female,0
+5c9545a4db6d7c19d0bc05b6,ISIC_0053894,45.0,lower extremity,benign,nevus,female,0
+5aaf12c8116597691362bd8f,ISIC_0025568,50.0,posterior torso,benign,nevus,female,0
+5aaf15bb1165976913643b6b,ISIC_0033223,20.0,posterior torso,benign,nevus,male,0
+5aaf148a116597691363a25b,ISIC_0030157,25.0,upper extremity,benign,nevus,female,0
+IP_7674640,ISIC_6764541,55.0,torso,benign,nevus,female,0
+5c95466edb6d7c19d0bc1c91,ISIC_0059745,75.0,anterior torso,benign,nevus,male,0
+581cd8269fc3c13dcd0e2bae,ISIC_0013572,50.0,lower extremity,malignant,melanoma,male,1
+5aaf12b0116597691362b158,ISIC_0025323,60.0,anterior torso,benign,nevus,female,0
+IP_2411134,ISIC_3964401,35.0,torso,benign,nevus,female,0
+5aaf125c11659769136287c7,ISIC_0024492,60.0,lower extremity,benign,nevus,male,0
+582b91949fc3c1566bbcc527,ISIC_0015215,45.0,lower extremity,benign,nevus,female,0
+IP_4841609,ISIC_5347727,55.0,torso,benign,nevus,female,0
+5436e3cabae478396759f287,ISIC_0000219,35.0,lower extremity,benign,nevus,male,0
+5aaf139a1165976913632884,ISIC_0027714,50.0,posterior torso,benign,nevus,female,0
+5c954792db6d7c19d0bc3e9e,ISIC_0068462,60.0,anterior torso,benign,nevus,male,0
+IP_8547782,ISIC_8971579,50.0,torso,benign,nevus,male,0
+5c954669db6d7c19d0bc1c04,ISIC_0059604,70.0,anterior torso,benign,nevus,male,0
+5aaf138f11659769136322a1,ISIC_0027596,35.0,lower extremity,benign,nevus,female,0
+5c954684db6d7c19d0bc1f57,ISIC_0060455,55.0,anterior torso,benign,nevus,female,0
+581cd73d9fc3c13dcd0e1fc3,ISIC_0013257,30.0,anterior torso,benign,nevus,male,0
+5aaf14de116597691363cc77,ISIC_0031001,45.0,posterior torso,benign,nevus,male,0
+5aaf16211165976913646f2b,ISIC_0034260,65.0,anterior torso,benign,nevus,male,0
+IP_8494731,ISIC_9479460,35.0,torso,benign,nevus,female,0
+5e8402562a5a4415fe694e17,ISIC_5721110,50.0,lower extremity,benign,nevus,female,0
+5c954646db6d7c19d0bc1854,ISIC_0058660,55.0,lower extremity,malignant,melanoma,female,1
+5aaf1304116597691362dc6e,ISIC_0026188,70.0,torso,malignant,melanoma,male,1
+5aaf126a1165976913628f17,ISIC_0024638,45.0,lower extremity,benign,nevus,male,0
+IP_3008149,ISIC_2671817,65.0,head/neck,benign,seborrheic keratosis,male,0
+5aaf12c8116597691362bdd5,ISIC_0025573,80.0,anterior torso,malignant,melanoma,male,1
+5aaf161a1165976913646ba9,ISIC_0034190,20.0,head/neck,benign,nevus,female,0
+5aaf127c11659769136297cd,ISIC_0024813,30.0,posterior torso,benign,nevus,male,0
+5c954640db6d7c19d0bc1797,ISIC_0058471,80.0,palms/soles,malignant,melanoma,male,1
+581cd6219fc3c13dcd0e0bb6,ISIC_0012720,75.0,upper extremity,benign,seborrheic keratosis,female,0
+558d62f4bae47801cf734a86,ISIC_0010378,45.0,anterior torso,benign,lentigo simplex,male,0
+5c954706db6d7c19d0bc2ed1,ISIC_0064417,65.0,anterior torso,benign,nevus,male,0
+IP_9985810,ISIC_4264600,45.0,torso,benign,nevus,female,0
+5c95472fdb6d7c19d0bc338e,ISIC_0065630,65.0,lower extremity,benign,nevus,female,0
+5592cfca9fc3c1315514589f,ISIC_0011602,50.0,posterior torso,benign,nevus,female,0
+558d60c6bae47801cf7344e9,ISIC_0010000,60.0,lower extremity,malignant,melanoma,female,1
+5e8403812a5a4415fe6958e1,ISIC_2927289,50.0,lower extremity,benign,nevus,male,0
+5aaf132e116597691362f19f,ISIC_0026613,40.0,lower extremity,benign,nevus,female,0
+5aa30c731165972a9e961c60,ISIC_0024263,45.0,torso,malignant,melanoma,male,1
+5e8402b62a5a4415fe6956f8,ISIC_9906657,50.0,upper extremity,benign,nevus,male,0
+5c9545d7db6d7c19d0bc0b89,ISIC_0055385,60.0,head/neck,benign,nevus,male,0
+5c9546f7db6d7c19d0bc2cfe,ISIC_0063950,80.0,palms/soles,malignant,melanoma,female,1
+558d6406bae47801cf7350e9,ISIC_0010923,80.0,head/neck,malignant,melanoma,female,1
+5e8402652a5a4415fe694f80,ISIC_2817348,30.0,lower extremity,benign,nevus,female,0
+5c954749db6d7c19d0bc3689,ISIC_0066393,35.0,lower extremity,benign,nevus,male,0
+5e80fca574440928c0bdfb56,ISIC_4508878,75.0,upper extremity,malignant,melanoma,male,1
+558d641dbae47801cf735173,ISIC_0010969,30.0,anterior torso,benign,nevus,male,0
+IP_2316840,ISIC_5437356,45.0,torso,benign,nevus,male,0
+582b91259fc3c1566bbcc30b,ISIC_0015157,50.0,posterior torso,benign,nevus,female,0
+5aaf159b1165976913642b11,ISIC_0032895,40.0,lower extremity,benign,nevus,male,0
+5c9546c9db6d7c19d0bc27bb,ISIC_0062603,65.0,anterior torso,benign,nevus,male,0
+5e84029d2a5a4415fe6954ae,ISIC_5534167,85.0,lower extremity,benign,nevus,male,0
+5c954664db6d7c19d0bc1b50,ISIC_0059424,50.0,lower extremity,malignant,melanoma,male,1
+581cd82d9fc3c13dcd0e2c0b,ISIC_0013581,60.0,upper extremity,malignant,melanoma,female,1
+5aaf13c9116597691363407c,ISIC_0028195,35.0,upper extremity,benign,nevus,female,0
+5c95464bdb6d7c19d0bc18da,ISIC_0058794,65.0,anterior torso,malignant,melanoma,male,1
+5c95470adb6d7c19d0bc2f5a,ISIC_0064554,35.0,anterior torso,benign,nevus,female,0
+5aaf125d1165976913628887,ISIC_0024507,30.0,anterior torso,benign,nevus,female,0
+5aaf12bb116597691362b702,ISIC_0025436,55.0,posterior torso,benign,nevus,male,0
+5aaf14421165976913637e11,ISIC_0029431,55.0,lower extremity,benign,nevus,female,0
+5aaf1294116597691362a356,ISIC_0025043,30.0,head/neck,benign,nevus,male,0
+5aaf15761165976913641884,ISIC_0032523,65.0,anterior torso,benign,nevus,male,0
+5c9547f4db6d7c19d0bc4a9c,ISIC_0071532,85.0,anterior torso,malignant,melanoma,male,1
+5c95459edb6d7c19d0bc051e,ISIC_0053742,40.0,anterior torso,malignant,melanoma,female,1
+5e8402672a5a4415fe694fc1,ISIC_7064137,55.0,upper extremity,benign,nevus,female,0
+5aaf15f11165976913645721,ISIC_0033779,35.0,posterior torso,malignant,melanoma,male,1
+558d6390bae47801cf734e2e,ISIC_0010690,50.0,lower extremity,malignant,melanoma,female,1
+54e75602bae47850e86ce09e,ISIC_0001143,75.0,upper extremity,malignant,melanoma,male,1
+5aaf1616116597691364698c,ISIC_0034148,25.0,anterior torso,benign,nevus,female,0
+5e80fcb374440928c0bdfc5a,ISIC_5747942,45.0,upper extremity,malignant,melanoma,male,1
+5e95f30f396583e25a50829e,ISIC_9547725,35.0,posterior torso,malignant,melanoma,female,1
+5e8403d72a5a4415fe6960b5,ISIC_0950828,50.0,lower extremity,benign,nevus,male,0
+5c954765db6d7c19d0bc3990,ISIC_0067168,40.0,anterior torso,benign,nevus,male,0
+5aaf141411659769136366e3,ISIC_0028966,10.0,lower extremity,benign,nevus,female,0
+5c954743db6d7c19d0bc35cc,ISIC_0066204,60.0,anterior torso,malignant,melanoma,male,1
+5c9547f5db6d7c19d0bc4ac8,ISIC_0071576,70.0,lower extremity,malignant,melanoma,male,1
+5aaf14651165976913638fc7,ISIC_0029786,50.0,posterior torso,benign,nevus,male,0
+5c954719db6d7c19d0bc3111,ISIC_0064993,75.0,head/neck,malignant,melanoma,male,1
+5c9547b6db6d7c19d0bc42fd,ISIC_0069581,30.0,palms/soles,benign,nevus,female,0
+581cd7239fc3c13dcd0e1df2,ISIC_0013208,65.0,anterior torso,benign,nevus,female,0
+5c95459fdb6d7c19d0bc0527,ISIC_0053751,55.0,lower extremity,malignant,melanoma,male,1
+5aaf13b51165976913633687,ISIC_0027995,45.0,posterior torso,benign,nevus,male,0
+5e8f903c4ad5f6bd588b0a0e,ISIC_4163686,45.0,upper extremity,malignant,melanoma,female,1
+5c9547d3db6d7c19d0bc46c7,ISIC_0070551,75.0,anterior torso,malignant,melanoma,female,1
+5c9545dadb6d7c19d0bc0bd4,ISIC_0055460,70.0,anterior torso,malignant,melanoma,male,1
+5aaf13e41165976913634e84,ISIC_0028477,45.0,lower extremity,benign,nevus,male,0
+5c95462cdb6d7c19d0bc1533,ISIC_0057859,20.0,anterior torso,benign,nevus,male,0
+582b939d9fc3c1566bbcce54,ISIC_0015464,70.0,anterior torso,benign,nevus,male,0
+5e8403c02a5a4415fe695e98,ISIC_1554992,45.0,lower extremity,benign,nevus,male,0
+5aaf13d41165976913634651,ISIC_0028312,50.0,anterior torso,benign,nevus,male,0
+5aaf15861165976913642081,ISIC_0032683,40.0,posterior torso,benign,nevus,female,0
+IP_6428232,ISIC_0546225,45.0,torso,benign,nevus,male,0
+5aaf128c116597691362a046,ISIC_0024983,45.0,lower extremity,benign,nevus,male,0
+IP_2976930,ISIC_8205614,35.0,torso,benign,nevus,female,0
+5c95473edb6d7c19d0bc3544,ISIC_0066068,30.0,anterior torso,benign,nevus,male,0
+5c9546fddb6d7c19d0bc2db1,ISIC_0064129,50.0,anterior torso,malignant,melanoma,male,1
+5aaf1428116597691363713f,ISIC_0029174,80.0,head/neck,benign,nevus,male,0
+5c954756db6d7c19d0bc3804,ISIC_0066772,60.0,anterior torso,benign,nevus,male,0
+5c9546d8db6d7c19d0bc295a,ISIC_0063018,65.0,anterior torso,malignant,melanoma,male,1
+5c954714db6d7c19d0bc3075,ISIC_0064837,80.0,anterior torso,benign,nevus,male,0
+5c954815db6d7c19d0bc4eb2,ISIC_0072578,40.0,anterior torso,benign,nevus,male,0
+5aaf1407116597691363604d,ISIC_0028834,50.0,posterior torso,benign,nevus,male,0
+558d613abae47801cf734786,ISIC_0010123,60.0,lower extremity,benign,nevus,female,0
+IP_8782040,ISIC_2672001,55.0,torso,benign,nevus,female,0
+558d613cbae47801cf73478f,ISIC_0010126,25.0,head/neck,benign,nevus,female,0
+5c95473ddb6d7c19d0bc3521,ISIC_0066033,40.0,anterior torso,benign,nevus,male,0
+5c9547dadb6d7c19d0bc47a6,ISIC_0070774,25.0,lower extremity,benign,nevus,male,0
+5aaf13be1165976913633b1d,ISIC_0028087,65.0,posterior torso,malignant,melanoma,female,1
+5aaf1504116597691363dee7,ISIC_0031370,50.0,upper extremity,benign,nevus,male,0
+581cd71e9fc3c13dcd0e1d6a,ISIC_0013193,60.0,anterior torso,benign,nevus,male,0
+558d615ebae47801cf73484f,ISIC_0010190,45.0,posterior torso,benign,nevus,male,0
+5c954733db6d7c19d0bc3416,ISIC_0065766,60.0,anterior torso,malignant,melanoma,female,1
+5e8105a374440928c0be0a1d,ISIC_1772759,30.0,lower extremity,benign,nevus,male,0
+5c95460fdb6d7c19d0bc11cf,ISIC_0056991,45.0,upper extremity,malignant,melanoma,female,1
+5aaf160411659769136460e2,ISIC_0033974,40.0,posterior torso,benign,nevus,female,0
+5c95465ddb6d7c19d0bc1aa5,ISIC_0059253,60.0,anterior torso,malignant,melanoma,female,1
+IP_6887429,ISIC_0567676,40.0,torso,benign,nevus,male,0
+IP_7600629,ISIC_8892973,60.0,torso,benign,nevus,male,0
+5c95468ddb6d7c19d0bc206a,ISIC_0060730,25.0,head/neck,benign,nevus,male,0
+558d6465bae47801cf735323,ISIC_0011113,75.0,head/neck,benign,solar lentigo,male,0
+5aaf14ef116597691363d475,ISIC_0031160,35.0,upper extremity,benign,nevus,female,0
+5c9547c5db6d7c19d0bc44fc,ISIC_0070092,70.0,lower extremity,malignant,melanoma,female,1
+5aaf1316116597691362e5d7,ISIC_0026377,75.0,upper extremity,benign,nevus,female,0
+5c9546fadb6d7c19d0bc2d4c,ISIC_0064028,30.0,upper extremity,benign,nevus,male,0
+5c95468fdb6d7c19d0bc20aa,ISIC_0060794,45.0,upper extremity,benign,nevus,female,0
+558d6355bae47801cf734ccc,ISIC_0010572,30.0,posterior torso,benign,nevus,male,0
+5592dc969fc3c13155145ac1,ISIC_0011728,65.0,anterior torso,malignant,melanoma,male,1
+IP_3691058,ISIC_0477898,55.0,torso,benign,nevus,female,0
+5aaf13eb11659769136351de,ISIC_0028544,55.0,posterior torso,benign,nevus,male,0
+5e8f970f4ad5f6bd588b1f7d,ISIC_1979473,40.0,lower extremity,benign,nevus,female,0
+5e81009674440928c0be014e,ISIC_9189897,35.0,posterior torso,benign,nevus,male,0
+IP_4604869,ISIC_1081051,55.0,torso,benign,nevus,male,0
+5e8402652a5a4415fe694f7f,ISIC_3149402,50.0,head/neck,benign,nevus,female,0
+581cd7b99fc3c13dcd0e25d2,ISIC_0013416,35.0,anterior torso,benign,nevus,female,0
+5c9547e6db6d7c19d0bc4907,ISIC_0071127,40.0,anterior torso,benign,nevus,male,0
+5c954786db6d7c19d0bc3d1a,ISIC_0068074,50.0,lower extremity,malignant,melanoma,male,1
+5e8403922a5a4415fe695a63,ISIC_2649275,40.0,upper extremity,benign,nevus,male,0
+558d62e0bae47801cf734a0e,ISIC_0010338,45.0,anterior torso,benign,lentigo NOS,female,0
+5c954632db6d7c19d0bc15ee,ISIC_0058046,40.0,anterior torso,malignant,melanoma,female,1
+5e8402ae2a5a4415fe69563b,ISIC_0611629,55.0,lower extremity,benign,nevus,male,0
+5aaf13f211659769136355d9,ISIC_0028624,45.0,upper extremity,benign,nevus,male,0
+IP_0657134,ISIC_9851717,50.0,torso,benign,nevus,male,0
+5c954771db6d7c19d0bc3aeb,ISIC_0067515,65.0,anterior torso,malignant,melanoma,female,1
+5c954714db6d7c19d0bc3084,ISIC_0064852,60.0,anterior torso,benign,nevus,male,0
+5aaf128a1165976913629f49,ISIC_0024963,35.0,head/neck,benign,nevus,male,0
+5e8403912a5a4415fe695a44,ISIC_9387488,75.0,lower extremity,benign,nevus,male,0
+5c9546efdb6d7c19d0bc2bfe,ISIC_0063694,55.0,anterior torso,benign,nevus,male,0
+5c954636db6d7c19d0bc1666,ISIC_0058166,35.0,head/neck,benign,nevus,male,0
+5aaf14ae116597691363b46e,ISIC_0030519,55.0,upper extremity,benign,nevus,male,0
+5c9547c4db6d7c19d0bc44cb,ISIC_0070043,45.0,anterior torso,benign,nevus,male,0
+5c9545a8db6d7c19d0bc060c,ISIC_0053980,65.0,upper extremity,malignant,melanoma,male,1
+5c95472cdb6d7c19d0bc3329,ISIC_0065529,40.0,anterior torso,benign,nevus,male,0
+5c9547c2db6d7c19d0bc4490,ISIC_0069984,40.0,upper extremity,malignant,melanoma,male,1
+5aaf1331116597691362f367,ISIC_0026649,60.0,lower extremity,benign,nevus,female,0
+IP_3749901,ISIC_6522126,40.0,torso,benign,nevus,female,0
+581cd8429fc3c13dcd0e2d51,ISIC_0013615,85.0,upper extremity,malignant,melanoma,male,1
+5c954593db6d7c19d0bc0408,ISIC_0053464,20.0,anterior torso,benign,nevus,female,0
+5c95476edb6d7c19d0bc3aa3,ISIC_0067443,45.0,upper extremity,malignant,melanoma,male,1
+5c9546acdb6d7c19d0bc2443,ISIC_0061715,85.0,head/neck,malignant,melanoma,female,1
+5c954746db6d7c19d0bc3621,ISIC_0066289,50.0,anterior torso,malignant,melanoma,female,1
+IP_6233127,ISIC_4879187,60.0,torso,benign,nevus,female,0
+5c9547aadb6d7c19d0bc4196,ISIC_0069222,10.0,upper extremity,benign,nevus,male,0
+5c954737db6d7c19d0bc3489,ISIC_0065881,35.0,lower extremity,benign,nevus,male,0
+5aaf157c1165976913641bb8,ISIC_0032587,15.0,lower extremity,benign,nevus,female,0
+582b93759fc3c1566bbccd9d,ISIC_0015445,50.0,lower extremity,benign,nevus,female,0
+5e8403e62a5a4415fe6961ec,ISIC_8846817,50.0,upper extremity,benign,nevus,male,0
+5c9546fcdb6d7c19d0bc2d8b,ISIC_0064091,60.0,lower extremity,benign,nevus,female,0
+5aaf124d1165976913628040,ISIC_0024341,25.0,lower extremity,benign,nevus,female,0
+5c954770db6d7c19d0bc3ad7,ISIC_0067495,85.0,anterior torso,malignant,melanoma,male,1
+IP_9353814,ISIC_2149858,50.0,torso,benign,nevus,male,0
+5e80fc4c74440928c0bdf76f,ISIC_1085285,55.0,head/neck,benign,nevus,female,0
+IP_0657134,ISIC_7806065,55.0,torso,benign,nevus,male,0
+5aaf14601165976913638d38,ISIC_0029735,50.0,anterior torso,benign,nevus,male,0
+5aaf13f4116597691363567b,ISIC_0028637,65.0,posterior torso,benign,nevus,male,0
+5aaf138b116597691363206c,ISIC_0027552,40.0,head/neck,malignant,melanoma,male,1
+5c9545eedb6d7c19d0bc0e3e,ISIC_0056078,65.0,anterior torso,benign,nevus,male,0
+5c9546cadb6d7c19d0bc27d4,ISIC_0062628,85.0,head/neck,malignant,melanoma,female,1
+5c9546d8db6d7c19d0bc2964,ISIC_0063028,15.0,anterior torso,benign,nevus,male,0
+5aaf15971165976913642950,ISIC_0032860,40.0,head/neck,benign,nevus,female,0
+5c954781db6d7c19d0bc3c9d,ISIC_0067949,35.0,upper extremity,malignant,melanoma,female,1
+558d63d3bae47801cf734fbd,ISIC_0010823,60.0,anterior torso,benign,nevus,female,0
+5436e3b2bae478396759f145,ISIC_0000059,30.0,lower extremity,benign,nevus,female,0
+IP_7808420,ISIC_9196783,50.0,torso,benign,nevus,female,0
+5c95459bdb6d7c19d0bc04bc,ISIC_0053644,85.0,head/neck,malignant,melanoma,male,1
+5aaf142f1165976913637498,ISIC_0029241,70.0,head/neck,malignant,melanoma,male,1
+5e8f92824ad5f6bd588b122c,ISIC_9612481,70.0,head/neck,malignant,melanoma,male,1
+5436e3ccbae478396759f2b5,ISIC_0000242,60.0,lateral torso,benign,nevus,male,0
+5c9547e4db6d7c19d0bc48ca,ISIC_0071066,45.0,lower extremity,benign,nevus,male,0
+5e80f88874440928c0bdebf8,ISIC_4952227,50.0,anterior torso,benign,nevus,male,0
+5e8402932a5a4415fe6953b0,ISIC_7901797,55.0,lower extremity,benign,nevus,female,0
+5c954818db6d7c19d0bc4f1f,ISIC_0072687,35.0,anterior torso,benign,nevus,female,0
+581cda6e9fc3c13dcd0e4b4c,ISIC_0014410,45.0,head/neck,benign,seborrheic keratosis,female,0
+IP_8701813,ISIC_5152619,70.0,torso,benign,nevus,male,0
+5aaf1509116597691363e1bf,ISIC_0031427,45.0,lower extremity,benign,nevus,female,0
+5aa312eb1165972a9e961e46,ISIC_0024281,85.0,torso,malignant,basal cell carcinoma,male,1
+558d637fbae47801cf734dd1,ISIC_0010659,70.0,upper extremity,benign,nevus,female,0
+5e81079c74440928c0be25b6,ISIC_9648812,50.0,anterior torso,benign,nevus,male,0
+5aaf13ad1165976913633243,ISIC_0027909,45.0,anterior torso,benign,nevus,female,0
+5aaf12d7116597691362c538,ISIC_0025722,50.0,lower extremity,benign,nevus,male,0
+5c9546f2db6d7c19d0bc2c5a,ISIC_0063786,30.0,lower extremity,benign,nevus,female,0
+5aaf13af1165976913633365,ISIC_0027932,55.0,lower extremity,benign,nevus,male,0
+558d63b1bae47801cf734ef4,ISIC_0010756,30.0,lower extremity,benign,nevus,female,0
+5e8402bc2a5a4415fe69577f,ISIC_3349751,35.0,upper extremity,benign,nevus,male,0
+5c9545fddb6d7c19d0bc1000,ISIC_0056528,65.0,anterior torso,benign,nevus,male,0
+5aaf15c01165976913643df5,ISIC_0033274,80.0,head/neck,malignant,melanoma,female,1
+5c9545c1db6d7c19d0bc08f9,ISIC_0054729,35.0,anterior torso,benign,nevus,male,0
+5c9546bfdb6d7c19d0bc2688,ISIC_0062296,70.0,upper extremity,malignant,melanoma,female,1
+5e8403a92a5a4415fe695ca2,ISIC_6496927,45.0,upper extremity,benign,nevus,female,0
+581cd7b59fc3c13dcd0e25a1,ISIC_0013411,70.0,head/neck,malignant,melanoma,male,1
+5c954739db6d7c19d0bc34b1,ISIC_0065921,50.0,head/neck,malignant,melanoma,male,1
+IP_2310783,ISIC_3621197,50.0,torso,benign,nevus,male,0
+5e81072674440928c0be1eca,ISIC_8281208,40.0,anterior torso,malignant,melanoma,female,1
+5c954751db6d7c19d0bc3767,ISIC_0066615,80.0,anterior torso,malignant,melanoma,female,1
+5aaf12b2116597691362b23c,ISIC_0025341,60.0,lower extremity,benign,nevus,female,0
+5592cc819fc3c13155145647,ISIC_0011541,30.0,upper extremity,benign,nevus,male,0
+5e81031c74440928c0be0455,ISIC_4429406,35.0,anterior torso,benign,nevus,female,0
+IP_1533126,ISIC_4575717,55.0,torso,benign,nevus,male,0
+IP_3780490,ISIC_4517117,40.0,torso,benign,nevus,female,0
+5aaf14a7116597691363b094,ISIC_0030441,50.0,posterior torso,benign,nevus,male,0
+5c954823db6d7c19d0bc5055,ISIC_0072997,40.0,lower extremity,benign,nevus,female,0
+5c954829db6d7c19d0bc511f,ISIC_0073199,45.0,palms/soles,benign,nevus,male,0
+5aaf14e8116597691363d161,ISIC_0031099,50.0,lower extremity,benign,nevus,male,0
+5592fe5c9fc3c13155145dd1,ISIC_0011733,65.0,upper extremity,malignant,basal cell carcinoma,female,1
+5aaf14ad116597691363b3b5,ISIC_0030504,60.0,head/neck,benign,nevus,male,0
+5aaf147311659769136396e7,ISIC_0029928,40.0,posterior torso,benign,nevus,male,0
+5aaf12781165976913629604,ISIC_0024777,25.0,anterior torso,benign,nevus,male,0
+5e8403852a5a4415fe695948,ISIC_4191202,40.0,upper extremity,benign,nevus,female,0
+582b8f309fc3c1566bbcb9db,ISIC_0014907,35.0,anterior torso,benign,nevus,male,0
+IP_0428413,ISIC_7065617,50.0,torso,benign,nevus,female,0
+558d63acbae47801cf734ed3,ISIC_0010745,20.0,palms/soles,benign,lentigo NOS,male,0
+5c9546bedb6d7c19d0bc2653,ISIC_0062243,55.0,anterior torso,benign,nevus,male,0
+5c954600db6d7c19d0bc1059,ISIC_0056617,25.0,anterior torso,benign,nevus,female,0
+5aaf150a116597691363e24e,ISIC_0031438,55.0,lower extremity,benign,nevus,male,0
+IP_8753181,ISIC_2498076,35.0,torso,benign,nevus,male,0
+5c954733db6d7c19d0bc3403,ISIC_0065747,30.0,anterior torso,benign,nevus,female,0
+IP_9505038,ISIC_8534607,60.0,torso,benign,nevus,male,0
+5aaf12d9116597691362c656,ISIC_0025744,70.0,anterior torso,malignant,melanoma,male,1
+581cd9bf9fc3c13dcd0e4217,ISIC_0014166,80.0,anterior torso,benign,nevus,male,0
+5aaf159a1165976913642ab9,ISIC_0032888,55.0,lower extremity,malignant,melanoma,male,1
+5c9547d3db6d7c19d0bc46ba,ISIC_0070538,45.0,anterior torso,benign,nevus,male,0
+5aaf13721165976913631447,ISIC_0027308,50.0,lower extremity,benign,nevus,male,0
+5c95471edb6d7c19d0bc31b9,ISIC_0065161,65.0,lower extremity,benign,nevus,female,0
+IP_1599082,ISIC_6918292,50.0,torso,benign,nevus,male,0
+5436e3d5bae478396759f383,ISIC_0000345,35.0,posterior torso,benign,nevus,male,0
+IP_9205477,ISIC_0165945,55.0,torso,benign,nevus,male,0
+IP_4721772,ISIC_2677873,65.0,torso,benign,nevus,female,0
+IP_4092780,ISIC_2795826,50.0,torso,benign,nevus,male,0
+5aaf135b1165976913630898,ISIC_0027074,35.0,anterior torso,benign,nevus,male,0
+5e8403882a5a4415fe695990,ISIC_8200027,25.0,lower extremity,benign,nevus,female,0
+5aaf15841165976913641fc4,ISIC_0032668,40.0,upper extremity,benign,nevus,male,0
+IP_8295219,ISIC_1542389,50.0,torso,benign,nevus,female,0
+5aaf14d9116597691363c9f0,ISIC_0030950,70.0,upper extremity,malignant,melanoma,female,1
+558d60dcbae47801cf734567,ISIC_0010042,50.0,upper extremity,benign,nevus,male,0
+5c954770db6d7c19d0bc3ade,ISIC_0067502,20.0,anterior torso,malignant,melanoma,female,1
+5aa303171165972a9e96180d,ISIC_0024222,70.0,torso,malignant,melanoma,female,1
+5aaf125b116597691362878a,ISIC_0024487,40.0,lower extremity,benign,nevus,female,0
+5e8402462a5a4415fe694cc1,ISIC_4255923,40.0,lower extremity,benign,nevus,male,0
+5aaf15801165976913641dbe,ISIC_0032628,35.0,posterior torso,benign,nevus,female,0
+5aaf128e116597691362a12a,ISIC_0025001,60.0,lower extremity,benign,nevus,male,0
+581cd7fd9fc3c13dcd0e296e,ISIC_0013512,70.0,upper extremity,benign,nevus,male,0
+5c9546d1db6d7c19d0bc28aa,ISIC_0062842,25.0,anterior torso,benign,nevus,female,0
+558d64ebbae47801cf735638,ISIC_0011376,70.0,head/neck,benign,solar lentigo,male,0
+5aaf125a11659769136286f9,ISIC_0024476,85.0,lower extremity,benign,nevus,male,0
+5e8403b12a5a4415fe695d64,ISIC_0839323,45.0,lower extremity,benign,nevus,male,0
+558d6458bae47801cf7352d2,ISIC_0011086,40.0,anterior torso,benign,nevus,female,0
+5c954785db6d7c19d0bc3d10,ISIC_0068064,80.0,palms/soles,malignant,melanoma,female,1
+5aaf137711659769136316d5,ISIC_0027359,45.0,lower extremity,malignant,melanoma,female,1
+5aaf12b6116597691362b477,ISIC_0025385,50.0,anterior torso,benign,nevus,male,0
+5e8402b62a5a4415fe6956ec,ISIC_7434918,45.0,lower extremity,benign,nevus,female,0
+IP_1657778,ISIC_6365534,55.0,torso,benign,nevus,female,0
+5c9546f9db6d7c19d0bc2d2d,ISIC_0063997,60.0,palms/soles,benign,nevus,female,0
+5c9546f9db6d7c19d0bc2d2e,ISIC_0063998,60.0,lower extremity,malignant,melanoma,male,1
+5aaf13851165976913631d5c,ISIC_0027490,30.0,posterior torso,benign,nevus,male,0
+5aaf1346116597691362fdb7,ISIC_0026856,50.0,upper extremity,benign,nevus,male,0
+IP_4558019,ISIC_6644699,60.0,torso,benign,nevus,male,0
+558d612dbae47801cf73473e,ISIC_0010099,80.0,head/neck,benign,lentigo NOS,female,0
+54e755ffbae47850e86ce071,ISIC_0001134,65.0,lateral torso,malignant,melanoma,male,1
+5e95f227396583e25a506f75,ISIC_3394520,15.0,anterior torso,malignant,melanoma,female,1
+5c95479bdb6d7c19d0bc3fa6,ISIC_0068726,80.0,head/neck,benign,nevus,female,0
+5c95482bdb6d7c19d0bc5149,ISIC_0073241,60.0,palms/soles,malignant,melanoma,male,1
+581cd7f69fc3c13dcd0e2905,ISIC_0013501,65.0,upper extremity,malignant,melanoma,male,1
+IP_5438943,ISIC_3952513,70.0,torso,benign,nevus,male,0
+5aaf1489116597691363a215,ISIC_0030152,75.0,posterior torso,benign,nevus,male,0
+5aaf1587116597691364213c,ISIC_0032698,65.0,head/neck,malignant,melanoma,male,1
+5e8403e72a5a4415fe69620b,ISIC_7080584,55.0,lower extremity,benign,nevus,female,0
+5e8107c874440928c0be2688,ISIC_0754586,60.0,posterior torso,benign,seborrheic keratosis,male,0
+5e8f92084ad5f6bd588b109d,ISIC_1388552,80.0,posterior torso,malignant,melanoma,female,1
+5c95464fdb6d7c19d0bc194e,ISIC_0058910,50.0,lower extremity,malignant,melanoma,male,1
+5e8105f274440928c0be0d99,ISIC_7658533,55.0,posterior torso,benign,nevus,male,0
+5c9546ebdb6d7c19d0bc2b8f,ISIC_0063583,40.0,upper extremity,benign,nevus,female,0
+5e8f91ed4ad5f6bd588b0fbe,ISIC_9944931,30.0,posterior torso,benign,nevus,male,0
+5c9546a2db6d7c19d0bc2303,ISIC_0061395,55.0,lower extremity,benign,nevus,female,0
+5e8402482a5a4415fe694cf8,ISIC_5539001,45.0,upper extremity,benign,nevus,female,0
+558d6326bae47801cf734bb5,ISIC_0010479,60.0,upper extremity,benign,nevus,female,0
+581cd6e99fc3c13dcd0e1990,ISIC_0013090,40.0,upper extremity,benign,nevus,female,0
+IP_3422736,ISIC_9112747,35.0,torso,benign,nevus,female,0
+5e8402462a5a4415fe694cc8,ISIC_4084878,45.0,upper extremity,benign,nevus,female,0
+5c95470bdb6d7c19d0bc2f65,ISIC_0064565,15.0,upper extremity,benign,nevus,female,0
+5e80fbd874440928c0bdf24a,ISIC_0760601,70.0,upper extremity,benign,lentigo NOS,male,0
+581cd9f99fc3c13dcd0e4537,ISIC_0014249,85.0,posterior torso,malignant,melanoma,male,1
+5436e3b1bae478396759f131,ISIC_0000049,80.0,posterior torso,malignant,melanoma,female,1
+5aaf1516116597691363e87f,ISIC_0031563,55.0,upper extremity,benign,nevus,female,0
+5c9546cddb6d7c19d0bc281e,ISIC_0062702,35.0,head/neck,malignant,melanoma,female,1
+5aa3045d1165972a9e9618af,ISIC_0024228,85.0,torso,malignant,melanoma,male,1
+5aaf14dd116597691363cb89,ISIC_0030982,55.0,lower extremity,benign,nevus,female,0
+5c954604db6d7c19d0bc10d3,ISIC_0056739,40.0,head/neck,malignant,melanoma,female,1
+IP_7716159,ISIC_6002622,80.0,torso,benign,nevus,male,0
+5c954729db6d7c19d0bc32d9,ISIC_0065449,55.0,anterior torso,malignant,melanoma,female,1
+5aaf1438116597691363795e,ISIC_0029336,55.0,anterior torso,benign,nevus,male,0
+IP_2669371,ISIC_3615290,45.0,torso,benign,nevus,female,0
+5e8403a62a5a4415fe695c55,ISIC_1109485,45.0,lower extremity,benign,nevus,male,0
+5e8402802a5a4415fe695206,ISIC_2700320,55.0,torso,malignant,melanoma,male,1
+5c9546f1db6d7c19d0bc2c4f,ISIC_0063775,70.0,lower extremity,malignant,melanoma,female,1
+5e8403b42a5a4415fe695d83,ISIC_0239810,65.0,upper extremity,benign,nevus,male,0
+5e84038e2a5a4415fe6959ff,ISIC_1849151,50.0,lower extremity,benign,nevus,female,0
+5aaf1513116597691363e6a5,ISIC_0031525,45.0,lower extremity,benign,nevus,female,0
+5c954663db6d7c19d0bc1b43,ISIC_0059411,70.0,lower extremity,malignant,melanoma,female,1
+5e8402802a5a4415fe695214,ISIC_3994656,55.0,lower extremity,benign,nevus,male,0
+5e8402c12a5a4415fe6957ff,ISIC_8332695,55.0,lower extremity,benign,nevus,female,0
+5c954801db6d7c19d0bc4c4e,ISIC_0071966,50.0,anterior torso,benign,nevus,male,0
+558d612ebae47801cf734744,ISIC_0010101,65.0,head/neck,benign,lentigo NOS,male,0
+5aaf14601165976913638d6c,ISIC_0029739,40.0,lower extremity,benign,nevus,female,0
+IP_4871171,ISIC_6078357,50.0,torso,benign,nevus,female,0
+5aaf1555116597691364082d,ISIC_0032197,50.0,head/neck,malignant,melanoma,male,1
+582b91099fc3c1566bbcc27e,ISIC_0015142,50.0,upper extremity,malignant,melanoma,male,1
+5aaf15d6116597691364495e,ISIC_0033503,65.0,posterior torso,benign,nevus,male,0
+5e84039b2a5a4415fe695b37,ISIC_4033676,40.0,lower extremity,benign,nevus,male,0
+5aaf13f0116597691363546f,ISIC_0028596,50.0,head/neck,benign,nevus,female,0
+5e8402642a5a4415fe694f67,ISIC_5518025,80.0,head/neck,benign,nevus,male,0
+5aaf13fc1165976913635af0,ISIC_0028726,40.0,posterior torso,benign,nevus,male,0
+5436e3cabae478396759f281,ISIC_0000216,30.0,anterior torso,benign,nevus,male,0
+5e8402902a5a4415fe69536f,ISIC_7342840,35.0,lower extremity,benign,nevus,male,0
+5c95469ddb6d7c19d0bc2285,ISIC_0061269,35.0,lower extremity,benign,nevus,female,0
+IP_2482649,ISIC_8991530,75.0,torso,benign,nevus,male,0
+5c9547cadb6d7c19d0bc4598,ISIC_0070248,50.0,lower extremity,malignant,melanoma,female,1
+5aaf13cb11659769136341c9,ISIC_0028221,50.0,anterior torso,benign,nevus,male,0
+IP_5698400,ISIC_2730243,30.0,torso,benign,nevus,female,0
+5c954657db6d7c19d0bc1a37,ISIC_0059143,25.0,anterior torso,benign,nevus,female,0
+5aaf13f011659769136354a1,ISIC_0028600,65.0,anterior torso,benign,nevus,female,0
+5aaf159e1165976913642c82,ISIC_0032924,50.0,upper extremity,benign,nevus,male,0
+5e8fb722396583e25a505c7e,ISIC_1386874,55.0,lower extremity,benign,nevus,male,0
+5c95459edb6d7c19d0bc050c,ISIC_0053724,45.0,upper extremity,benign,nevus,male,0
+5c954809db6d7c19d0bc4d4a,ISIC_0072218,75.0,upper extremity,malignant,melanoma,female,1
+5aaf15b91165976913643a2d,ISIC_0033198,65.0,posterior torso,malignant,melanoma,male,1
+IP_5410936,ISIC_4826024,65.0,torso,benign,nevus,female,0
+5c9547c4db6d7c19d0bc44e4,ISIC_0070068,85.0,head/neck,malignant,melanoma,male,1
+5e8403d12a5a4415fe69602a,ISIC_2140374,75.0,lower extremity,benign,nevus,male,0
+5c954605db6d7c19d0bc10e5,ISIC_0056757,80.0,lower extremity,benign,nevus,female,0
+5aaf12c0116597691362b999,ISIC_0025488,40.0,posterior torso,benign,nevus,male,0
+5e95f381396583e25a508bfc,ISIC_4012047,35.0,oral/genital,malignant,melanoma,female,1
+5c9547b6db6d7c19d0bc430b,ISIC_0069595,65.0,lower extremity,malignant,melanoma,female,1
+IP_2669703,ISIC_1506954,30.0,lower extremity,benign,nevus,female,0
+5aaf1300116597691362da3e,ISIC_0026144,40.0,lower extremity,benign,nevus,male,0
+5c9547f9db6d7c19d0bc4b56,ISIC_0071718,50.0,anterior torso,benign,nevus,male,0
+IP_0063457,ISIC_0098198,40.0,torso,benign,nevus,male,0
+5aaf13b411659769136335c8,ISIC_0027980,35.0,posterior torso,benign,nevus,male,0
+IP_7743081,ISIC_9038210,50.0,torso,benign,nevus,female,0
+5aaf13c61165976913633ed5,ISIC_0028162,45.0,posterior torso,benign,nevus,female,0
+5c9546dfdb6d7c19d0bc2a17,ISIC_0063207,35.0,lower extremity,malignant,melanoma,female,1
+5aaf12f5116597691362d505,ISIC_0026039,50.0,lower extremity,benign,nevus,female,0
+5aaf15f411659769136458d3,ISIC_0033813,55.0,lower extremity,malignant,melanoma,male,1
+5e8105ae74440928c0be0af3,ISIC_6854168,55.0,posterior torso,benign,nevus,female,0
+5c95470ddb6d7c19d0bc2f9f,ISIC_0064623,40.0,anterior torso,malignant,melanoma,female,1
+5aaf14c0116597691363bd20,ISIC_0030692,70.0,lower extremity,benign,nevus,male,0
+5aaf14ed116597691363d3c0,ISIC_0031146,20.0,anterior torso,malignant,melanoma,female,1
+IP_1211926,ISIC_5887795,50.0,torso,benign,nevus,male,0
+5c95473bdb6d7c19d0bc34df,ISIC_0065967,60.0,oral/genital,benign,nevus,female,0
+581cd9a69fc3c13dcd0e40db,ISIC_0014133,85.0,anterior torso,malignant,melanoma,male,1
+5c9546c7db6d7c19d0bc2776,ISIC_0062534,40.0,anterior torso,benign,nevus,male,0
+5aaf1327116597691362ee01,ISIC_0026540,45.0,lower extremity,benign,nevus,female,0
+5aaf1298116597691362a59b,ISIC_0025088,30.0,anterior torso,benign,nevus,female,0
+IP_8349207,ISIC_1305180,55.0,torso,benign,nevus,male,0
+5aaf15ed1165976913645514,ISIC_0033738,40.0,head/neck,benign,nevus,female,0
+5aaf147e1165976913639c7e,ISIC_0030040,45.0,lower extremity,benign,nevus,female,0
+5aaf124f1165976913628173,ISIC_0024366,35.0,posterior torso,benign,nevus,female,0
+5c9545c8db6d7c19d0bc09da,ISIC_0054954,85.0,lower extremity,malignant,melanoma,male,1
+5c9546d7db6d7c19d0bc2940,ISIC_0062992,75.0,anterior torso,malignant,melanoma,male,1
+5e8402a62a5a4415fe69556f,ISIC_0892926,50.0,lower extremity,benign,nevus,male,0
+5436e3e1bae478396759f3fd,ISIC_0000406,50.0,torso,malignant,melanoma,male,1
+5c9545acdb6d7c19d0bc0697,ISIC_0054119,35.0,head/neck,benign,nevus,female,0
+5aaf153d116597691363fc86,ISIC_0031964,50.0,upper extremity,benign,nevus,male,0
+5c9547f5db6d7c19d0bc4abc,ISIC_0071564,35.0,head/neck,benign,nevus,female,0
+5e8402ba2a5a4415fe695752,ISIC_6706289,75.0,lower extremity,benign,nevus,male,0
+581cd6e89fc3c13dcd0e1987,ISIC_0013089,40.0,head/neck,benign,seborrheic keratosis,female,0
+5e8106ce74440928c0be1a3a,ISIC_7918608,75.0,lower extremity,benign,lichenoid keratosis,female,0
+581cd9cf9fc3c13dcd0e4309,ISIC_0014191,50.0,upper extremity,benign,seborrheic keratosis,male,0
+5e81066b74440928c0be151d,ISIC_6041185,60.0,lower extremity,benign,nevus,male,0
+5aaf1350116597691363030b,ISIC_0026963,65.0,head/neck,malignant,melanoma,male,1
+5aaf152e116597691363f506,ISIC_0031814,30.0,upper extremity,benign,nevus,female,0
+IP_3561033,ISIC_9198404,45.0,torso,benign,nevus,male,0
+5aaf155811659769136409be,ISIC_0032228,30.0,posterior torso,benign,nevus,male,0
+5c954717db6d7c19d0bc30e4,ISIC_0064948,85.0,lower extremity,benign,nevus,female,0
+5c9545cfdb6d7c19d0bc0a90,ISIC_0055136,70.0,anterior torso,malignant,melanoma,male,1
+5436e3e8bae478396759f429,ISIC_0000428,50.0,torso,malignant,melanoma,male,1
+5e8402642a5a4415fe694f6e,ISIC_5353454,60.0,lower extremity,benign,nevus,female,0
+5e95f38a396583e25a508cd7,ISIC_8066110,50.0,lower extremity,malignant,melanoma,male,1
+5aaf15e9116597691364532a,ISIC_0033699,30.0,upper extremity,benign,nevus,female,0
+IP_7397472,ISIC_0147817,60.0,torso,benign,nevus,female,0
+5aaf133d116597691362f995,ISIC_0026773,45.0,lower extremity,benign,nevus,female,0
+5e8403be2a5a4415fe695e6f,ISIC_1307396,45.0,upper extremity,benign,nevus,female,0
+558d63e0bae47801cf73500b,ISIC_0010849,20.0,posterior torso,benign,nevus,male,0
+IP_6676060,ISIC_9778786,45.0,torso,benign,nevus,female,0
+IP_8547782,ISIC_4804912,45.0,torso,benign,nevus,male,0
+5e8105a074440928c0be09d5,ISIC_7172893,25.0,anterior torso,benign,nevus,female,0
+558d6128bae47801cf734723,ISIC_0010090,45.0,lower extremity,benign,nevus,female,0
+5e8402742a5a4415fe6950f4,ISIC_2610429,65.0,upper extremity,benign,nevus,female,0
+5c9547ffdb6d7c19d0bc4c15,ISIC_0071909,45.0,anterior torso,benign,nevus,male,0
+5aaf12c5116597691362bc44,ISIC_0025542,20.0,head/neck,benign,nevus,female,0
+558d6371bae47801cf734d77,ISIC_0010629,75.0,head/neck,malignant,melanoma,male,1
+5c95463fdb6d7c19d0bc1774,ISIC_0058436,40.0,head/neck,benign,nevus,male,0
+IP_6428232,ISIC_9863854,45.0,torso,benign,nevus,male,0
+5e8403d22a5a4415fe69603c,ISIC_0267054,35.0,lower extremity,benign,nevus,male,0
+581cd7f49fc3c13dcd0e28ed,ISIC_0013499,65.0,posterior torso,malignant,melanoma,male,1
+558d6399bae47801cf734e64,ISIC_0010708,25.0,anterior torso,benign,nevus,female,0
+558d631dbae47801cf734b82,ISIC_0010462,60.0,posterior torso,benign,nevus,male,0
+5aaf15b01165976913643599,ISIC_0033106,35.0,posterior torso,benign,nevus,male,0
+5aaf145f1165976913638ce7,ISIC_0029728,35.0,head/neck,benign,nevus,female,0
+5aaf12d1116597691362c262,ISIC_0025665,55.0,lower extremity,benign,nevus,female,0
+584191759fc3c16793d59eab,ISIC_0015929,65.0,head/neck,benign,seborrheic keratosis,male,0
+5aaf143b1165976913637a7c,ISIC_0029359,60.0,anterior torso,benign,nevus,female,0
+5c9546e7db6d7c19d0bc2b0a,ISIC_0063450,60.0,head/neck,malignant,melanoma,male,1
+5e80fc3774440928c0bdf5e0,ISIC_3548408,40.0,head/neck,benign,seborrheic keratosis,female,0
+5c9545a1db6d7c19d0bc055c,ISIC_0053804,60.0,anterior torso,malignant,melanoma,male,1
+5e95f222396583e25a506f21,ISIC_5747486,20.0,anterior torso,malignant,melanoma,male,1
+5c954764db6d7c19d0bc398c,ISIC_0067164,35.0,anterior torso,benign,nevus,female,0
+5aaf1305116597691362dd23,ISIC_0026202,50.0,anterior torso,benign,nevus,female,0
+5aaf14e1116597691363cd8a,ISIC_0031022,60.0,posterior torso,benign,nevus,male,0
+5436e3c2bae478396759f1f5,ISIC_0000146,50.0,torso,malignant,melanoma,male,1
+IP_3422736,ISIC_0628726,40.0,upper extremity,benign,nevus,female,0
+5c954672db6d7c19d0bc1d0e,ISIC_0059870,50.0,anterior torso,benign,nevus,male,0
+559435fb9fc3c131551464da,ISIC_0012000,60.0,anterior torso,malignant,melanoma,female,1
+5aaf15941165976913642793,ISIC_0032825,35.0,head/neck,benign,nevus,male,0
+5aaf160611659769136461d4,ISIC_0033993,35.0,lower extremity,benign,nevus,male,0
+5aaf14051165976913635f8f,ISIC_0028819,45.0,posterior torso,benign,nevus,male,0
+5aaf13851165976913631da8,ISIC_0027496,60.0,lower extremity,benign,nevus,female,0
+5aaf12641165976913628c0f,ISIC_0024578,35.0,upper extremity,benign,nevus,female,0
+IP_2654837,ISIC_0738587,55.0,torso,benign,nevus,female,0
+5c954826db6d7c19d0bc50b9,ISIC_0073097,35.0,head/neck,malignant,melanoma,male,1
+581cd7e09fc3c13dcd0e27af,ISIC_0013465,75.0,head/neck,benign,seborrheic keratosis,female,0
+5e8402b72a5a4415fe695705,ISIC_2662834,40.0,lower extremity,benign,nevus,male,0
+5c9545b8db6d7c19d0bc07dc,ISIC_0054444,65.0,palms/soles,malignant,melanoma,female,1
+5aaf15ef11659769136455e1,ISIC_0033754,70.0,torso,malignant,melanoma,male,1
+5aaf125411659769136283ab,ISIC_0024410,30.0,anterior torso,malignant,melanoma,male,1
+IP_3587277,ISIC_9284063,60.0,torso,benign,nevus,male,0
+IP_2908137,ISIC_4956352,50.0,torso,benign,nevus,male,0
+5c95477ddb6d7c19d0bc3c44,ISIC_0067860,35.0,upper extremity,benign,nevus,female,0
+5e80fc5674440928c0bdf834,ISIC_9698871,30.0,posterior torso,benign,nevus,female,0
+5aaf128d116597691362a090,ISIC_0024989,45.0,upper extremity,benign,nevus,female,0
+5c954668db6d7c19d0bc1bd0,ISIC_0059552,50.0,lower extremity,benign,nevus,female,0
+5e8403e22a5a4415fe6961a4,ISIC_9193127,45.0,head/neck,malignant,melanoma,male,1
+5aaf15eb1165976913645424,ISIC_0033719,55.0,lower extremity,benign,nevus,male,0
+5aaf14d7116597691363c8e7,ISIC_0030929,55.0,upper extremity,malignant,melanoma,female,1
+5aaf13db11659769136349ea,ISIC_0028384,0.0,upper extremity,benign,nevus,male,0
+IP_4633933,ISIC_7793221,50.0,torso,benign,nevus,female,0
+5aaf13c21165976913633d3c,ISIC_0028130,50.0,lower extremity,benign,nevus,female,0
+5c95461bdb6d7c19d0bc1344,ISIC_0057364,35.0,lower extremity,benign,nevus,male,0
+558d6121bae47801cf7346f6,ISIC_0010075,40.0,anterior torso,benign,nevus,female,0
+5c954636db6d7c19d0bc1670,ISIC_0058176,80.0,head/neck,malignant,melanoma,male,1
+5aaf1326116597691362edca,ISIC_0026536,55.0,lower extremity,benign,nevus,female,0
+5e8107c974440928c0be2696,ISIC_1068686,55.0,anterior torso,malignant,melanoma,male,1
+5c9545a5db6d7c19d0bc05d0,ISIC_0053920,25.0,anterior torso,benign,nevus,male,0
+5c954812db6d7c19d0bc4e64,ISIC_0072500,30.0,lower extremity,benign,nevus,female,0
+5e84028c2a5a4415fe69531d,ISIC_5164319,50.0,lower extremity,benign,nevus,female,0
+5aaf16001165976913645eb7,ISIC_0033931,70.0,upper extremity,malignant,melanoma,male,1
+5aaf1539116597691363fa44,ISIC_0031919,65.0,posterior torso,benign,nevus,male,0
+5c9546b2db6d7c19d0bc24ed,ISIC_0061885,45.0,anterior torso,malignant,melanoma,male,1
+5c954711db6d7c19d0bc302f,ISIC_0064767,40.0,anterior torso,benign,nevus,female,0
+5436e3b1bae478396759f12b,ISIC_0000046,60.0,upper extremity,malignant,melanoma,female,1
+IP_3995060,ISIC_2063071,65.0,torso,benign,nevus,male,0
+558d6498bae47801cf73544f,ISIC_0011213,20.0,upper extremity,benign,nevus,female,0
+5e8402712a5a4415fe69509d,ISIC_0297595,35.0,lower extremity,benign,nevus,male,0
+5e8403ea2a5a4415fe696252,ISIC_7782502,45.0,lower extremity,benign,nevus,female,0
+5c954730db6d7c19d0bc33b8,ISIC_0065672,40.0,anterior torso,benign,nevus,male,0
+5aaf13ce1165976913634348,ISIC_0028251,55.0,lower extremity,benign,nevus,female,0
+5436e3d7bae478396759f3ab,ISIC_0000365,30.0,posterior torso,benign,nevus,female,0
+5e80f8b174440928c0bdeed3,ISIC_8018856,40.0,posterior torso,benign,nevus,male,0
+5aaf14321165976913637634,ISIC_0029273,50.0,upper extremity,benign,nevus,female,0
+IP_5698400,ISIC_5416646,30.0,torso,benign,nevus,female,0
+5c954808db6d7c19d0bc4d1d,ISIC_0072173,75.0,anterior torso,malignant,melanoma,male,1
+5aaf155b1165976913640b70,ISIC_0032262,65.0,upper extremity,benign,nevus,female,0
+5aaf14b6116597691363b808,ISIC_0030590,35.0,lower extremity,benign,nevus,male,0
+5aaf14e1116597691363cdf2,ISIC_0031030,45.0,lower extremity,benign,nevus,female,0
+5aaf13d911659769136348ea,ISIC_0028364,50.0,posterior torso,benign,nevus,female,0
+5e8403e52a5a4415fe6961e1,ISIC_4091290,30.0,lower extremity,benign,nevus,male,0
+5c9546fbdb6d7c19d0bc2d78,ISIC_0064072,50.0,head/neck,malignant,melanoma,female,1
+5c9547c5db6d7c19d0bc44ea,ISIC_0070074,85.0,anterior torso,malignant,melanoma,male,1
+5aaf1342116597691362fbc0,ISIC_0026816,20.0,lower extremity,benign,nevus,female,0
+581cd66a9fc3c13dcd0e112f,ISIC_0012865,45.0,lower extremity,benign,nevus,male,0
+5e81032174440928c0be04c4,ISIC_7743124,30.0,lower extremity,benign,nevus,female,0
+5c954788db6d7c19d0bc3d6b,ISIC_0068155,45.0,lower extremity,benign,nevus,female,0
+5c9545dcdb6d7c19d0bc0c18,ISIC_0055528,65.0,head/neck,malignant,melanoma,male,1
+5c95467edb6d7c19d0bc1e9e,ISIC_0060270,50.0,anterior torso,malignant,melanoma,female,1
+IP_9588360,ISIC_5835178,25.0,torso,benign,nevus,male,0
+5c954796db6d7c19d0bc3f23,ISIC_0068595,45.0,anterior torso,benign,nevus,male,0
+5c954775db6d7c19d0bc3b78,ISIC_0067656,50.0,anterior torso,benign,nevus,female,0
+5e8402762a5a4415fe695126,ISIC_6245138,55.0,lower extremity,benign,nevus,female,0
+5c9547a2db6d7c19d0bc409f,ISIC_0068975,75.0,palms/soles,malignant,melanoma,female,1
+5e84037d2a5a4415fe69586c,ISIC_3948754,40.0,lower extremity,benign,nevus,female,0
+5c95473adb6d7c19d0bc34cc,ISIC_0065948,50.0,palms/soles,benign,nevus,female,0
+5c9545f7db6d7c19d0bc0f4a,ISIC_0056346,25.0,head/neck,malignant,melanoma,female,1
+IP_8152038,ISIC_3634704,55.0,torso,benign,nevus,male,0
+IP_8872677,ISIC_4195950,50.0,torso,benign,nevus,male,0
+5436e3f6bae478396759f4d2,ISIC_0000511,50.0,anterior torso,malignant,melanoma,male,1
+5c954664db6d7c19d0bc1b5b,ISIC_0059435,35.0,lower extremity,malignant,melanoma,female,1
+5c954700db6d7c19d0bc2e20,ISIC_0064240,55.0,lower extremity,malignant,melanoma,female,1
+5e95f208396583e25a506ccf,ISIC_5167209,45.0,lower extremity,malignant,melanoma,female,1
+5c9547bbdb6d7c19d0bc43ac,ISIC_0069756,75.0,anterior torso,benign,nevus,female,0
+581cd7f19fc3c13dcd0e28c9,ISIC_0013495,65.0,posterior torso,benign,nevus,male,0
+581cd7209fc3c13dcd0e1db3,ISIC_0013201,50.0,upper extremity,benign,nevus,female,0
+5e84024c2a5a4415fe694d54,ISIC_7549398,45.0,upper extremity,benign,nevus,female,0
+5e8403962a5a4415fe695ac0,ISIC_4856118,45.0,lower extremity,benign,nevus,male,0
+5e8402582a5a4415fe694e5e,ISIC_7897626,55.0,lower extremity,benign,nevus,female,0
+5c9545a4db6d7c19d0bc05a2,ISIC_0053874,20.0,lower extremity,benign,nevus,female,0
+IP_6889268,ISIC_8730957,60.0,torso,benign,nevus,male,0
+5aaf143d1165976913637b79,ISIC_0029379,40.0,posterior torso,benign,nevus,male,0
+558d6391bae47801cf734e34,ISIC_0010692,55.0,posterior torso,benign,nevus,male,0
+5e8105f074440928c0be0d6b,ISIC_2823287,75.0,posterior torso,malignant,melanoma,male,1
+5aaf15d4116597691364482f,ISIC_0033479,40.0,posterior torso,malignant,melanoma,female,1
+5c9547badb6d7c19d0bc4398,ISIC_0069736,80.0,lower extremity,malignant,melanoma,female,1
+5c9545aadb6d7c19d0bc0649,ISIC_0054041,30.0,anterior torso,benign,nevus,male,0
+5aaf15ba1165976913643ab9,ISIC_0033209,65.0,head/neck,malignant,melanoma,male,1
+558d6444bae47801cf735254,ISIC_0011044,70.0,head/neck,malignant,melanoma,male,1
+5aaf14691165976913639222,ISIC_0029833,25.0,posterior torso,benign,nevus,female,0
+5aaf13ba11659769136338c8,ISIC_0028040,35.0,posterior torso,benign,nevus,male,0
+5aaf148c116597691363a368,ISIC_0030178,50.0,lower extremity,benign,nevus,male,0
+5aaf13871165976913631e76,ISIC_0027512,85.0,anterior torso,benign,nevus,male,0
+IP_6931421,ISIC_2584165,30.0,torso,benign,nevus,male,0
+5e80fcb874440928c0bdfcab,ISIC_1786309,70.0,lower extremity,benign,nevus,male,0
+5e8402682a5a4415fe694fc8,ISIC_8142852,55.0,lower extremity,benign,nevus,female,0
+5e8402912a5a4415fe695382,ISIC_5550263,50.0,lower extremity,benign,nevus,male,0
+5c954823db6d7c19d0bc505c,ISIC_0073004,70.0,anterior torso,benign,nevus,male,0
+582b94919fc3c1566bbcd2aa,ISIC_0015582,35.0,posterior torso,benign,nevus,male,0
+5aaf14031165976913635e4b,ISIC_0028794,50.0,lower extremity,benign,nevus,male,0
+5e8402952a5a4415fe6953e5,ISIC_3431915,50.0,lower extremity,benign,nevus,male,0
+559437c79fc3c13155146649,ISIC_0012072,45.0,lower extremity,benign,lentigo simplex,male,0
+5aaf13621165976913630c3e,ISIC_0027147,75.0,posterior torso,benign,nevus,male,0
+5e81060e74440928c0be1007,ISIC_4857711,30.0,head/neck,benign,nevus,female,0
+5aaf12ed116597691362d061,ISIC_0025946,60.0,head/neck,benign,nevus,female,0
+5e8403a32a5a4415fe695c11,ISIC_0894785,50.0,lower extremity,benign,nevus,male,0
+5e8402732a5a4415fe6950dc,ISIC_5925557,50.0,lower extremity,benign,nevus,female,0
+5c9546e8db6d7c19d0bc2b24,ISIC_0063476,40.0,anterior torso,benign,nevus,male,0
+5c954804db6d7c19d0bc4ca3,ISIC_0072051,70.0,lower extremity,malignant,melanoma,male,1
+5c95475fdb6d7c19d0bc38ee,ISIC_0067006,70.0,upper extremity,malignant,melanoma,female,1
+5aaf13f211659769136355e5,ISIC_0028625,65.0,upper extremity,benign,nevus,male,0
+581cd6559fc3c13dcd0e0fc9,ISIC_0012827,45.0,posterior torso,benign,nevus,female,0
+5c9547e1db6d7c19d0bc487f,ISIC_0070991,60.0,anterior torso,malignant,melanoma,female,1
+5e8403eb2a5a4415fe69626b,ISIC_4632020,65.0,lower extremity,benign,nevus,female,0
+5e84025c2a5a4415fe694eaf,ISIC_3177631,50.0,upper extremity,benign,nevus,male,0
+IP_2873493,ISIC_5293624,60.0,torso,benign,nevus,male,0
+5c95473fdb6d7c19d0bc354e,ISIC_0066078,45.0,anterior torso,benign,nevus,female,0
+5c9547f8db6d7c19d0bc4b31,ISIC_0071681,50.0,upper extremity,malignant,melanoma,male,1
+5e8403872a5a4415fe695979,ISIC_5054136,40.0,lower extremity,benign,nevus,male,0
+5e84026b2a5a4415fe695012,ISIC_6715003,55.0,lower extremity,benign,nevus,male,0
+5c95474bdb6d7c19d0bc36a7,ISIC_0066423,25.0,upper extremity,malignant,melanoma,female,1
+5c9547c8db6d7c19d0bc454d,ISIC_0070173,25.0,anterior torso,benign,nevus,female,0
+5c954661db6d7c19d0bc1b17,ISIC_0059367,40.0,anterior torso,benign,nevus,female,0
+IP_8550908,ISIC_0810640,40.0,torso,benign,nevus,male,0
+5e8403b22a5a4415fe695d74,ISIC_5985961,50.0,upper extremity,benign,nevus,female,0
+IP_8329777,ISIC_9944803,30.0,torso,benign,nevus,female,0
+5c9546a1db6d7c19d0bc22f6,ISIC_0061382,50.0,anterior torso,malignant,melanoma,female,1
+5e8402562a5a4415fe694e21,ISIC_5536710,50.0,upper extremity,benign,nevus,female,0
+5aaf158611659769136420ba,ISIC_0032687,45.0,posterior torso,malignant,melanoma,male,1
+5aaf134f116597691363026e,ISIC_0026950,85.0,head/neck,malignant,melanoma,female,1
+558d64c0bae47801cf73553c,ISIC_0011292,50.0,posterior torso,benign,nevus,female,0
+558d63aebae47801cf734edc,ISIC_0010748,45.0,posterior torso,benign,nevus,female,0
+581cd60e9fc3c13dcd0e0a24,ISIC_0012678,70.0,head/neck,malignant,melanoma,male,1
+5aaf15b51165976913643821,ISIC_0033157,55.0,anterior torso,benign,nevus,male,0
+5aaf1537116597691363f946,ISIC_0031899,55.0,lower extremity,benign,nevus,female,0
+581cd8db9fc3c13dcd0e35b3,ISIC_0013837,40.0,lower extremity,benign,nevus,female,0
+558d6136bae47801cf73476e,ISIC_0010115,40.0,posterior torso,benign,nevus,male,0
+IP_9906695,ISIC_7545549,45.0,torso,benign,nevus,female,0
+558d6098bae47801cf7343e1,ISIC_0009912,20.0,lower extremity,benign,nevus,female,0
+5aaf12531165976913628344,ISIC_0024401,25.0,lower extremity,benign,nevus,female,0
+5aaf139b11659769136328dd,ISIC_0027721,75.0,head/neck,malignant,melanoma,male,1
+5aaf15f11165976913645708,ISIC_0033777,40.0,lower extremity,benign,nevus,female,0
+5c95469fdb6d7c19d0bc22b0,ISIC_0061312,55.0,anterior torso,benign,nevus,male,0
+5aaf13a21165976913632c77,ISIC_0027793,35.0,head/neck,malignant,melanoma,female,1
+5e8fb8e1396583e25a505f12,ISIC_2145640,45.0,lower extremity,benign,nevus,male,0
+5e8106cf74440928c0be1a46,ISIC_6433084,75.0,anterior torso,benign,seborrheic keratosis,male,0
+5aaf12721165976913629324,ISIC_0024719,70.0,upper extremity,benign,nevus,male,0
+5c9545acdb6d7c19d0bc068c,ISIC_0054108,40.0,anterior torso,benign,nevus,male,0
+5aaf12a9116597691362ade9,ISIC_0025254,75.0,anterior torso,benign,nevus,male,0
+IP_4431090,ISIC_0295003,60.0,torso,benign,nevus,male,0
+IP_9205637,ISIC_8614712,65.0,torso,benign,nevus,male,0
+5aaf12641165976913628c04,ISIC_0024577,45.0,lower extremity,benign,nevus,male,0
+5c9547b2db6d7c19d0bc4279,ISIC_0069449,55.0,lower extremity,benign,nevus,female,0
+5c9545dbdb6d7c19d0bc0bf0,ISIC_0055488,30.0,lower extremity,benign,nevus,female,0
+5aaf148e116597691363a41c,ISIC_0030192,70.0,anterior torso,malignant,melanoma,male,1
+582b8f6f9fc3c1566bbcbb01,ISIC_0014937,25.0,upper extremity,benign,nevus,female,0
+5aaf15e81165976913645284,ISIC_0033686,65.0,anterior torso,benign,nevus,female,0
+5c9546a1db6d7c19d0bc22f3,ISIC_0061379,70.0,lower extremity,malignant,melanoma,female,1
+5aaf14ae116597691363b463,ISIC_0030518,65.0,lower extremity,benign,nevus,female,0
+5c954770db6d7c19d0bc3ac4,ISIC_0067476,40.0,anterior torso,benign,nevus,female,0
+5c954795db6d7c19d0bc3f09,ISIC_0068569,85.0,upper extremity,benign,nevus,male,0
+5aaf13ac11659769136331e6,ISIC_0027902,75.0,lower extremity,benign,nevus,female,0
+5c95472edb6d7c19d0bc337f,ISIC_0065615,40.0,head/neck,malignant,melanoma,female,1
+5c95464adb6d7c19d0bc18b7,ISIC_0058759,35.0,upper extremity,benign,nevus,female,0
+5e8105f074440928c0be0d6a,ISIC_7748311,75.0,upper extremity,malignant,melanoma,male,1
+558d63babae47801cf734f2d,ISIC_0010775,75.0,posterior torso,benign,nevus,male,0
+5c9547a9db6d7c19d0bc415f,ISIC_0069167,55.0,lower extremity,malignant,melanoma,male,1
+5e84038e2a5a4415fe695a01,ISIC_3721718,50.0,upper extremity,benign,nevus,male,0
+5c954710db6d7c19d0bc2fff,ISIC_0064719,35.0,anterior torso,benign,nevus,male,0
+5c954691db6d7c19d0bc20f5,ISIC_0060869,55.0,anterior torso,benign,nevus,female,0
+582b8f619fc3c1566bbcbabc,ISIC_0014930,30.0,anterior torso,benign,nevus,male,0
+582b93729fc3c1566bbccd8b,ISIC_0015443,50.0,upper extremity,benign,nevus,female,0
+5aaf157411659769136417cf,ISIC_0032509,70.0,lower extremity,malignant,melanoma,female,1
+5c954632db6d7c19d0bc15f2,ISIC_0058050,35.0,anterior torso,malignant,melanoma,female,1
+5c9546d2db6d7c19d0bc28c9,ISIC_0062873,60.0,anterior torso,benign,nevus,male,0
+558d6469bae47801cf735335,ISIC_0011119,65.0,anterior torso,benign,nevus,male,0
+IP_2039882,ISIC_1619011,45.0,torso,benign,nevus,female,0
+5c954786db6d7c19d0bc3d22,ISIC_0068082,40.0,anterior torso,benign,nevus,male,0
+5e81007b74440928c0bdff9e,ISIC_0820559,65.0,anterior torso,benign,nevus,male,0
+5c9546d2db6d7c19d0bc28c5,ISIC_0062869,60.0,head/neck,malignant,melanoma,male,1
+5c95469ddb6d7c19d0bc227d,ISIC_0061261,65.0,head/neck,malignant,melanoma,male,1
+IP_8474574,ISIC_5823077,60.0,torso,benign,nevus,female,0
+5aaf141c1165976913636b14,ISIC_0029050,35.0,posterior torso,benign,nevus,female,0
+IP_1357049,ISIC_6485050,45.0,torso,benign,nevus,male,0
+5e8402b32a5a4415fe6956a9,ISIC_8500876,45.0,lower extremity,benign,nevus,male,0
+5e8403c22a5a4415fe695ecb,ISIC_6409060,60.0,lower extremity,benign,nevus,male,0
+5aaf12e7116597691362cda1,ISIC_0025891,65.0,lower extremity,malignant,melanoma,female,1
+IP_6931421,ISIC_6684042,35.0,torso,benign,nevus,male,0
+5c954808db6d7c19d0bc4d3a,ISIC_0072202,45.0,anterior torso,benign,nevus,male,0
+5c9546ecdb6d7c19d0bc2bad,ISIC_0063613,25.0,anterior torso,benign,nevus,male,0
+558d63d9bae47801cf734fe1,ISIC_0010835,75.0,head/neck,benign,lentigo NOS,male,0
+5aaf128011659769136299ea,ISIC_0024855,30.0,posterior torso,benign,nevus,female,0
+IP_7979366,ISIC_4523750,40.0,torso,benign,nevus,male,0
+559435ef9fc3c131551464c6,ISIC_0011996,70.0,posterior torso,malignant,melanoma,female,1
+5aaf13711165976913631387,ISIC_0027293,15.0,head/neck,benign,nevus,female,0
+5aaf12aa116597691362ae95,ISIC_0025267,35.0,lower extremity,benign,nevus,female,0
+5aaf13971165976913632703,ISIC_0027684,45.0,posterior torso,benign,nevus,female,0
+IP_9672959,ISIC_4384861,50.0,torso,benign,nevus,male,0
+5aaf154611659769136400f5,ISIC_0032053,50.0,lower extremity,benign,nevus,male,0
+5aaf15dd1165976913644cea,ISIC_0033574,65.0,anterior torso,benign,nevus,female,0
+5c9547bddb6d7c19d0bc43e8,ISIC_0069816,60.0,anterior torso,benign,nevus,female,0
+558d6313bae47801cf734b40,ISIC_0010440,50.0,upper extremity,benign,nevus,male,0
+5c95474ddb6d7c19d0bc36f7,ISIC_0066503,40.0,lower extremity,benign,nevus,female,0
+5c9547b5db6d7c19d0bc42ee,ISIC_0069566,40.0,anterior torso,benign,nevus,female,0
+5e8403af2a5a4415fe695d3b,ISIC_1549857,55.0,upper extremity,benign,nevus,female,0
+5e84029c2a5a4415fe695488,ISIC_4452219,40.0,lower extremity,benign,nevus,female,0
+5aaf12bd116597691362b7c1,ISIC_0025451,25.0,lower extremity,malignant,melanoma,female,1
+5592cfca9fc3c131551458cf,ISIC_0011618,85.0,head/neck,malignant,melanoma,female,1
+5c954733db6d7c19d0bc3404,ISIC_0065748,55.0,palms/soles,malignant,melanoma,female,1
+5aaf14371165976913637887,ISIC_0029319,85.0,posterior torso,malignant,melanoma,male,1
+IP_5037503,ISIC_8483799,50.0,torso,benign,nevus,male,0
+5aaf127d1165976913629882,ISIC_0024827,60.0,anterior torso,benign,nevus,male,0
+5e8106d674440928c0be1aeb,ISIC_4205013,60.0,upper extremity,benign,nevus,male,0
+5c954736db6d7c19d0bc3467,ISIC_0065847,30.0,anterior torso,benign,nevus,female,0
+IP_1849461,ISIC_8380904,70.0,torso,benign,nevus,male,0
+5c95463edb6d7c19d0bc1767,ISIC_0058423,40.0,lower extremity,benign,nevus,female,0
+5e8106e574440928c0be1c25,ISIC_1620401,65.0,lower extremity,malignant,melanoma,female,1
+5e81071074440928c0be1cf5,ISIC_1453146,65.0,anterior torso,benign,lichenoid keratosis,female,0
+5e8402b82a5a4415fe69571c,ISIC_4680198,50.0,upper extremity,benign,nevus,male,0
+5c9547abdb6d7c19d0bc41b6,ISIC_0069254,55.0,head/neck,malignant,melanoma,female,1
+5c9547ffdb6d7c19d0bc4c12,ISIC_0071906,35.0,upper extremity,malignant,melanoma,female,1
+5c9547c1db6d7c19d0bc447f,ISIC_0069967,70.0,lower extremity,malignant,melanoma,female,1
+5c954755db6d7c19d0bc37e6,ISIC_0066742,40.0,anterior torso,benign,nevus,male,0
+5e8403bd2a5a4415fe695e58,ISIC_3390057,40.0,lower extremity,benign,nevus,male,0
+5c9545d4db6d7c19d0bc0b25,ISIC_0055285,40.0,head/neck,benign,nevus,male,0
+5aaf1625116597691364710c,ISIC_0034298,25.0,head/neck,benign,nevus,male,0
+5aaf14d4116597691363c735,ISIC_0030895,55.0,lower extremity,benign,nevus,male,0
+5c9546b2db6d7c19d0bc24ff,ISIC_0061903,35.0,lower extremity,benign,nevus,male,0
+558d609dbae47801cf7343fc,ISIC_0009921,25.0,anterior torso,benign,nevus,male,0
+558d60aebae47801cf734459,ISIC_0009952,55.0,anterior torso,benign,nevus,female,0
+5e8f97134ad5f6bd588b1fa5,ISIC_8270405,70.0,posterior torso,benign,nevus,male,0
+5aaf1311116597691362e2f1,ISIC_0026318,5.0,lower extremity,benign,nevus,male,0
+5aaf1338116597691362f691,ISIC_0026712,65.0,posterior torso,benign,nevus,female,0
+5c9546efdb6d7c19d0bc2c09,ISIC_0063705,0.0,lower extremity,benign,nevus,female,0
+IP_7599389,ISIC_4662418,65.0,torso,benign,nevus,male,0
+5e84027f2a5a4415fe6951ed,ISIC_9605031,55.0,lower extremity,benign,nevus,male,0
+5c9546dedb6d7c19d0bc29f8,ISIC_0063176,60.0,anterior torso,benign,nevus,male,0
+5e8403c12a5a4415fe695eb5,ISIC_6471539,35.0,lower extremity,benign,nevus,male,0
+5aaf16111165976913646784,ISIC_0034107,40.0,anterior torso,malignant,melanoma,female,1
+5c954744db6d7c19d0bc35e6,ISIC_0066230,60.0,upper extremity,benign,nevus,female,0
+5c954817db6d7c19d0bc4eef,ISIC_0072639,30.0,anterior torso,benign,nevus,female,0
+5aaf14631165976913638f13,ISIC_0029772,50.0,posterior torso,benign,nevus,male,0
+IP_0672967,ISIC_1040340,45.0,torso,benign,nevus,female,0
+5e84027c2a5a4415fe6951b2,ISIC_0256926,45.0,head/neck,benign,nevus,male,0
+5e80fcbf74440928c0bdfd30,ISIC_8180937,30.0,anterior torso,benign,nevus,male,0
+581cd8019fc3c13dcd0e29ac,ISIC_0013518,65.0,anterior torso,malignant,melanoma,male,1
+IP_1418292,ISIC_9853411,40.0,torso,benign,nevus,female,0
+IP_9576478,ISIC_4031777,55.0,torso,benign,nevus,male,0
+5c9545b6db6d7c19d0bc07a1,ISIC_0054385,85.0,head/neck,malignant,melanoma,female,1
+IP_3653630,ISIC_9574191,55.0,torso,benign,nevus,female,0
+558d60cabae47801cf734501,ISIC_0010008,85.0,head/neck,benign,nevus,female,0
+5aaf137b11659769136318b7,ISIC_0027397,60.0,posterior torso,benign,nevus,male,0
+IP_3863213,ISIC_6446825,85.0,upper extremity,benign,seborrheic keratosis,male,0
+IP_9387565,ISIC_4834687,45.0,torso,benign,nevus,male,0
+IP_3395413,ISIC_6804655,55.0,torso,benign,nevus,male,0
+5c954665db6d7c19d0bc1b7b,ISIC_0059467,40.0,head/neck,benign,nevus,male,0
+IP_3860796,ISIC_0463755,55.0,torso,benign,nevus,female,0
+5e84039c2a5a4415fe695b4f,ISIC_2069039,40.0,lower extremity,benign,nevus,male,0
+5aaf15b41165976913643808,ISIC_0033155,35.0,posterior torso,benign,nevus,male,0
+5c9545badb6d7c19d0bc080e,ISIC_0054494,40.0,lower extremity,benign,nevus,male,0
+5aaf133e116597691362f9be,ISIC_0026776,55.0,lower extremity,benign,nevus,male,0
+5c95478fdb6d7c19d0bc3e4d,ISIC_0068381,50.0,upper extremity,malignant,melanoma,female,1
+5c954756db6d7c19d0bc37ff,ISIC_0066767,80.0,head/neck,malignant,melanoma,male,1
+5c954633db6d7c19d0bc15ff,ISIC_0058063,75.0,upper extremity,malignant,melanoma,female,1
+5aaf15e511659769136450de,ISIC_0033653,70.0,head/neck,malignant,melanoma,female,1
+5e81059974440928c0be0937,ISIC_1605629,55.0,upper extremity,malignant,melanoma,female,1
+IP_8220633,ISIC_1129508,50.0,torso,benign,nevus,male,0
+5e8402632a5a4415fe694f5b,ISIC_6468817,55.0,lower extremity,benign,nevus,female,0
+IP_6510081,ISIC_4433552,45.0,torso,benign,nevus,female,0
+IP_2247155,ISIC_2461360,80.0,torso,benign,nevus,female,0
+IP_3970525,ISIC_3059442,45.0,torso,benign,nevus,female,0
+IP_3349523,ISIC_6177730,60.0,torso,benign,nevus,female,0
+5aaf16261165976913647180,ISIC_0034307,65.0,posterior torso,benign,nevus,male,0
+5aaf159a1165976913642a86,ISIC_0032884,80.0,anterior torso,benign,nevus,male,0
+5aaf13b1116597691363340b,ISIC_0027945,35.0,posterior torso,benign,nevus,female,0
+5aaf158e1165976913642489,ISIC_0032764,20.0,posterior torso,benign,nevus,male,0
+5aaf12b4116597691362b32f,ISIC_0025360,50.0,posterior torso,benign,nevus,male,0
+5c9545c1db6d7c19d0bc08fc,ISIC_0054732,10.0,lower extremity,benign,nevus,female,0
+5e8f921b4ad5f6bd588b1133,ISIC_1881133,30.0,lower extremity,malignant,melanoma,male,1
+5e95f31b396583e25a508365,ISIC_9402324,45.0,upper extremity,malignant,melanoma,male,1
+5aaf12b1116597691362b1d3,ISIC_0025332,55.0,lower extremity,benign,nevus,female,0
+5aaf14b6116597691363b7f8,ISIC_0030589,50.0,head/neck,benign,nevus,female,0
+5aaf13aa1165976913633068,ISIC_0027872,55.0,lower extremity,malignant,melanoma,female,1
+5c95468bdb6d7c19d0bc2037,ISIC_0060679,60.0,lower extremity,malignant,melanoma,female,1
+IP_0046310,ISIC_9999806,45.0,torso,benign,nevus,male,0
+5c954612db6d7c19d0bc1222,ISIC_0057074,55.0,anterior torso,benign,nevus,male,0
+5e8106cc74440928c0be1a0c,ISIC_6810183,65.0,head/neck,benign,seborrheic keratosis,female,0
+5592ae869fc3c13155a57c0d,ISIC_0011486,30.0,lower extremity,malignant,melanoma,male,1
+IP_9258690,ISIC_4737672,35.0,torso,benign,nevus,male,0
+5aaf13661165976913630df0,ISIC_0027181,75.0,lower extremity,benign,nevus,female,0
+5e8402682a5a4415fe694fdb,ISIC_8826643,55.0,lower extremity,benign,nevus,female,0
+5aaf134d1165976913630187,ISIC_0026932,50.0,posterior torso,benign,nevus,male,0
+5aaf151f116597691363ed1b,ISIC_0031655,45.0,lower extremity,benign,nevus,male,0
+5e8f92964ad5f6bd588b12e1,ISIC_6641007,75.0,posterior torso,benign,nevus,male,0
+5aaf129c116597691362a76e,ISIC_0025125,70.0,anterior torso,benign,nevus,male,0
+5c954683db6d7c19d0bc1f27,ISIC_0060407,20.0,anterior torso,benign,nevus,male,0
+IP_8375879,ISIC_1641839,70.0,torso,benign,nevus,male,0
+5e81033374440928c0be0614,ISIC_5594342,30.0,lower extremity,benign,nevus,female,0
+5436e3c9bae478396759f279,ISIC_0000212,25.0,posterior torso,benign,nevus,female,0
+5aaf15df1165976913644d9d,ISIC_0033588,85.0,posterior torso,benign,nevus,male,0
+5c954773db6d7c19d0bc3b29,ISIC_0067577,50.0,anterior torso,malignant,melanoma,female,1
+5aaf135111659769136303a3,ISIC_0026975,45.0,anterior torso,benign,nevus,female,0
+5c95477fdb6d7c19d0bc3c53,ISIC_0067875,65.0,anterior torso,benign,nevus,male,0
+5e81008b74440928c0be00a7,ISIC_8357133,50.0,posterior torso,benign,seborrheic keratosis,female,0
+5c95468cdb6d7c19d0bc2046,ISIC_0060694,45.0,anterior torso,benign,nevus,male,0
+5aaf13d41165976913634614,ISIC_0028307,75.0,lower extremity,benign,nevus,female,0
+5c9547f7db6d7c19d0bc4b14,ISIC_0071652,60.0,anterior torso,benign,nevus,female,0
+5aaf159211659769136426a5,ISIC_0032806,65.0,anterior torso,malignant,melanoma,male,1
+5e8403812a5a4415fe6958e6,ISIC_6616081,45.0,lower extremity,benign,nevus,male,0
+5c9545fbdb6d7c19d0bc0fa4,ISIC_0056436,60.0,anterior torso,malignant,melanoma,male,1
+5aaf136c1165976913631149,ISIC_0027248,30.0,anterior torso,benign,nevus,female,0
+5e8403982a5a4415fe695afc,ISIC_1448992,45.0,lower extremity,benign,nevus,male,0
+5c9546ecdb6d7c19d0bc2b98,ISIC_0063592,5.0,lower extremity,benign,nevus,female,0
+5c9547c4db6d7c19d0bc44e1,ISIC_0070065,30.0,head/neck,malignant,melanoma,male,1
+5c9547f0db6d7c19d0bc4a1f,ISIC_0071407,40.0,head/neck,benign,nevus,male,0
+5aaf14651165976913638fd2,ISIC_0029787,55.0,posterior torso,benign,nevus,male,0
+5e8107c874440928c0be268e,ISIC_3610783,60.0,head/neck,benign,seborrheic keratosis,male,0
+5aaf16171165976913646a42,ISIC_0034162,70.0,posterior torso,malignant,melanoma,male,1
+5aaf133c116597691362f8ad,ISIC_0026755,45.0,upper extremity,benign,nevus,female,0
+5aaf15fb1165976913645c2c,ISIC_0033880,45.0,lower extremity,benign,nevus,female,0
+5e81059774440928c0be090a,ISIC_7319356,65.0,posterior torso,benign,nevus,male,0
+5aaf13e91165976913635111,ISIC_0028528,80.0,posterior torso,benign,nevus,male,0
+5aaf139d11659769136329d3,ISIC_0027740,45.0,anterior torso,benign,nevus,male,0
+581cd7399fc3c13dcd0e1f72,ISIC_0013248,75.0,lower extremity,benign,nevus,female,0
+5e80f89774440928c0bded20,ISIC_3402327,35.0,lower extremity,benign,nevus,male,0
+5e81061974440928c0be10ee,ISIC_7160082,25.0,head/neck,benign,nevus,male,0
+5c9546efdb6d7c19d0bc2c17,ISIC_0063719,30.0,anterior torso,benign,nevus,male,0
+5592ad0d9fc3c13155a57bbb,ISIC_0011471,60.0,anterior torso,malignant,melanoma,male,1
+5e8403be2a5a4415fe695e75,ISIC_1639605,50.0,lower extremity,benign,nevus,female,0
+5593f3d69fc3c13155145fe9,ISIC_0011810,70.0,head/neck,malignant,basal cell carcinoma,female,1
+5c95470edb6d7c19d0bc2fc7,ISIC_0064663,25.0,lower extremity,benign,nevus,male,0
+558d642bbae47801cf7351c1,ISIC_0010995,50.0,lower extremity,malignant,melanoma,female,1
+5aaf14f0116597691363d526,ISIC_0031174,55.0,anterior torso,benign,nevus,male,0
+5c9546d0db6d7c19d0bc2893,ISIC_0062819,35.0,anterior torso,benign,nevus,female,0
+559437959fc3c131551465f9,ISIC_0012056,10.0,upper extremity,benign,nevus,male,0
+5aaf15b7116597691364393f,ISIC_0033180,30.0,upper extremity,malignant,melanoma,female,1
+5c954733db6d7c19d0bc3415,ISIC_0065765,55.0,anterior torso,benign,nevus,male,0
+558d6121bae47801cf7346f9,ISIC_0010076,60.0,head/neck,benign,solar lentigo,male,0
+582b905b9fc3c1566bbcbf62,ISIC_0015057,30.0,lateral torso,benign,nevus,male,0
+5aaf145311659769136386be,ISIC_0029605,55.0,lower extremity,benign,nevus,female,0
+IP_6245507,ISIC_4100970,45.0,torso,benign,nevus,male,0
+5e8402742a5a4415fe6950e3,ISIC_3693018,30.0,lower extremity,benign,nevus,male,0
+5c95475ddb6d7c19d0bc38d7,ISIC_0066983,35.0,anterior torso,benign,nevus,male,0
+IP_0500536,ISIC_1284397,55.0,torso,benign,nevus,male,0
+5e84028e2a5a4415fe695344,ISIC_5365015,50.0,lower extremity,benign,nevus,female,0
+5c95463edb6d7c19d0bc175e,ISIC_0058414,60.0,anterior torso,malignant,melanoma,female,1
+5aaf14d7116597691363c908,ISIC_0030932,70.0,lower extremity,malignant,melanoma,female,1
+5e8402602a5a4415fe694f1c,ISIC_8973278,40.0,lower extremity,benign,nevus,female,0
+5aaf14091165976913636159,ISIC_0028855,40.0,lower extremity,benign,nevus,male,0
+5c954710db6d7c19d0bc3016,ISIC_0064742,40.0,head/neck,malignant,melanoma,female,1
+5e8107db74440928c0be2825,ISIC_2609984,45.0,posterior torso,malignant,melanoma,female,1
+581cd9219fc3c13dcd0e39a0,ISIC_0013942,40.0,upper extremity,benign,nevus,male,0
+5c954700db6d7c19d0bc2e1f,ISIC_0064239,40.0,anterior torso,benign,nevus,female,0
+5aaf124a1165976913627f0a,ISIC_0024316,55.0,posterior torso,benign,nevus,male,0
+IP_4707488,ISIC_7424388,50.0,torso,benign,nevus,male,0
+5c954675db6d7c19d0bc1d86,ISIC_0059990,15.0,anterior torso,benign,nevus,male,0
+IP_4611365,ISIC_8285124,25.0,torso,benign,nevus,female,0
+5aaf14a1116597691363adf9,ISIC_0030389,45.0,anterior torso,benign,nevus,male,0
+IP_7887363,ISIC_4261232,60.0,torso,benign,nevus,male,0
+5aaf126011659769136289bf,ISIC_0024532,40.0,anterior torso,benign,nevus,male,0
+5aaf13bb1165976913633996,ISIC_0028056,85.0,posterior torso,malignant,melanoma,male,1
+5aaf153f116597691363fd77,ISIC_0031983,60.0,lower extremity,benign,nevus,male,0
+558d6381bae47801cf734ddd,ISIC_0010663,80.0,posterior torso,malignant,melanoma,male,1
+IP_0358262,ISIC_2417638,55.0,torso,benign,nevus,male,0
+5aaf12fc116597691362d898,ISIC_0026111,65.0,head/neck,benign,nevus,female,0
+5aaf13511165976913630398,ISIC_0026974,30.0,posterior torso,benign,nevus,male,0
+5e8402762a5a4415fe69511a,ISIC_9963177,70.0,torso,malignant,melanoma,male,1
+IP_2285751,ISIC_5476174,45.0,torso,benign,nevus,female,0
+558d6318bae47801cf734b61,ISIC_0010451,40.0,upper extremity,benign,lentigo NOS,male,0
+5aaf139f1165976913632b1b,ISIC_0027766,65.0,posterior torso,benign,nevus,male,0
+5aaf145c1165976913638b86,ISIC_0029701,40.0,lower extremity,benign,nevus,female,0
+5c95472adb6d7c19d0bc32eb,ISIC_0065467,65.0,anterior torso,benign,nevus,female,0
+5e8403a32a5a4415fe695c00,ISIC_7498410,40.0,lower extremity,benign,nevus,female,0
+IP_3422736,ISIC_4723179,40.0,torso,benign,nevus,female,0
+5aaf1505116597691363dfda,ISIC_0031389,55.0,lower extremity,malignant,melanoma,female,1
+5c954612db6d7c19d0bc1236,ISIC_0057094,50.0,anterior torso,benign,nevus,male,0
+5592ace19fc3c13155a57b70,ISIC_0011456,85.0,upper extremity,malignant,basal cell carcinoma,female,1
+IP_4786590,ISIC_2777137,45.0,torso,benign,nevus,female,0
+5c954595db6d7c19d0bc0435,ISIC_0053509,60.0,palms/soles,malignant,melanoma,male,1
+5e8f91f34ad5f6bd588b0ff3,ISIC_3915890,80.0,upper extremity,malignant,melanoma,male,1
+581cd9cf9fc3c13dcd0e4300,ISIC_0014190,80.0,posterior torso,malignant,melanoma,female,1
+5593f3c19fc3c13155145fc1,ISIC_0011802,85.0,upper extremity,malignant,melanoma,female,1
+5c954782db6d7c19d0bc3cbb,ISIC_0067979,75.0,anterior torso,malignant,melanoma,male,1
+IP_9995095,ISIC_9813591,50.0,torso,benign,nevus,male,0
+5c9546d1db6d7c19d0bc28a7,ISIC_0062839,35.0,upper extremity,benign,nevus,male,0
+5aaf1607116597691364621e,ISIC_0033999,85.0,lower extremity,malignant,melanoma,female,1
+5aaf144d11659769136383d9,ISIC_0029547,80.0,torso,malignant,melanoma,male,1
+IP_8220633,ISIC_3429860,50.0,torso,benign,nevus,male,0
+IP_5519306,ISIC_7206167,45.0,torso,benign,nevus,male,0
+5aaf15e31165976913645011,ISIC_0033637,35.0,posterior torso,benign,nevus,female,0
+5e8403dc2a5a4415fe696132,ISIC_4501838,55.0,lower extremity,benign,nevus,male,0
+5e84028c2a5a4415fe69531b,ISIC_5272766,55.0,upper extremity,benign,nevus,female,0
+5e8403cc2a5a4415fe695fc2,ISIC_4432735,70.0,lower extremity,benign,nevus,male,0
+5aaf15ae1165976913643498,ISIC_0033086,25.0,posterior torso,benign,nevus,female,0
+581cd7ba9fc3c13dcd0e25db,ISIC_0013417,35.0,anterior torso,benign,nevus,female,0
+5aaf14f4116597691363d6f4,ISIC_0031210,35.0,posterior torso,benign,nevus,male,0
+5c9546e9db6d7c19d0bc2b34,ISIC_0063492,30.0,head/neck,malignant,melanoma,female,1
+5e80fc3874440928c0bdf5e8,ISIC_3167092,65.0,posterior torso,benign,seborrheic keratosis,male,0
+IP_2669703,ISIC_1384413,30.0,torso,benign,nevus,female,0
+5592cfca9fc3c131551458db,ISIC_0011622,25.0,anterior torso,benign,nevus,female,0
+5e80fc5d74440928c0bdf8bd,ISIC_6023795,65.0,lower extremity,benign,nevus,male,0
+IP_9205477,ISIC_0559314,50.0,torso,benign,nevus,male,0
+558d6120bae47801cf7346f3,ISIC_0010074,20.0,posterior torso,benign,nevus,female,0
+5aaf14b1116597691363b5da,ISIC_0030547,35.0,lower extremity,benign,nevus,female,0
+5e8f90464ad5f6bd588b0a57,ISIC_5533992,45.0,lower extremity,malignant,melanoma,male,1
+5c954626db6d7c19d0bc148e,ISIC_0057694,35.0,lower extremity,benign,nevus,male,0
+IP_5768092,ISIC_3688362,55.0,torso,benign,nevus,female,0
+IP_6730678,ISIC_9333245,35.0,torso,benign,nevus,female,0
+5c954761db6d7c19d0bc391e,ISIC_0067054,45.0,head/neck,malignant,melanoma,female,1
+IP_6510081,ISIC_1023676,45.0,torso,benign,nevus,female,0
+5e8403bb2a5a4415fe695e20,ISIC_9463691,45.0,lower extremity,benign,nevus,female,0
+5e8402672a5a4415fe694fb0,ISIC_4816726,50.0,upper extremity,benign,nevus,male,0
+5c954663db6d7c19d0bc1b3c,ISIC_0059404,25.0,anterior torso,benign,nevus,female,0
+5aaf141d1165976913636bc9,ISIC_0029064,60.0,lower extremity,benign,nevus,female,0
+5e8fa2a410344ce85ea8e564,ISIC_2400515,60.0,upper extremity,benign,nevus,male,0
+5aaf15f91165976913645b44,ISIC_0033862,35.0,posterior torso,benign,nevus,female,0
+5aaf136c11659769136310fc,ISIC_0027242,45.0,head/neck,benign,nevus,female,0
+5aa301d71165972a9e961786,ISIC_0024217,65.0,torso,malignant,melanoma,male,1
+5e8402542a5a4415fe694dea,ISIC_9106966,45.0,upper extremity,benign,nevus,male,0
+558d636bbae47801cf734d4d,ISIC_0010615,50.0,lower extremity,benign,nevus,female,0
+5aaf13e31165976913634ddb,ISIC_0028464,45.0,posterior torso,benign,nevus,male,0
+5c954707db6d7c19d0bc2eee,ISIC_0064446,75.0,anterior torso,benign,nevus,female,0
+558d6165bae47801cf73487f,ISIC_0010206,15.0,anterior torso,benign,nevus,male,0
+5c9546cedb6d7c19d0bc2848,ISIC_0062744,35.0,lower extremity,benign,nevus,male,0
+IP_4194721,ISIC_3306343,55.0,torso,benign,nevus,male,0
+5aaf12dc116597691362c7b9,ISIC_0025772,45.0,lower extremity,benign,nevus,male,0
+IP_8039328,ISIC_9636514,35.0,torso,benign,nevus,female,0
+5aaf1332116597691362f3e3,ISIC_0026658,65.0,anterior torso,benign,nevus,male,0
+IP_6009973,ISIC_7743505,65.0,torso,benign,nevus,male,0
+5c954618db6d7c19d0bc12d8,ISIC_0057256,35.0,lower extremity,benign,nevus,male,0
+558d6373bae47801cf734d86,ISIC_0010634,60.0,posterior torso,benign,nevus,male,0
+5aaf125b1165976913628761,ISIC_0024484,55.0,anterior torso,benign,nevus,male,0
+5aaf1307116597691362de5f,ISIC_0026227,45.0,upper extremity,benign,nevus,female,0
+558d6122bae47801cf7346fc,ISIC_0010077,25.0,upper extremity,benign,nevus,male,0
+5aaf141911659769136369c3,ISIC_0029024,45.0,anterior torso,benign,nevus,male,0
+IP_1559911,ISIC_0449568,55.0,torso,benign,nevus,female,0
+5c954812db6d7c19d0bc4e6c,ISIC_0072508,65.0,anterior torso,malignant,melanoma,male,1
+5e8402772a5a4415fe695136,ISIC_9577645,55.0,lower extremity,benign,nevus,female,0
+5c954827db6d7c19d0bc50df,ISIC_0073135,10.0,lower extremity,benign,nevus,female,0
+IP_1902763,ISIC_9259697,65.0,torso,benign,nevus,male,0
+5e8402702a5a4415fe695090,ISIC_8527330,50.0,lower extremity,benign,nevus,male,0
+IP_8937782,ISIC_1957625,40.0,torso,benign,nevus,male,0
+558d63d5bae47801cf734fc9,ISIC_0010827,50.0,anterior torso,benign,nevus,male,0
+5e8402732a5a4415fe6950cc,ISIC_3038950,55.0,upper extremity,benign,nevus,female,0
+5aaf14d4116597691363c740,ISIC_0030896,55.0,anterior torso,benign,nevus,male,0
+5e8105c474440928c0be0ccd,ISIC_7855286,35.0,posterior torso,benign,nevus,male,0
+IP_6617725,ISIC_8900730,30.0,torso,benign,nevus,female,0
+559431fd9fc3c13155146370,ISIC_0011929,65.0,upper extremity,malignant,melanoma,male,1
+582b8dd99fc3c1566bbcb36f,ISIC_0014731,55.0,head/neck,benign,nevus,male,0
+5c954720db6d7c19d0bc31e4,ISIC_0065204,10.0,lower extremity,benign,nevus,female,0
+IP_0550778,ISIC_7393413,45.0,torso,benign,nevus,male,0
+5aaf135011659769136302b4,ISIC_0026956,60.0,posterior torso,benign,nevus,female,0
+5c954661db6d7c19d0bc1b15,ISIC_0059365,70.0,palms/soles,benign,nevus,female,0
+5592dc529fc3c13155145a49,ISIC_0011704,35.0,posterior torso,malignant,melanoma,female,1
+5c9547f4db6d7c19d0bc4aa0,ISIC_0071536,45.0,anterior torso,malignant,melanoma,male,1
+5e81008c74440928c0be00ad,ISIC_5327976,55.0,lower extremity,benign,nevus,female,0
+IP_8246666,ISIC_7670923,55.0,torso,benign,nevus,female,0
+5c9545d5db6d7c19d0bc0b3e,ISIC_0055310,60.0,anterior torso,benign,nevus,female,0
+5e95f1d7396583e25a5068d4,ISIC_1247683,30.0,anterior torso,malignant,melanoma,male,1
+582b8e9d9fc3c1566bbcb717,ISIC_0014831,55.0,lower extremity,benign,seborrheic keratosis,male,0
+IP_6531672,ISIC_3139994,70.0,torso,benign,nevus,female,0
+5592b4959fc3c13155a57cb1,ISIC_0011517,65.0,anterior torso,malignant,melanoma,male,1
+5c954632db6d7c19d0bc15f9,ISIC_0058057,40.0,anterior torso,benign,nevus,male,0
+5aaf14fe116597691363dc09,ISIC_0031312,50.0,posterior torso,benign,nevus,male,0
+581cd7db9fc3c13dcd0e2773,ISIC_0013459,45.0,head/neck,malignant,melanoma,male,1
+5aaf157d1165976913641c17,ISIC_0032595,45.0,lower extremity,benign,nevus,female,0
+5c9546d1db6d7c19d0bc28af,ISIC_0062847,60.0,anterior torso,benign,nevus,female,0
+5c9546fbdb6d7c19d0bc2d77,ISIC_0064071,40.0,anterior torso,benign,nevus,male,0
+IP_3512888,ISIC_8889011,35.0,torso,benign,nevus,female,0
+5e84029c2a5a4415fe695486,ISIC_4056176,60.0,lower extremity,benign,nevus,male,0
+558d64eabae47801cf735632,ISIC_0011374,80.0,head/neck,malignant,melanoma,male,1
+5aaf1535116597691363f848,ISIC_0031879,85.0,posterior torso,benign,nevus,male,0
+5c9546a0db6d7c19d0bc22c6,ISIC_0061334,50.0,anterior torso,malignant,melanoma,male,1
+5aaf160a11659769136463f6,ISIC_0034036,35.0,anterior torso,malignant,melanoma,male,1
+5c9546fddb6d7c19d0bc2dac,ISIC_0064124,35.0,anterior torso,benign,nevus,female,0
+5aaf15c71165976913644195,ISIC_0033347,40.0,upper extremity,benign,nevus,male,0
+5c95466edb6d7c19d0bc1c89,ISIC_0059737,65.0,anterior torso,benign,nevus,male,0
+5aaf14ff116597691363dc8b,ISIC_0031323,30.0,head/neck,benign,nevus,female,0
+IP_5596716,ISIC_1338069,50.0,torso,benign,nevus,male,0
+5aaf12841165976913629c21,ISIC_0024900,65.0,posterior torso,malignant,melanoma,female,1
+582b93c49fc3c1566bbccf02,ISIC_0015482,65.0,posterior torso,benign,nevus,female,0
+5c95466ddb6d7c19d0bc1c77,ISIC_0059719,35.0,upper extremity,benign,nevus,female,0
+5e8403c42a5a4415fe695ef1,ISIC_7801961,40.0,upper extremity,benign,nevus,female,0
+5e8402742a5a4415fe6950f3,ISIC_5960765,55.0,lower extremity,benign,nevus,male,0
+5c954707db6d7c19d0bc2ee5,ISIC_0064437,40.0,upper extremity,benign,nevus,male,0
+5c9547c6db6d7c19d0bc4524,ISIC_0070132,25.0,lower extremity,benign,nevus,female,0
+IP_0358262,ISIC_8923673,55.0,torso,benign,nevus,male,0
+5c954672db6d7c19d0bc1d0c,ISIC_0059868,15.0,upper extremity,benign,nevus,female,0
+5e95f1cc396583e25a5067ee,ISIC_1728564,60.0,lower extremity,malignant,melanoma,male,1
+5436e3c4bae478396759f205,ISIC_0000154,50.0,torso,malignant,melanoma,male,1
+5aaf155c1165976913640bc5,ISIC_0032269,60.0,posterior torso,malignant,melanoma,male,1
+5c95473fdb6d7c19d0bc3562,ISIC_0066098,80.0,head/neck,malignant,melanoma,female,1
+5c9546dedb6d7c19d0bc2a06,ISIC_0063190,55.0,lower extremity,malignant,melanoma,female,1
+5e80f88374440928c0bdeb93,ISIC_2811886,65.0,head/neck,benign,seborrheic keratosis,male,0
+558d6449bae47801cf73527b,ISIC_0011057,45.0,lower extremity,malignant,melanoma,female,1
+5aaf13cc1165976913634239,ISIC_0028230,35.0,upper extremity,benign,nevus,female,0
+5c9546a6db6d7c19d0bc2372,ISIC_0061506,40.0,head/neck,benign,nevus,male,0
+5aaf145911659769136389be,ISIC_0029665,45.0,lower extremity,benign,nevus,male,0
+5e8402872a5a4415fe6952aa,ISIC_3412637,55.0,lower extremity,benign,nevus,female,0
+IP_3722746,ISIC_3723065,45.0,torso,benign,nevus,male,0
+IP_1362494,ISIC_1574020,50.0,lower extremity,benign,nevus,female,0
+581cd62b9fc3c13dcd0e0ca6,ISIC_0012744,65.0,lower extremity,benign,nevus,female,0
+5aaf13ac1165976913633165,ISIC_0027892,50.0,lower extremity,benign,nevus,female,0
+5c9545bfdb6d7c19d0bc08c5,ISIC_0054677,45.0,anterior torso,malignant,melanoma,female,1
+5aaf1526116597691363f0a7,ISIC_0031726,35.0,lower extremity,benign,nevus,male,0
+5e8f92ef4ad5f6bd588b13d0,ISIC_3464344,65.0,head/neck,malignant,melanoma,female,1
+5e95f259396583e25a507367,ISIC_1866770,60.0,upper extremity,malignant,melanoma,male,1
+IP_3075186,ISIC_9861674,45.0,torso,benign,nevus,female,0
+5c954641db6d7c19d0bc17bf,ISIC_0058511,60.0,upper extremity,benign,nevus,female,0
+5c95471ddb6d7c19d0bc3181,ISIC_0065105,25.0,anterior torso,benign,nevus,male,0
+5aaf14cc116597691363c34d,ISIC_0030817,50.0,posterior torso,benign,nevus,male,0
+582b8f5e9fc3c1566bbcbaad,ISIC_0014929,30.0,posterior torso,benign,nevus,male,0
+558d6427bae47801cf7351af,ISIC_0010989,75.0,head/neck,benign,lentigo NOS,female,0
+5e8402612a5a4415fe694f35,ISIC_8774326,60.0,lower extremity,benign,nevus,male,0
+5e8403862a5a4415fe695956,ISIC_3139230,45.0,lower extremity,benign,nevus,male,0
+5c954673db6d7c19d0bc1d26,ISIC_0059894,25.0,upper extremity,benign,nevus,female,0
+5aaf1378116597691363174b,ISIC_0027369,40.0,lower extremity,benign,nevus,female,0
+581cd7649fc3c13dcd0e21c4,ISIC_0013310,70.0,head/neck,benign,nevus,female,0
+5c954759db6d7c19d0bc385e,ISIC_0066862,45.0,anterior torso,benign,nevus,female,0
+5e80fbc574440928c0bdf0f0,ISIC_8363485,55.0,head/neck,benign,nevus,male,0
+IP_0301948,ISIC_1684603,45.0,torso,benign,nevus,male,0
+5e84027b2a5a4415fe695199,ISIC_8448360,45.0,lower extremity,benign,nevus,female,0
+5c95481ddb6d7c19d0bc4fc0,ISIC_0072848,45.0,anterior torso,benign,nevus,female,0
+5aaf15cb116597691364437a,ISIC_0033385,70.0,anterior torso,benign,nevus,male,0
+5c95461fdb6d7c19d0bc13a1,ISIC_0057457,60.0,head/neck,malignant,melanoma,female,1
+5c954598db6d7c19d0bc047e,ISIC_0053582,55.0,upper extremity,malignant,melanoma,male,1
+5aaf15ac1165976913643401,ISIC_0033074,45.0,anterior torso,malignant,melanoma,male,1
+5aaf149b116597691363aad2,ISIC_0030326,60.0,anterior torso,benign,nevus,male,0
+5c9547b6db6d7c19d0bc4318,ISIC_0069608,40.0,anterior torso,benign,nevus,female,0
+5c9546c7db6d7c19d0bc2777,ISIC_0062535,60.0,lower extremity,benign,nevus,female,0
+5c9545eedb6d7c19d0bc0e33,ISIC_0056067,50.0,anterior torso,benign,nevus,female,0
+5aaf14d7116597691363c8fd,ISIC_0030931,55.0,lower extremity,benign,nevus,male,0
+5e81066c74440928c0be1541,ISIC_7476803,20.0,head/neck,benign,nevus,female,0
+5c954688db6d7c19d0bc1fcc,ISIC_0060572,65.0,anterior torso,benign,nevus,female,0
+5c9545d1db6d7c19d0bc0ade,ISIC_0055214,25.0,lower extremity,benign,nevus,female,0
+5aaf137711659769136316e0,ISIC_0027360,40.0,anterior torso,benign,nevus,male,0
+IP_0175539,ISIC_1302281,40.0,torso,benign,nevus,female,0
+5c9547f7db6d7c19d0bc4b09,ISIC_0071641,50.0,lower extremity,benign,nevus,male,0
+5c95462cdb6d7c19d0bc152e,ISIC_0057854,45.0,anterior torso,benign,nevus,male,0
+5c954660db6d7c19d0bc1afd,ISIC_0059341,55.0,anterior torso,benign,nevus,female,0
+IP_4015774,ISIC_4896088,35.0,torso,benign,seborrheic keratosis,female,0
+5aaf12561165976913628518,ISIC_0024438,50.0,posterior torso,benign,nevus,male,0
+558d634cbae47801cf734c96,ISIC_0010554,75.0,lower extremity,benign,nevus,female,0
+558d64d6bae47801cf7355c3,ISIC_0011337,70.0,head/neck,malignant,melanoma,male,1
+5aaf14c4116597691363bee0,ISIC_0030728,35.0,posterior torso,benign,nevus,female,0
+5e81034874440928c0be07a1,ISIC_4836901,35.0,posterior torso,benign,nevus,female,0
+5c9547dfdb6d7c19d0bc4843,ISIC_0070931,55.0,lower extremity,malignant,melanoma,female,1
+5aaf13851165976913631db3,ISIC_0027497,10.0,upper extremity,benign,nevus,female,0
+5aaf15821165976913641e6b,ISIC_0032641,45.0,anterior torso,benign,nevus,male,0
+5c95480edb6d7c19d0bc4dec,ISIC_0072380,75.0,anterior torso,malignant,melanoma,male,1
+5aaf159c1165976913642b61,ISIC_0032901,30.0,upper extremity,benign,nevus,male,0
+5e8402732a5a4415fe6950cb,ISIC_3228015,40.0,lower extremity,benign,nevus,female,0
+582b8ff29fc3c1566bbcbd62,ISIC_0015002,25.0,upper extremity,benign,nevus,female,0
+582b8e189fc3c1566bbcb48f,ISIC_0014763,25.0,anterior torso,benign,nevus,female,0
+5e8403e92a5a4415fe696245,ISIC_0238491,45.0,head/neck,benign,nevus,male,0
+IP_0079464,ISIC_7544251,45.0,torso,benign,nevus,male,0
+5e81032f74440928c0be05be,ISIC_5369680,50.0,anterior torso,benign,nevus,female,0
+5aaf159c1165976913642b92,ISIC_0032905,40.0,anterior torso,benign,nevus,male,0
+5aaf13871165976913631e5d,ISIC_0027510,35.0,upper extremity,benign,nevus,male,0
+5e8106e274440928c0be1be1,ISIC_6561111,70.0,posterior torso,malignant,melanoma,male,1
+5e84024b2a5a4415fe694d3e,ISIC_7512698,40.0,upper extremity,benign,nevus,male,0
+IP_0139601,ISIC_6555093,45.0,torso,benign,nevus,female,0
+5c954623db6d7c19d0bc1435,ISIC_0057605,35.0,head/neck,benign,nevus,male,0
+5e8f8f8a4ad5f6bd588b0875,ISIC_2221217,75.0,posterior torso,malignant,melanoma,male,1
+5e8403ce2a5a4415fe695fe1,ISIC_7583644,30.0,lower extremity,benign,nevus,female,0
+5aaf1624116597691364706e,ISIC_0034286,0.0,upper extremity,benign,nevus,male,0
+5e8403bd2a5a4415fe695e4f,ISIC_5625980,35.0,lower extremity,benign,nevus,female,0
+558d6147bae47801cf7347c8,ISIC_0010145,55.0,lower extremity,malignant,melanoma,female,1
+5aaf1505116597691363df90,ISIC_0031383,50.0,lower extremity,benign,nevus,male,0
+5aaf1533116597691363f73c,ISIC_0031858,40.0,lower extremity,benign,nevus,male,0
+5e8403c62a5a4415fe695f27,ISIC_8789673,45.0,lower extremity,benign,nevus,female,0
+558d63dbbae47801cf734fea,ISIC_0010838,35.0,anterior torso,benign,nevus,female,0
+5aaf12a3116597691362aae3,ISIC_0025194,35.0,anterior torso,benign,nevus,female,0
+5e8403942a5a4415fe695a8d,ISIC_1330008,45.0,lower extremity,malignant,melanoma,female,1
+5aaf13ed11659769136352f7,ISIC_0028567,65.0,lower extremity,malignant,melanoma,female,1
+5e8f947e4ad5f6bd588b1a7e,ISIC_3435596,85.0,posterior torso,malignant,melanoma,female,1
+5c95472edb6d7c19d0bc3380,ISIC_0065616,65.0,anterior torso,benign,nevus,male,0
+5aaf15ab1165976913643357,ISIC_0033061,25.0,lower extremity,malignant,melanoma,female,1
+IP_5596716,ISIC_3975743,50.0,torso,benign,nevus,male,0
+IP_2465701,ISIC_0677159,55.0,torso,benign,nevus,female,0
+5e80fbc974440928c0bdf131,ISIC_1177153,65.0,posterior torso,malignant,melanoma,male,1
+5e84025f2a5a4415fe694ef2,ISIC_6067058,25.0,upper extremity,benign,nevus,female,0
+5c9547eedb6d7c19d0bc49ea,ISIC_0071354,50.0,lower extremity,benign,nevus,female,0
+IP_8968018,ISIC_1636996,60.0,torso,benign,nevus,female,0
+5aaf12c5116597691362bc0a,ISIC_0025537,50.0,posterior torso,benign,nevus,female,0
+5aaf13e7116597691363501e,ISIC_0028509,65.0,posterior torso,benign,nevus,female,0
+5c954742db6d7c19d0bc35ae,ISIC_0066174,50.0,lower extremity,benign,nevus,male,0
+5e81059374440928c0be08bc,ISIC_1088190,60.0,upper extremity,benign,nevus,female,0
+5c954652db6d7c19d0bc19a8,ISIC_0059000,20.0,anterior torso,benign,nevus,female,0
+5aaf12611165976913628a73,ISIC_0024546,80.0,lower extremity,malignant,melanoma,female,1
+5c9547ecdb6d7c19d0bc49b4,ISIC_0071300,45.0,anterior torso,benign,nevus,female,0
+IP_3690477,ISIC_4130540,60.0,upper extremity,benign,nevus,male,0
+5592db6d9fc3c1315514599a,ISIC_0011670,25.0,head/neck,benign,nevus,female,0
+5aaf142711659769136370af,ISIC_0029163,80.0,head/neck,malignant,melanoma,male,1
+5aaf14f9116597691363d9c5,ISIC_0031267,40.0,upper extremity,benign,nevus,male,0
+5c954625db6d7c19d0bc1474,ISIC_0057668,65.0,anterior torso,malignant,melanoma,female,1
+5aaf1596116597691364288f,ISIC_0032845,70.0,lower extremity,malignant,melanoma,female,1
+5aaf15511165976913640670,ISIC_0032162,35.0,anterior torso,benign,nevus,female,0
+5aaf16201165976913646e76,ISIC_0034246,65.0,lower extremity,malignant,melanoma,female,1
+5c9547d0db6d7c19d0bc4656,ISIC_0070438,65.0,lower extremity,benign,nevus,male,0
+5aaf14b5116597691363b7e3,ISIC_0030588,35.0,posterior torso,benign,nevus,female,0
+5e8f92fc4ad5f6bd588b1444,ISIC_2646829,80.0,head/neck,malignant,melanoma,male,1
+5aaf14d6116597691363c849,ISIC_0030917,25.0,lower extremity,benign,nevus,female,0
+5e81061974440928c0be10ef,ISIC_4045323,25.0,lateral torso,benign,nevus,male,0
+5c954682db6d7c19d0bc1f14,ISIC_0060388,30.0,lower extremity,benign,nevus,female,0
+5592fe8c9fc3c13155145e2b,ISIC_0011751,80.0,upper extremity,malignant,squamous cell carcinoma,female,1
+5aaf13801165976913631b28,ISIC_0027446,40.0,posterior torso,benign,nevus,male,0
+IP_6096257,ISIC_7832863,60.0,torso,benign,nevus,male,0
+5c954711db6d7c19d0bc3030,ISIC_0064768,45.0,anterior torso,benign,nevus,female,0
+5c9546dedb6d7c19d0bc29fc,ISIC_0063180,40.0,anterior torso,malignant,melanoma,female,1
+5c954664db6d7c19d0bc1b5f,ISIC_0059439,40.0,anterior torso,benign,nevus,female,0
+5c954790db6d7c19d0bc3e68,ISIC_0068408,35.0,anterior torso,benign,nevus,male,0
+5e8403d62a5a4415fe6960ab,ISIC_9367353,40.0,lower extremity,benign,nevus,male,0
+5aaf14661165976913639040,ISIC_0029795,50.0,anterior torso,benign,nevus,male,0
+5c9545dddb6d7c19d0bc0c30,ISIC_0055552,45.0,anterior torso,benign,nevus,female,0
+5c95467adb6d7c19d0bc1e14,ISIC_0060132,35.0,head/neck,malignant,melanoma,male,1
+5e8403792a5a4415fe695814,ISIC_5923940,50.0,upper extremity,benign,nevus,female,0
+5e81062874440928c0be1247,ISIC_8615491,60.0,head/neck,malignant,melanoma,male,1
+5c954718db6d7c19d0bc30ea,ISIC_0064954,35.0,lower extremity,benign,nevus,female,0
+5436e3d8bae478396759f3bd,ISIC_0000374,15.0,lower extremity,benign,nevus,male,0
+IP_4638162,ISIC_2045468,45.0,torso,benign,nevus,male,0
+5aaf13da1165976913634947,ISIC_0028371,50.0,posterior torso,benign,nevus,male,0
+5c954663db6d7c19d0bc1b4b,ISIC_0059419,50.0,lower extremity,benign,nevus,female,0
+5aaf13e51165976913634ed3,ISIC_0028483,55.0,lower extremity,benign,nevus,male,0
+5aaf15da1165976913644b21,ISIC_0033538,70.0,lower extremity,malignant,melanoma,male,1
+5592db659fc3c13155145990,ISIC_0011668,70.0,posterior torso,benign,nevus,male,0
+559437b59fc3c13155146630,ISIC_0012067,85.0,lower extremity,malignant,melanoma,male,1
+558d6131bae47801cf734753,ISIC_0010106,45.0,upper extremity,malignant,melanoma,male,1
+IP_9272657,ISIC_7764874,55.0,torso,benign,nevus,male,0
+5c954662db6d7c19d0bc1b2e,ISIC_0059390,30.0,lower extremity,benign,nevus,female,0
+5aaf132b116597691362f004,ISIC_0026581,30.0,lower extremity,benign,nevus,female,0
+5c95466bdb6d7c19d0bc1c44,ISIC_0059668,40.0,anterior torso,malignant,melanoma,female,1
+5c954617db6d7c19d0bc12d4,ISIC_0057252,70.0,lower extremity,malignant,melanoma,female,1
+5c9546addb6d7c19d0bc2467,ISIC_0061751,70.0,anterior torso,malignant,melanoma,male,1
+5c95467adb6d7c19d0bc1e0c,ISIC_0060124,35.0,anterior torso,benign,nevus,male,0
+IP_7442385,ISIC_3210728,45.0,torso,benign,nevus,male,0
+IP_3857996,ISIC_5381502,40.0,torso,benign,nevus,male,0
+5e84037d2a5a4415fe695880,ISIC_9909314,65.0,upper extremity,benign,nevus,male,0
+5c95473edb6d7c19d0bc3532,ISIC_0066050,25.0,anterior torso,benign,nevus,female,0
+5aaf133f116597691362fa99,ISIC_0026793,40.0,anterior torso,benign,nevus,male,0
+5c95476bdb6d7c19d0bc3a40,ISIC_0067344,75.0,upper extremity,benign,nevus,male,0
+5c95469fdb6d7c19d0bc22b5,ISIC_0061317,50.0,head/neck,benign,nevus,male,0
+5c9546bbdb6d7c19d0bc2603,ISIC_0062163,80.0,head/neck,malignant,melanoma,male,1
+5c954754db6d7c19d0bc37c9,ISIC_0066713,25.0,lower extremity,benign,nevus,female,0
+5c9547badb6d7c19d0bc4397,ISIC_0069735,25.0,lower extremity,benign,nevus,female,0
+5aaf14601165976913638d22,ISIC_0029733,70.0,upper extremity,benign,nevus,male,0
+5e8106b374440928c0be181e,ISIC_7357436,60.0,anterior torso,benign,nevus,male,0
+5c9547f2db6d7c19d0bc4a67,ISIC_0071479,55.0,lower extremity,benign,nevus,female,0
+5e80fc9e74440928c0bdface,ISIC_3919941,50.0,head/neck,benign,nevus,female,0
+5c9547e1db6d7c19d0bc486e,ISIC_0070974,70.0,upper extremity,malignant,melanoma,female,1
+5aaf1520116597691363ed5c,ISIC_0031660,45.0,posterior torso,benign,nevus,male,0
+582b91059fc3c1566bbcc26c,ISIC_0015140,25.0,anterior torso,benign,nevus,female,0
+5e8402b62a5a4415fe6956f9,ISIC_9782539,35.0,lower extremity,benign,nevus,female,0
+5c95462edb6d7c19d0bc1582,ISIC_0057938,65.0,anterior torso,malignant,melanoma,female,1
+IP_7303276,ISIC_3265470,75.0,torso,benign,nevus,male,0
+559435b79fc3c1315514645d,ISIC_0011975,85.0,lower extremity,malignant,melanoma,female,1
+5aaf126c1165976913629015,ISIC_0024658,35.0,posterior torso,benign,nevus,male,0
+5e8402782a5a4415fe695141,ISIC_9683476,45.0,lower extremity,benign,nevus,female,0
+5aaf155011659769136405c3,ISIC_0032149,50.0,head/neck,malignant,melanoma,male,1
+5436e3fbbae478396759f51e,ISIC_0000549,50.0,torso,malignant,melanoma,male,1
+558d64b0bae47801cf7354d9,ISIC_0011259,45.0,posterior torso,benign,nevus,male,0
+5e8faf0b396583e25a5055af,ISIC_8124900,50.0,anterior torso,malignant,melanoma,male,1
+5aaf145d1165976913638bba,ISIC_0029705,80.0,anterior torso,malignant,melanoma,male,1
+IP_6009973,ISIC_6054977,60.0,torso,benign,nevus,male,0
+IP_9564988,ISIC_4266157,55.0,torso,benign,nevus,female,0
+5e8106bd74440928c0be18e4,ISIC_7046888,60.0,posterior torso,benign,nevus,male,0
+5aaf143c1165976913637b34,ISIC_0029373,45.0,lower extremity,benign,nevus,female,0
+IP_0428413,ISIC_8223322,45.0,torso,benign,nevus,female,0
+5c9547dfdb6d7c19d0bc4845,ISIC_0070933,55.0,head/neck,malignant,melanoma,male,1
+5aaf13da1165976913634920,ISIC_0028368,35.0,posterior torso,benign,nevus,female,0
+IP_0699776,ISIC_6371959,80.0,torso,benign,nevus,male,0
+57eea3439fc3c12a89bb5197,ISIC_0012137,65.0,torso,malignant,melanoma,male,1
+5c954766db6d7c19d0bc39b5,ISIC_0067205,70.0,head/neck,malignant,melanoma,male,1
+5e8403c72a5a4415fe695f4c,ISIC_0234038,50.0,lower extremity,benign,nevus,male,0
+5c9546afdb6d7c19d0bc248f,ISIC_0061791,50.0,anterior torso,malignant,melanoma,female,1
+5c9547d4db6d7c19d0bc46ce,ISIC_0070558,45.0,lower extremity,benign,nevus,male,0
+5aaf1332116597691362f3a5,ISIC_0026654,70.0,anterior torso,benign,nevus,male,0
+5c954689db6d7c19d0bc1fe9,ISIC_0060601,40.0,anterior torso,benign,nevus,male,0
+558d645dbae47801cf7352f0,ISIC_0011096,35.0,posterior torso,benign,nevus,male,0
+5aaf13c41165976913633e3d,ISIC_0028150,45.0,posterior torso,benign,nevus,male,0
+5e95f2e3396583e25a507eea,ISIC_8724944,45.0,posterior torso,malignant,melanoma,female,1
+5e8fbc26396583e25a506139,ISIC_2871230,70.0,lower extremity,malignant,melanoma,male,1
+558d6094bae47801cf7343cc,ISIC_0009905,20.0,upper extremity,malignant,melanoma,male,1
+5c954637db6d7c19d0bc16a0,ISIC_0058224,70.0,anterior torso,malignant,melanoma,male,1
+5c9547d4db6d7c19d0bc46e9,ISIC_0070585,40.0,anterior torso,malignant,melanoma,male,1
+5aaf144e116597691363840a,ISIC_0029551,45.0,lower extremity,benign,nevus,male,0
+5aaf138b11659769136320b8,ISIC_0027558,40.0,posterior torso,benign,nevus,male,0
+5aaf1301116597691362dae5,ISIC_0026157,35.0,posterior torso,benign,nevus,male,0
+5aaf14e2116597691363ce2c,ISIC_0031035,60.0,lower extremity,benign,nevus,male,0
+559432069fc3c1315514637a,ISIC_0011931,70.0,upper extremity,malignant,melanoma,male,1
+5c954664db6d7c19d0bc1b61,ISIC_0059441,40.0,anterior torso,benign,nevus,female,0
+5e84028f2a5a4415fe695354,ISIC_8034250,45.0,lower extremity,benign,nevus,female,0
+5e8402872a5a4415fe6952a5,ISIC_5541999,45.0,lower extremity,benign,nevus,female,0
+5c9547bbdb6d7c19d0bc43a3,ISIC_0069747,45.0,anterior torso,malignant,melanoma,male,1
+IP_3722746,ISIC_2357022,50.0,torso,benign,nevus,male,0
+5c95467edb6d7c19d0bc1e86,ISIC_0060246,50.0,lower extremity,benign,nevus,male,0
+5aaf137d1165976913631997,ISIC_0027415,25.0,head/neck,benign,nevus,male,0
+5aaf12f7116597691362d5bc,ISIC_0026053,70.0,posterior torso,benign,nevus,male,0
+5c95460adb6d7c19d0bc116a,ISIC_0056890,30.0,anterior torso,benign,nevus,male,0
+5e80fc3974440928c0bdf604,ISIC_1405454,70.0,posterior torso,benign,lentigo NOS,male,0
+558d63f0bae47801cf735068,ISIC_0010880,30.0,upper extremity,benign,nevus,female,0
+5c954702db6d7c19d0bc2e4c,ISIC_0064284,45.0,anterior torso,benign,nevus,male,0
+5aaf149e116597691363ac6d,ISIC_0030358,60.0,head/neck,benign,nevus,male,0
+5aaf14a9116597691363b1ff,ISIC_0030470,45.0,anterior torso,benign,nevus,female,0
+5c9545a1db6d7c19d0bc055f,ISIC_0053807,15.0,upper extremity,benign,nevus,female,0
+5c95481edb6d7c19d0bc4fd2,ISIC_0072866,35.0,anterior torso,benign,nevus,male,0
+5c9546d0db6d7c19d0bc2898,ISIC_0062824,40.0,anterior torso,benign,nevus,male,0
+558d646ebae47801cf735353,ISIC_0011129,55.0,upper extremity,benign,nevus,male,0
+5c9546f9db6d7c19d0bc2d3a,ISIC_0064010,80.0,anterior torso,malignant,melanoma,male,1
+5aaf15951165976913642839,ISIC_0032838,45.0,anterior torso,benign,nevus,male,0
+5c954610db6d7c19d0bc11e9,ISIC_0057017,30.0,anterior torso,benign,nevus,female,0
+5c9546bedb6d7c19d0bc265e,ISIC_0062254,65.0,anterior torso,benign,nevus,female,0
+5c954661db6d7c19d0bc1b02,ISIC_0059346,50.0,head/neck,malignant,melanoma,male,1
+558d60dbbae47801cf734561,ISIC_0010040,45.0,anterior torso,benign,nevus,male,0
+558d6437bae47801cf735209,ISIC_0011019,55.0,head/neck,benign,lentigo NOS,female,0
+5c95463adb6d7c19d0bc16e7,ISIC_0058295,50.0,anterior torso,benign,nevus,female,0
+5c954770db6d7c19d0bc3acd,ISIC_0067485,80.0,lower extremity,malignant,melanoma,male,1
+IP_9282375,ISIC_8639128,65.0,torso,benign,nevus,female,0
+5c954771db6d7c19d0bc3af1,ISIC_0067521,50.0,lower extremity,malignant,melanoma,female,1
+581cd98f9fc3c13dcd0e3f91,ISIC_0014099,85.0,lower extremity,malignant,melanoma,female,1
+5aaf14bf116597691363bcb1,ISIC_0030684,50.0,lower extremity,benign,nevus,male,0
+5aaf13d2116597691363455f,ISIC_0028293,70.0,lower extremity,benign,nevus,male,0
+IP_9995095,ISIC_4655392,55.0,torso,benign,nevus,male,0
+5c95474fdb6d7c19d0bc3744,ISIC_0066580,15.0,anterior torso,benign,nevus,male,0
+5aaf15c911659769136442b0,ISIC_0033369,70.0,anterior torso,malignant,melanoma,male,1
+5aaf15d5116597691364487a,ISIC_0033485,60.0,lower extremity,malignant,melanoma,male,1
+5c9547b0db6d7c19d0bc423a,ISIC_0069386,65.0,upper extremity,malignant,melanoma,female,1
+5e84026c2a5a4415fe695039,ISIC_5395344,40.0,upper extremity,benign,nevus,female,0
+5aaf15af116597691364357b,ISIC_0033104,55.0,lower extremity,benign,nevus,female,0
+5aaf14c4116597691363bf47,ISIC_0030736,50.0,anterior torso,benign,nevus,female,0
+5aaf161211659769136467a1,ISIC_0034109,30.0,posterior torso,benign,nevus,female,0
+5aaf133a116597691362f7af,ISIC_0026735,85.0,head/neck,malignant,melanoma,female,1
+5c9547f6db6d7c19d0bc4ae0,ISIC_0071600,85.0,head/neck,malignant,melanoma,male,1
+5c9545ecdb6d7c19d0bc0dea,ISIC_0055994,35.0,lower extremity,benign,nevus,male,0
+IP_2932439,ISIC_1170029,50.0,torso,benign,nevus,female,0
+IP_3541879,ISIC_4887384,45.0,torso,benign,nevus,male,0
+5aaf154f1165976913640566,ISIC_0032141,60.0,head/neck,benign,nevus,female,0
+IP_9284916,ISIC_6535961,55.0,torso,benign,nevus,male,0
+5e84037a2a5a4415fe695832,ISIC_3923443,40.0,upper extremity,benign,nevus,female,0
+5e8f9b514ad5f6bd588b21d1,ISIC_8483382,70.0,anterior torso,malignant,melanoma,male,1
+5c9546abdb6d7c19d0bc241b,ISIC_0061675,55.0,head/neck,benign,nevus,male,0
+IP_8338213,ISIC_7836905,50.0,torso,benign,nevus,male,0
+5aaf1525116597691363f03e,ISIC_0031718,70.0,posterior torso,malignant,melanoma,male,1
+5e8107ee74440928c0be2971,ISIC_9997614,50.0,upper extremity,benign,nevus,female,0
+5aaf1454116597691363874b,ISIC_0029616,45.0,lower extremity,benign,nevus,male,0
+5aaf161b1165976913646c55,ISIC_0034204,45.0,posterior torso,benign,nevus,male,0
+5c954653db6d7c19d0bc19b2,ISIC_0059010,45.0,palms/soles,benign,nevus,female,0
+5aaf1526116597691363f0cc,ISIC_0031729,50.0,anterior torso,benign,nevus,male,0
+5c9545acdb6d7c19d0bc0688,ISIC_0054104,25.0,lower extremity,benign,nevus,male,0
+5aaf16221165976913646f86,ISIC_0034268,35.0,anterior torso,benign,nevus,female,0
+5c954771db6d7c19d0bc3ae6,ISIC_0067510,55.0,palms/soles,malignant,melanoma,male,1
+558d648abae47801cf7353f8,ISIC_0011184,60.0,anterior torso,benign,nevus,female,0
+5c95471adb6d7c19d0bc313e,ISIC_0065038,30.0,anterior torso,benign,nevus,male,0
+IP_1236935,ISIC_1382763,55.0,torso,benign,nevus,male,0
+5aaf128b1165976913629f84,ISIC_0024968,50.0,lower extremity,benign,nevus,male,0
+5c954753db6d7c19d0bc37c5,ISIC_0066709,65.0,anterior torso,benign,nevus,male,0
+5aaf13fa1165976913635987,ISIC_0028698,60.0,lower extremity,benign,nevus,female,0
+IP_2228564,ISIC_2000319,40.0,torso,benign,nevus,male,0
+IP_6940325,ISIC_8361302,30.0,torso,benign,nevus,female,0
+5c9546f4db6d7c19d0bc2caf,ISIC_0063871,70.0,anterior torso,malignant,melanoma,male,1
+5aa300ec1165972a9e9616ff,ISIC_0024212,85.0,torso,malignant,squamous cell carcinoma,male,1
+5592ac779fc3c13155a57abc,ISIC_0011420,85.0,upper extremity,benign,nevus,male,0
+IP_9258690,ISIC_8699846,40.0,torso,benign,nevus,male,0
+5c9547aadb6d7c19d0bc418c,ISIC_0069212,60.0,anterior torso,benign,nevus,female,0
+5e95f291396583e25a5077de,ISIC_1412843,35.0,lower extremity,malignant,melanoma,male,1
+5c954602db6d7c19d0bc1087,ISIC_0056663,45.0,lower extremity,malignant,melanoma,male,1
+5aaf15e91165976913645302,ISIC_0033696,65.0,upper extremity,malignant,melanoma,male,1
+5436e3cdbae478396759f2cb,ISIC_0000253,30.0,posterior torso,benign,nevus,female,0
+581cd8969fc3c13dcd0e31f9,ISIC_0013739,50.0,lower extremity,malignant,melanoma,female,1
+5aaf15691165976913641222,ISIC_0032396,55.0,anterior torso,malignant,melanoma,male,1
+IP_1599082,ISIC_6304049,50.0,torso,benign,nevus,male,0
+5aaf156c11659769136413a7,ISIC_0032426,45.0,posterior torso,benign,nevus,female,0
+5c954742db6d7c19d0bc35b1,ISIC_0066177,30.0,lower extremity,benign,nevus,female,0
+5c95462ddb6d7c19d0bc1558,ISIC_0057896,65.0,torso,malignant,melanoma,male,1
+5aaf1295116597691362a426,ISIC_0025059,40.0,lower extremity,benign,nevus,female,0
+5aaf15f2116597691364579f,ISIC_0033789,35.0,anterior torso,benign,nevus,male,0
+5aaf150b116597691363e2f4,ISIC_0031451,45.0,lower extremity,benign,nevus,female,0
+5594318a9fc3c131551462a3,ISIC_0011888,45.0,anterior torso,benign,nevus,female,0
+5aaf1390116597691363232c,ISIC_0027607,35.0,posterior torso,benign,nevus,male,0
+5aaf15a611659769136430f1,ISIC_0033013,15.0,lower extremity,benign,nevus,female,0
+5aaf126c1165976913628fc7,ISIC_0024652,85.0,upper extremity,malignant,melanoma,female,1
+5c954600db6d7c19d0bc1048,ISIC_0056600,45.0,anterior torso,malignant,melanoma,male,1
+5c9547eddb6d7c19d0bc49d4,ISIC_0071332,55.0,anterior torso,benign,nevus,female,0
+5e8403ac2a5a4415fe695cea,ISIC_1968499,40.0,lower extremity,benign,nevus,male,0
+5c954759db6d7c19d0bc3866,ISIC_0066870,25.0,anterior torso,benign,nevus,male,0
+5e8f94784ad5f6bd588b1a48,ISIC_7872595,75.0,posterior torso,malignant,melanoma,male,1
+5c9545b7db6d7c19d0bc07c6,ISIC_0054422,60.0,upper extremity,benign,nevus,female,0
+5c954794db6d7c19d0bc3ee4,ISIC_0068532,40.0,anterior torso,benign,nevus,female,0
+5c954611db6d7c19d0bc120f,ISIC_0057055,25.0,anterior torso,benign,nevus,male,0
+5e95f34c396583e25a50876b,ISIC_3068885,50.0,upper extremity,malignant,melanoma,male,1
+5c95459fdb6d7c19d0bc0531,ISIC_0053761,75.0,head/neck,malignant,melanoma,male,1
+5aaf154d116597691364042a,ISIC_0032117,55.0,anterior torso,benign,nevus,female,0
+5c954788db6d7c19d0bc3d6c,ISIC_0068156,55.0,upper extremity,benign,nevus,male,0
+IP_8142299,ISIC_5144615,55.0,torso,benign,nevus,male,0
+5aaf12621165976913628aba,ISIC_0024551,50.0,anterior torso,benign,nevus,male,0
+5c9547c1db6d7c19d0bc4477,ISIC_0069959,30.0,anterior torso,benign,nevus,male,0
+558d616abae47801cf734894,ISIC_0010213,50.0,posterior torso,benign,nevus,male,0
+5aaf158a116597691364226e,ISIC_0032721,20.0,posterior torso,benign,nevus,male,0
+559431639fc3c1315514625d,ISIC_0011874,40.0,lower extremity,malignant,melanoma,female,1
+5e8403a02a5a4415fe695bb3,ISIC_9516221,45.0,upper extremity,benign,nevus,male,0
+5c954621db6d7c19d0bc13e9,ISIC_0057529,30.0,lower extremity,benign,nevus,female,0
+5e8106ae74440928c0be17c2,ISIC_8380421,30.0,upper extremity,benign,nevus,female,0
+581cd76d9fc3c13dcd0e222a,ISIC_0013320,70.0,lower extremity,benign,nevus,male,0
+5aaf14321165976913637660,ISIC_0029277,30.0,head/neck,benign,nevus,male,0
+5c9546c5db6d7c19d0bc2726,ISIC_0062454,60.0,anterior torso,malignant,melanoma,female,1
+5c954789db6d7c19d0bc3d80,ISIC_0068176,40.0,anterior torso,malignant,melanoma,female,1
+5c95470edb6d7c19d0bc2fcb,ISIC_0064667,55.0,palms/soles,malignant,melanoma,female,1
+IP_2109364,ISIC_6514426,70.0,torso,benign,nevus,male,0
+5e8403b12a5a4415fe695d55,ISIC_4676685,50.0,lower extremity,benign,nevus,male,0
+5e8402ab2a5a4415fe6955e8,ISIC_8297517,75.0,lower extremity,benign,nevus,female,0
+5c9547aadb6d7c19d0bc4182,ISIC_0069202,65.0,anterior torso,benign,nevus,male,0
+IP_6428232,ISIC_5659638,50.0,torso,benign,nevus,male,0
+559437779fc3c131551465c2,ISIC_0012045,70.0,anterior torso,benign,lentigo simplex,female,0
+5aaf147911659769136399eb,ISIC_0029989,40.0,anterior torso,benign,nevus,female,0
+5c954784db6d7c19d0bc3ce7,ISIC_0068023,80.0,anterior torso,malignant,melanoma,female,1
+5aaf1478116597691363994d,ISIC_0029976,45.0,posterior torso,benign,nevus,male,0
+5436e3fbbae478396759f52a,ISIC_0000555,50.0,torso,malignant,melanoma,male,1
+5c9546d1db6d7c19d0bc28ac,ISIC_0062844,65.0,anterior torso,malignant,melanoma,female,1
+5e95f376396583e25a508b02,ISIC_6904082,25.0,anterior torso,malignant,melanoma,male,1
+558d649dbae47801cf735464,ISIC_0011220,25.0,anterior torso,benign,nevus,female,0
+5c9546aadb6d7c19d0bc2402,ISIC_0061650,55.0,lower extremity,benign,nevus,female,0
+5c9545d6db6d7c19d0bc0b79,ISIC_0055369,45.0,lower extremity,benign,nevus,female,0
+IP_3970525,ISIC_5086254,45.0,torso,benign,nevus,female,0
+5c954796db6d7c19d0bc3f1a,ISIC_0068586,45.0,anterior torso,malignant,melanoma,male,1
+5c954621db6d7c19d0bc13f9,ISIC_0057545,85.0,head/neck,malignant,melanoma,female,1
+5aaf15b011659769136435a7,ISIC_0033107,65.0,lower extremity,benign,nevus,male,0
+558d6182bae47801cf734927,ISIC_0010261,60.0,posterior torso,benign,nevus,female,0
+5aaf12c4116597691362bbce,ISIC_0025533,35.0,lower extremity,benign,nevus,male,0
+IP_7911457,ISIC_3551438,50.0,torso,benign,nevus,female,0
+5aaf1492116597691363a638,ISIC_0030235,35.0,lower extremity,benign,nevus,female,0
+558d63fcbae47801cf7350b0,ISIC_0010904,30.0,posterior torso,benign,nevus,male,0
+IP_3145948,ISIC_6831244,45.0,torso,benign,nevus,male,0
+IP_2250929,ISIC_1250770,45.0,torso,benign,nevus,female,0
+5aaf1475116597691363982b,ISIC_0029954,45.0,anterior torso,benign,nevus,male,0
+5aaf15a71165976913643158,ISIC_0033021,45.0,anterior torso,benign,nevus,male,0
+5c9547a9db6d7c19d0bc416b,ISIC_0069179,70.0,head/neck,malignant,melanoma,male,1
+5e8105b874440928c0be0bd0,ISIC_7508527,35.0,posterior torso,benign,nevus,female,0
+5aaf144a116597691363824b,ISIC_0029516,20.0,posterior torso,benign,nevus,female,0
+5c95479bdb6d7c19d0bc3fbb,ISIC_0068747,60.0,anterior torso,malignant,melanoma,female,1
+5c954710db6d7c19d0bc3008,ISIC_0064728,65.0,anterior torso,benign,nevus,female,0
+IP_1273286,ISIC_8904639,45.0,torso,benign,nevus,male,0
+5c95478cdb6d7c19d0bc3ddc,ISIC_0068268,45.0,anterior torso,benign,nevus,male,0
+5c9547c0db6d7c19d0bc445f,ISIC_0069935,50.0,lower extremity,benign,nevus,female,0
+5c95466ddb6d7c19d0bc1c67,ISIC_0059703,35.0,anterior torso,malignant,melanoma,female,1
+5e8403822a5a4415fe6958f5,ISIC_0274382,65.0,torso,malignant,melanoma,male,1
+5c954777db6d7c19d0bc3ba9,ISIC_0067705,50.0,anterior torso,benign,nevus,male,0
+5c9546afdb6d7c19d0bc249e,ISIC_0061806,50.0,anterior torso,malignant,melanoma,male,1
+IP_4572846,ISIC_1918027,70.0,torso,benign,nevus,male,0
+IP_9756233,ISIC_7549766,60.0,torso,benign,nevus,male,0
+558d63e6bae47801cf735032,ISIC_0010862,80.0,lower extremity,malignant,melanoma,female,1
+IP_9756394,ISIC_1729039,55.0,torso,benign,nevus,male,0
+5c9547ccdb6d7c19d0bc45e2,ISIC_0070322,10.0,lower extremity,benign,nevus,female,0
+5aaf144711659769136380b4,ISIC_0029484,50.0,posterior torso,benign,nevus,male,0
+5aaf13ba11659769136338fb,ISIC_0028044,45.0,anterior torso,benign,nevus,female,0
+5e8106c374440928c0be1960,ISIC_1470642,30.0,posterior torso,benign,nevus,female,0
+5e8402aa2a5a4415fe6955cc,ISIC_3716384,30.0,upper extremity,benign,nevus,male,0
+5aaf1508116597691363e142,ISIC_0031417,35.0,upper extremity,malignant,melanoma,female,1
+5592fe589fc3c13155145dc7,ISIC_0011731,45.0,posterior torso,benign,nevus,female,0
+IP_1051664,ISIC_2179001,35.0,torso,benign,nevus,male,0
+5aaf160e1165976913646607,ISIC_0034077,40.0,posterior torso,benign,nevus,female,0
+5aaf15831165976913641f2b,ISIC_0032656,80.0,lower extremity,malignant,melanoma,male,1
+5c954674db6d7c19d0bc1d4d,ISIC_0059933,30.0,anterior torso,benign,nevus,male,0
+5c9547d1db6d7c19d0bc4690,ISIC_0070496,50.0,upper extremity,benign,nevus,female,0
+5aaf151a116597691363ea87,ISIC_0031603,35.0,head/neck,benign,nevus,female,0
+5aaf13d41165976913634638,ISIC_0028310,40.0,head/neck,benign,nevus,male,0
+5aa308d91165972a9e961b6d,ISIC_0024254,70.0,torso,malignant,basal cell carcinoma,female,1
+5c95461bdb6d7c19d0bc1330,ISIC_0057344,40.0,anterior torso,malignant,melanoma,male,1
+5aaf14b4116597691363b728,ISIC_0030573,50.0,lower extremity,benign,nevus,female,0
+5aaf14211165976913636dc4,ISIC_0029104,40.0,lower extremity,benign,nevus,female,0
+5aa3162a1165972a9e96207d,ISIC_0024302,25.0,torso,malignant,melanoma,female,1
+5aaf14421165976913637dfe,ISIC_0029430,45.0,upper extremity,benign,nevus,male,0
+558d6385bae47801cf734df5,ISIC_0010671,40.0,lower extremity,benign,nevus,female,0
+5c954703db6d7c19d0bc2e69,ISIC_0064313,65.0,anterior torso,benign,nevus,male,0
+5c9545dddb6d7c19d0bc0c2d,ISIC_0055549,45.0,anterior torso,malignant,melanoma,male,1
+5c95472ddb6d7c19d0bc334b,ISIC_0065563,65.0,head/neck,benign,nevus,female,0
+558d63ecbae47801cf735050,ISIC_0010872,80.0,head/neck,malignant,melanoma,male,1
+5c954706db6d7c19d0bc2edc,ISIC_0064428,50.0,head/neck,malignant,melanoma,female,1
+5aaf15cf11659769136445ad,ISIC_0033429,75.0,anterior torso,malignant,melanoma,male,1
+5c954788db6d7c19d0bc3d5d,ISIC_0068141,55.0,anterior torso,benign,nevus,female,0
+5e80fc3774440928c0bdf5e5,ISIC_8086499,60.0,posterior torso,benign,lentigo NOS,male,0
+5e81078474440928c0be23cb,ISIC_8725993,25.0,upper extremity,benign,seborrheic keratosis,female,0
+5aaf13dd1165976913634b0f,ISIC_0028407,55.0,upper extremity,benign,nevus,female,0
+5592fe9f9fc3c13155145e44,ISIC_0011756,30.0,anterior torso,benign,nevus,male,0
+5e8402452a5a4415fe694caf,ISIC_3690747,75.0,upper extremity,benign,nevus,female,0
+5aaf15b51165976913643872,ISIC_0033164,40.0,lower extremity,benign,nevus,female,0
+5c95462ddb6d7c19d0bc1559,ISIC_0057897,70.0,upper extremity,benign,nevus,male,0
+5c954648db6d7c19d0bc187c,ISIC_0058700,35.0,upper extremity,benign,nevus,female,0
+5c9546ecdb6d7c19d0bc2ba0,ISIC_0063600,15.0,anterior torso,benign,nevus,male,0
+5c954783db6d7c19d0bc3cd1,ISIC_0068001,40.0,anterior torso,benign,nevus,female,0
+5e8f921e4ad5f6bd588b114a,ISIC_4933735,65.0,anterior torso,benign,nevus,male,0
+5aaf15e21165976913644f6a,ISIC_0033624,70.0,head/neck,malignant,melanoma,male,1
+5c9547b2db6d7c19d0bc427f,ISIC_0069455,60.0,head/neck,benign,nevus,male,0
+5c9545d4db6d7c19d0bc0b1e,ISIC_0055278,70.0,anterior torso,benign,nevus,male,0
+5c954621db6d7c19d0bc13f3,ISIC_0057539,45.0,head/neck,malignant,melanoma,female,1
+5e84027e2a5a4415fe6951d8,ISIC_0811406,55.0,upper extremity,benign,nevus,male,0
+5aaf151a116597691363ea28,ISIC_0031596,55.0,posterior torso,benign,nevus,female,0
+5c954686db6d7c19d0bc1f8f,ISIC_0060511,70.0,anterior torso,malignant,melanoma,male,1
+582b8eda9fc3c1566bbcb843,ISIC_0014863,25.0,upper extremity,benign,nevus,male,0
+5aaf132f116597691362f254,ISIC_0026627,55.0,lower extremity,benign,nevus,male,0
+IP_2825529,ISIC_6399196,50.0,torso,benign,nevus,female,0
+5e8403e92a5a4415fe696234,ISIC_2302257,40.0,lower extremity,benign,nevus,female,0
+558d62dbbae47801cf7349f0,ISIC_0010328,65.0,head/neck,benign,solar lentigo,female,0
+5e8f8e7c4ad5f6bd588b04a6,ISIC_1665944,75.0,posterior torso,benign,nevus,male,0
+IP_2238880,ISIC_2412426,45.0,torso,benign,nevus,female,0
+5c954622db6d7c19d0bc140a,ISIC_0057562,45.0,anterior torso,benign,nevus,male,0
+5c9547fedb6d7c19d0bc4be7,ISIC_0071863,40.0,anterior torso,benign,nevus,male,0
+5e8402be2a5a4415fe6957af,ISIC_6041346,65.0,upper extremity,benign,nevus,female,0
+5aaf14a5116597691363b001,ISIC_0030430,40.0,lower extremity,benign,nevus,male,0
+582b90ce9fc3c1566bbcc16d,ISIC_0015113,55.0,lower extremity,benign,seborrheic keratosis,female,0
+5436e3dfbae478396759f3ed,ISIC_0000398,50.0,torso,malignant,melanoma,male,1
+5c95464edb6d7c19d0bc1932,ISIC_0058882,55.0,anterior torso,benign,nevus,female,0
+5e8403ae2a5a4415fe695d0f,ISIC_0824821,35.0,lower extremity,benign,nevus,male,0
+5c9546b1db6d7c19d0bc24ca,ISIC_0061850,5.0,head/neck,benign,nevus,male,0
+5e84028b2a5a4415fe6952f5,ISIC_1367387,60.0,upper extremity,benign,nevus,male,0
+5c9546fcdb6d7c19d0bc2da2,ISIC_0064114,75.0,head/neck,malignant,melanoma,male,1
+5e84037f2a5a4415fe6958ae,ISIC_8940418,50.0,lower extremity,benign,nevus,female,0
+5aaf148c116597691363a374,ISIC_0030179,35.0,anterior torso,benign,nevus,male,0
+558d643cbae47801cf73522d,ISIC_0011031,65.0,upper extremity,malignant,melanoma,male,1
+5aaf15c5116597691364407d,ISIC_0033325,60.0,anterior torso,malignant,melanoma,male,1
+5c95481ddb6d7c19d0bc4fa4,ISIC_0072820,80.0,upper extremity,malignant,melanoma,female,1
+581cd76d9fc3c13dcd0e2221,ISIC_0013319,75.0,upper extremity,benign,seborrheic keratosis,female,0
+5c954620db6d7c19d0bc13c8,ISIC_0057496,35.0,anterior torso,malignant,melanoma,male,1
+5aaf13aa11659769136330a7,ISIC_0027877,25.0,anterior torso,benign,nevus,male,0
+5592aea79fc3c13155a57c49,ISIC_0011498,45.0,posterior torso,malignant,melanoma,male,1
+5e8403922a5a4415fe695a68,ISIC_5952283,45.0,head/neck,benign,nevus,male,0
+5c9546b4db6d7c19d0bc2539,ISIC_0061961,60.0,anterior torso,benign,nevus,male,0
+5e8402522a5a4415fe694dbe,ISIC_8516223,50.0,upper extremity,benign,nevus,female,0
+581cd7ee9fc3c13dcd0e2878,ISIC_0013486,60.0,posterior torso,benign,nevus,male,0
+5aaf1300116597691362da66,ISIC_0026147,30.0,upper extremity,benign,nevus,female,0
+5c9545fbdb6d7c19d0bc0fbb,ISIC_0056459,45.0,head/neck,benign,nevus,female,0
+5c9546a8db6d7c19d0bc23bc,ISIC_0061580,55.0,anterior torso,malignant,melanoma,male,1
+5aaf14591165976913638999,ISIC_0029662,50.0,lower extremity,benign,nevus,female,0
+5e80f88d74440928c0bdec68,ISIC_1008321,70.0,posterior torso,benign,nevus,female,0
+5c954687db6d7c19d0bc1fa7,ISIC_0060535,40.0,anterior torso,benign,nevus,male,0
+5aaf1310116597691362e269,ISIC_0026308,55.0,posterior torso,benign,nevus,male,0
+IP_6949859,ISIC_8630818,50.0,torso,benign,nevus,male,0
+5aaf161e1165976913646da8,ISIC_0034230,45.0,anterior torso,benign,nevus,male,0
+581cd7899fc3c13dcd0e237d,ISIC_0013355,50.0,upper extremity,benign,nevus,female,0
+5592fef99fc3c13155145ee4,ISIC_0011788,85.0,lower extremity,benign,nevus,male,0
+558d6171bae47801cf7348b8,ISIC_0010225,30.0,lower extremity,malignant,melanoma,female,1
+5c954604db6d7c19d0bc10d0,ISIC_0056736,15.0,head/neck,benign,nevus,male,0
+5aaf146d11659769136393d4,ISIC_0029867,35.0,head/neck,benign,nevus,female,0
+5e84029c2a5a4415fe695483,ISIC_8007828,40.0,upper extremity,benign,nevus,male,0
+558d63afbae47801cf734ee8,ISIC_0010752,70.0,anterior torso,benign,nevus,male,0
+5c9546f0db6d7c19d0bc2c2e,ISIC_0063742,80.0,lower extremity,malignant,melanoma,male,1
+IP_0657134,ISIC_9482842,50.0,torso,benign,nevus,male,0
+5c9545f6db6d7c19d0bc0f2a,ISIC_0056314,35.0,anterior torso,benign,nevus,male,0
+5c954619db6d7c19d0bc1310,ISIC_0057312,65.0,upper extremity,benign,nevus,male,0
+5aaf132e116597691362f1ff,ISIC_0026621,45.0,anterior torso,benign,nevus,female,0
+5aaf13671165976913630e63,ISIC_0027190,80.0,upper extremity,malignant,melanoma,male,1
+IP_8094083,ISIC_2244742,45.0,torso,benign,nevus,male,0
+5aaf157211659769136416dd,ISIC_0032490,45.0,posterior torso,benign,nevus,male,0
+5e8106cb74440928c0be1a09,ISIC_2342769,60.0,head/neck,malignant,melanoma,female,1
+5c95469adb6d7c19d0bc2210,ISIC_0061152,65.0,upper extremity,malignant,melanoma,female,1
+5aaf13fa1165976913635992,ISIC_0028699,35.0,lower extremity,benign,nevus,male,0
+5c95462cdb6d7c19d0bc1536,ISIC_0057862,55.0,anterior torso,benign,nevus,female,0
+5c9546acdb6d7c19d0bc2442,ISIC_0061714,65.0,anterior torso,benign,nevus,female,0
+5aa3138d1165972a9e961eb2,ISIC_0024285,75.0,torso,malignant,basal cell carcinoma,male,1
+IP_5691366,ISIC_9847262,50.0,torso,benign,nevus,female,0
+5aaf15bd1165976913643c76,ISIC_0033244,45.0,head/neck,benign,nevus,male,0
+5c954628db6d7c19d0bc14b1,ISIC_0057729,55.0,lower extremity,malignant,melanoma,female,1
+5c954603db6d7c19d0bc10a6,ISIC_0056694,70.0,palms/soles,malignant,melanoma,male,1
+IP_1982047,ISIC_8101117,50.0,torso,benign,nevus,male,0
+5e8402ba2a5a4415fe69575f,ISIC_0700870,55.0,head/neck,benign,nevus,male,0
+5c9547f0db6d7c19d0bc4a22,ISIC_0071410,55.0,palms/soles,benign,nevus,female,0
+558d63fdbae47801cf7350b9,ISIC_0010907,35.0,upper extremity,benign,nevus,male,0
+5c954635db6d7c19d0bc1647,ISIC_0058135,55.0,lower extremity,malignant,melanoma,female,1
+IP_0891666,ISIC_0975874,65.0,torso,benign,nevus,male,0
+5592feda9fc3c13155145ead,ISIC_0011777,85.0,upper extremity,benign,nevus,male,0
+5aaf14251165976913636fba,ISIC_0029144,55.0,lower extremity,benign,nevus,female,0
+5c954627db6d7c19d0bc1494,ISIC_0057700,60.0,anterior torso,malignant,melanoma,female,1
+5c954806db6d7c19d0bc4ce8,ISIC_0072120,15.0,anterior torso,benign,nevus,female,0
+5c954636db6d7c19d0bc1674,ISIC_0058180,40.0,upper extremity,benign,nevus,male,0
+IP_1139701,ISIC_0592552,45.0,lower extremity,benign,nevus,female,0
+558d64bdbae47801cf73552d,ISIC_0011287,65.0,posterior torso,benign,nevus,male,0
+IP_9353814,ISIC_1741487,50.0,torso,benign,nevus,male,0
+5aaf1507116597691363e09c,ISIC_0031404,70.0,posterior torso,benign,nevus,male,0
+5c95477adb6d7c19d0bc3bfe,ISIC_0067790,35.0,lower extremity,benign,nevus,female,0
+5aaf13a31165976913632d12,ISIC_0027805,35.0,lower extremity,benign,nevus,male,0
+5aaf1396116597691363262a,ISIC_0027667,55.0,lower extremity,benign,nevus,male,0
+5e8403e62a5a4415fe6961f8,ISIC_1466051,45.0,head/neck,benign,nevus,male,0
+5aaf12d1116597691362c272,ISIC_0025666,50.0,upper extremity,benign,nevus,male,0
+5aaf13701165976913631359,ISIC_0027289,40.0,anterior torso,benign,nevus,female,0
+5c95467edb6d7c19d0bc1e8f,ISIC_0060255,20.0,lower extremity,benign,nevus,male,0
+5aaf126b1165976913628f8d,ISIC_0024648,55.0,lower extremity,benign,nevus,female,0
+IP_2842074,ISIC_8856727,50.0,torso,benign,nevus,female,0
+5c9546a6db6d7c19d0bc237c,ISIC_0061516,70.0,lower extremity,malignant,melanoma,male,1
+5aaf16031165976913646015,ISIC_0033958,50.0,lower extremity,benign,nevus,male,0
+5e8402942a5a4415fe6953c7,ISIC_0187812,65.0,lower extremity,benign,nevus,female,0
+581cd82c9fc3c13dcd0e2c02,ISIC_0013580,60.0,lower extremity,benign,seborrheic keratosis,female,0
+IP_7808420,ISIC_8292279,55.0,torso,benign,nevus,female,0
+584191759fc3c16793d59eb4,ISIC_0015930,65.0,head/neck,benign,seborrheic keratosis,male,0
+5e8f8f514ad5f6bd588b07bc,ISIC_1897507,75.0,anterior torso,benign,seborrheic keratosis,male,0
+IP_1233669,ISIC_9586114,55.0,torso,benign,nevus,female,0
+5e8403792a5a4415fe69580f,ISIC_6353336,45.0,lower extremity,benign,nevus,male,0
+5c95481cdb6d7c19d0bc4f8c,ISIC_0072796,25.0,lower extremity,benign,nevus,male,0
+5e80fc7574440928c0bdfa5d,ISIC_3684488,55.0,torso,malignant,melanoma,female,1
+5c9546d6db6d7c19d0bc292a,ISIC_0062970,35.0,lower extremity,malignant,melanoma,female,1
+5436e3ebbae478396759f43d,ISIC_0000438,50.0,torso,malignant,melanoma,male,1
+5c95477fdb6d7c19d0bc3c5b,ISIC_0067883,65.0,lower extremity,benign,nevus,female,0
+IP_8220633,ISIC_2653824,55.0,torso,benign,nevus,male,0
+5c95462edb6d7c19d0bc1575,ISIC_0057925,20.0,anterior torso,benign,nevus,male,0
+5aaf14e8116597691363d140,ISIC_0031096,45.0,lower extremity,benign,nevus,female,0
+5c95474cdb6d7c19d0bc36dc,ISIC_0066476,70.0,anterior torso,malignant,melanoma,male,1
+5c954727db6d7c19d0bc32a0,ISIC_0065392,30.0,anterior torso,benign,nevus,female,0
+5e8402732a5a4415fe6950c8,ISIC_1699154,55.0,head/neck,benign,nevus,female,0
+5aaf155d1165976913640c90,ISIC_0032285,45.0,anterior torso,benign,nevus,female,0
+5aaf12df116597691362c98e,ISIC_0025809,55.0,upper extremity,benign,nevus,male,0
+5aaf13ec11659769136352bf,ISIC_0028562,65.0,head/neck,benign,nevus,female,0
+582b8ff99fc3c1566bbcbd86,ISIC_0015006,30.0,head/neck,benign,seborrheic keratosis,female,0
+5aaf14d2116597691363c638,ISIC_0030875,50.0,posterior torso,benign,nevus,female,0
+5aaf14b1116597691363b5e7,ISIC_0030548,45.0,anterior torso,benign,nevus,male,0
+5592db5d9fc3c13155145981,ISIC_0011665,20.0,posterior torso,benign,nevus,female,0
+IP_0657134,ISIC_1964765,55.0,torso,benign,nevus,male,0
+5c9547f6db6d7c19d0bc4aec,ISIC_0071612,55.0,head/neck,malignant,melanoma,male,1
+5c9547d9db6d7c19d0bc4776,ISIC_0070726,45.0,lower extremity,benign,nevus,male,0
+IP_2482649,ISIC_2555358,80.0,torso,benign,nevus,male,0
+5aaf138e1165976913632277,ISIC_0027593,70.0,anterior torso,benign,nevus,female,0
+582b8df59fc3c1566bbcb3ed,ISIC_0014745,70.0,anterior torso,benign,nevus,male,0
+5592ccd39fc3c131551456d8,ISIC_0011570,50.0,lower extremity,benign,nevus,female,0
+IP_0358262,ISIC_0210423,50.0,torso,benign,nevus,male,0
+5e81008574440928c0be003a,ISIC_7960321,75.0,posterior torso,malignant,melanoma,male,1
+5aaf13a91165976913632ff6,ISIC_0027863,55.0,posterior torso,malignant,melanoma,male,1
+5aaf14ea116597691363d26a,ISIC_0031120,55.0,anterior torso,benign,nevus,male,0
+558d6463bae47801cf735317,ISIC_0011109,70.0,posterior torso,benign,nevus,male,0
+581cda169fc3c13dcd0e46c0,ISIC_0014290,60.0,upper extremity,malignant,melanoma,female,1
+5e84037a2a5a4415fe695828,ISIC_5209007,35.0,lower extremity,benign,nevus,male,0
+5aaf14ac116597691363b32b,ISIC_0030493,65.0,lower extremity,benign,nevus,female,0
+5e8403e22a5a4415fe6961a1,ISIC_4571395,75.0,upper extremity,benign,nevus,male,0
+5e8402952a5a4415fe6953ee,ISIC_5090400,40.0,upper extremity,benign,nevus,male,0
+5c954744db6d7c19d0bc35e5,ISIC_0066229,30.0,head/neck,benign,nevus,female,0
+5e8fa2b310344ce85ea8e5f1,ISIC_5408967,70.0,head/neck,benign,nevus,male,0
+IP_0738123,ISIC_4911407,55.0,torso,benign,nevus,female,0
+5aaf14a2116597691363ae87,ISIC_0030401,65.0,posterior torso,benign,nevus,male,0
+5c954755db6d7c19d0bc37f3,ISIC_0066755,55.0,lower extremity,benign,nevus,male,0
+5aaf13dc1165976913634a36,ISIC_0028390,40.0,anterior torso,benign,nevus,male,0
+5aaf14b8116597691363b912,ISIC_0030611,30.0,upper extremity,benign,nevus,female,0
+5c954747db6d7c19d0bc364a,ISIC_0066330,70.0,head/neck,benign,nevus,male,0
+5aaf14fb116597691363da5b,ISIC_0031278,70.0,posterior torso,benign,nevus,male,0
+5c954672db6d7c19d0bc1d23,ISIC_0059891,70.0,lower extremity,malignant,melanoma,male,1
+5aaf12a1116597691362a9f2,ISIC_0025175,50.0,upper extremity,benign,nevus,female,0
+5aaf12871165976913629dc6,ISIC_0024933,45.0,lower extremity,benign,nevus,female,0
+5aaf131e116597691362e97d,ISIC_0026450,35.0,anterior torso,benign,nevus,male,0
+5c954715db6d7c19d0bc3093,ISIC_0064867,65.0,anterior torso,benign,nevus,male,0
+5aaf158b1165976913642306,ISIC_0032733,70.0,posterior torso,malignant,melanoma,male,1
+IP_9141207,ISIC_3315795,50.0,torso,benign,nevus,female,0
+5aaf15f71165976913645a47,ISIC_0033842,30.0,posterior torso,benign,nevus,male,0
+558d62febae47801cf734ac2,ISIC_0010398,50.0,upper extremity,malignant,melanoma,female,1
+558d6368bae47801cf734d3e,ISIC_0010610,50.0,upper extremity,malignant,melanoma,female,1
+5c95473fdb6d7c19d0bc355e,ISIC_0066094,75.0,lower extremity,malignant,melanoma,female,1
+5c9546afdb6d7c19d0bc2490,ISIC_0061792,25.0,anterior torso,benign,nevus,male,0
+5e84027a2a5a4415fe69517f,ISIC_2560287,75.0,lower extremity,benign,nevus,female,0
+558d63f0bae47801cf73506b,ISIC_0010881,30.0,posterior torso,benign,nevus,female,0
+5c9547d9db6d7c19d0bc4782,ISIC_0070738,70.0,anterior torso,malignant,melanoma,female,1
+5e8100b274440928c0be031c,ISIC_7327423,65.0,posterior torso,malignant,melanoma,male,1
+5c9546f2db6d7c19d0bc2c6d,ISIC_0063805,85.0,anterior torso,benign,nevus,female,0
+5c954694db6d7c19d0bc2158,ISIC_0060968,50.0,anterior torso,malignant,melanoma,female,1
+IP_7743248,ISIC_5002738,35.0,torso,benign,nevus,female,0
+5aaf153e116597691363fcea,ISIC_0031972,65.0,head/neck,malignant,melanoma,female,1
+559437b89fc3c13155146635,ISIC_0012068,85.0,lower extremity,malignant,melanoma,male,1
+5aaf1450116597691363850c,ISIC_0029571,55.0,upper extremity,malignant,melanoma,female,1
+5e8fad22396583e25a5052ef,ISIC_5407240,65.0,upper extremity,benign,seborrheic keratosis,female,0
+IP_9327025,ISIC_9711252,55.0,torso,benign,seborrheic keratosis,male,0
+5aaf1301116597691362daf1,ISIC_0026158,75.0,upper extremity,malignant,melanoma,male,1
+5c954621db6d7c19d0bc13d9,ISIC_0057513,35.0,anterior torso,benign,nevus,female,0
+581cd7119fc3c13dcd0e1c90,ISIC_0013170,80.0,head/neck,benign,seborrheic keratosis,male,0
+5c954678db6d7c19d0bc1dd0,ISIC_0060064,45.0,anterior torso,benign,nevus,male,0
+IP_0900824,ISIC_7991424,60.0,torso,benign,nevus,male,0
+5c954683db6d7c19d0bc1f1f,ISIC_0060399,65.0,head/neck,malignant,melanoma,male,1
+5c9546b4db6d7c19d0bc2527,ISIC_0061943,35.0,lower extremity,benign,nevus,female,0
+558d6132bae47801cf73475c,ISIC_0010109,55.0,anterior torso,benign,nevus,male,0
+5aaf15d91165976913644a87,ISIC_0033526,75.0,posterior torso,malignant,melanoma,female,1
+5592fe8f9fc3c13155145e30,ISIC_0011752,85.0,anterior torso,malignant,basal cell carcinoma,male,1
+IP_5820702,ISIC_9962388,50.0,torso,benign,nevus,male,0
+5e8402972a5a4415fe69541a,ISIC_1372003,50.0,lower extremity,benign,nevus,female,0
+5aaf12fa116597691362d75d,ISIC_0026086,55.0,upper extremity,malignant,melanoma,male,1
+5c9545c2db6d7c19d0bc0922,ISIC_0054770,75.0,lower extremity,malignant,melanoma,male,1
+IP_3145948,ISIC_1850196,50.0,torso,benign,nevus,male,0
+558d60b7bae47801cf734492,ISIC_0009971,70.0,lower extremity,malignant,melanoma,female,1
+5c9545c1db6d7c19d0bc090c,ISIC_0054748,70.0,anterior torso,malignant,melanoma,male,1
+5c9545d6db6d7c19d0bc0b5d,ISIC_0055341,45.0,lower extremity,benign,nevus,male,0
+5aaf13e51165976913634ec4,ISIC_0028482,55.0,anterior torso,benign,nevus,male,0
+5c954788db6d7c19d0bc3d6e,ISIC_0068158,40.0,anterior torso,benign,nevus,female,0
+IP_7518373,ISIC_4745004,55.0,torso,benign,nevus,female,0
+5e8402642a5a4415fe694f70,ISIC_8191985,60.0,upper extremity,benign,nevus,female,0
+IP_0738123,ISIC_0947634,55.0,torso,benign,nevus,female,0
+5c954610db6d7c19d0bc11ed,ISIC_0057021,55.0,head/neck,benign,nevus,female,0
+5c954703db6d7c19d0bc2e70,ISIC_0064320,55.0,lower extremity,malignant,melanoma,male,1
+558d62e8bae47801cf734a41,ISIC_0010355,85.0,head/neck,malignant,melanoma,female,1
+5c95462fdb6d7c19d0bc15a1,ISIC_0057969,70.0,anterior torso,benign,nevus,male,0
+5aaf155611659769136408e5,ISIC_0032211,45.0,head/neck,benign,nevus,female,0
+5aaf136d11659769136311ca,ISIC_0027258,55.0,posterior torso,benign,nevus,female,0
+5c9547afdb6d7c19d0bc4225,ISIC_0069365,45.0,upper extremity,malignant,melanoma,female,1
+5c9546b7db6d7c19d0bc2592,ISIC_0062050,50.0,anterior torso,benign,nevus,female,0
+IP_5203658,ISIC_2449103,75.0,torso,benign,seborrheic keratosis,male,0
+5aa305d51165972a9e961987,ISIC_0024236,65.0,torso,malignant,melanoma,male,1
+5e95f259396583e25a507360,ISIC_5191344,40.0,upper extremity,malignant,melanoma,female,1
+5c9547f7db6d7c19d0bc4b07,ISIC_0071639,35.0,upper extremity,benign,nevus,male,0
+5aaf15ce1165976913644508,ISIC_0033416,70.0,anterior torso,malignant,melanoma,male,1
+5c9546ccdb6d7c19d0bc2807,ISIC_0062679,50.0,upper extremity,benign,nevus,female,0
+5c9545bfdb6d7c19d0bc08b3,ISIC_0054659,45.0,anterior torso,benign,nevus,female,0
+5aaf132c116597691362f0ff,ISIC_0026601,25.0,posterior torso,benign,nevus,male,0
+5aaf14a2116597691363ae06,ISIC_0030390,55.0,posterior torso,malignant,melanoma,female,1
+5e8403892a5a4415fe6959a2,ISIC_0920000,45.0,lower extremity,benign,nevus,male,0
+5aaf144c116597691363830c,ISIC_0029531,35.0,anterior torso,benign,nevus,female,0
+5aaf139511659769136325d1,ISIC_0027660,40.0,lower extremity,benign,nevus,female,0
+5aaf149d116597691363abff,ISIC_0030350,30.0,lower extremity,benign,nevus,female,0
+5aaf12d6116597691362c4c9,ISIC_0025713,25.0,upper extremity,benign,nevus,female,0
+5aaf1517116597691363e8f9,ISIC_0031572,45.0,anterior torso,benign,nevus,female,0
+5c954693db6d7c19d0bc2129,ISIC_0060921,30.0,anterior torso,benign,nevus,male,0
+5e8402892a5a4415fe6952db,ISIC_3633794,45.0,lower extremity,benign,nevus,female,0
+5c954747db6d7c19d0bc3648,ISIC_0066328,60.0,lower extremity,benign,nevus,female,0
+5aaf143911659769136379e0,ISIC_0029347,50.0,posterior torso,benign,nevus,male,0
+5c95462adb6d7c19d0bc1508,ISIC_0057816,45.0,anterior torso,benign,nevus,male,0
+5aaf15731165976913641751,ISIC_0032500,40.0,upper extremity,benign,nevus,male,0
+5e8403b32a5a4415fe695d76,ISIC_4523138,50.0,lower extremity,benign,nevus,female,0
+558d63eabae47801cf735044,ISIC_0010868,60.0,upper extremity,benign,nevus,female,0
+5c9547b4db6d7c19d0bc42bf,ISIC_0069519,35.0,anterior torso,benign,nevus,female,0
+5c9546cfdb6d7c19d0bc2870,ISIC_0062784,15.0,lower extremity,benign,nevus,female,0
+5aaf14ec116597691363d366,ISIC_0031139,35.0,anterior torso,benign,nevus,female,0
+581cd6e69fc3c13dcd0e195a,ISIC_0013084,45.0,lateral torso,benign,nevus,female,0
+5436e3d0bae478396759f313,ISIC_0000289,75.0,head/neck,malignant,melanoma,male,1
+5c9545e4db6d7c19d0bc0d0b,ISIC_0055771,75.0,upper extremity,malignant,melanoma,female,1
+5c954800db6d7c19d0bc4c2f,ISIC_0071935,35.0,anterior torso,benign,nevus,female,0
+558d64bbbae47801cf735521,ISIC_0011283,40.0,posterior torso,benign,nevus,female,0
+582b933c9fc3c1566bbccc92,ISIC_0015416,25.0,head/neck,benign,nevus,female,0
+5aaf14401165976913637d53,ISIC_0029416,40.0,posterior torso,benign,nevus,female,0
+5c95474fdb6d7c19d0bc3743,ISIC_0066579,80.0,lower extremity,benign,nevus,female,0
+5e8403902a5a4415fe695a30,ISIC_3143468,40.0,lower extremity,benign,nevus,male,0
+5e84028e2a5a4415fe69534b,ISIC_7027477,45.0,lower extremity,benign,nevus,female,0
+5c9545a3db6d7c19d0bc059f,ISIC_0053871,50.0,anterior torso,benign,nevus,female,0
+5c9547cfdb6d7c19d0bc4633,ISIC_0070403,70.0,anterior torso,malignant,melanoma,male,1
+IP_1418292,ISIC_1553853,40.0,torso,benign,nevus,female,0
+5aaf1537116597691363f982,ISIC_0031904,45.0,anterior torso,benign,nevus,female,0
+5aaf135111659769136303ae,ISIC_0026976,60.0,posterior torso,malignant,melanoma,male,1
+5e95f370396583e25a508a7d,ISIC_3446357,65.0,upper extremity,malignant,melanoma,male,1
+5aaf158f11659769136424b8,ISIC_0032767,65.0,posterior torso,benign,nevus,male,0
+5aaf140f116597691363644a,ISIC_0028914,45.0,lower extremity,benign,nevus,female,0
+5c9547dadb6d7c19d0bc479d,ISIC_0070765,50.0,lower extremity,benign,nevus,male,0
+5aa316451165972a9e962098,ISIC_0024303,60.0,torso,malignant,squamous cell carcinoma,male,1
+IP_3128221,ISIC_2158871,45.0,torso,benign,nevus,male,0
+5c95477adb6d7c19d0bc3c0d,ISIC_0067805,65.0,upper extremity,malignant,melanoma,male,1
+5c9545a4db6d7c19d0bc05a9,ISIC_0053881,40.0,lower extremity,benign,nevus,male,0
+IP_0079464,ISIC_6022423,50.0,torso,benign,nevus,male,0
+5436e3c7bae478396759f245,ISIC_0000186,5.0,upper extremity,benign,nevus,male,0
+5aaf12b3116597691362b30d,ISIC_0025357,35.0,anterior torso,benign,nevus,female,0
+5aaf1318116597691362e660,ISIC_0026387,65.0,lower extremity,benign,nevus,female,0
+5c9546cadb6d7c19d0bc27d8,ISIC_0062632,50.0,lower extremity,malignant,melanoma,female,1
+5c9545dddb6d7c19d0bc0c25,ISIC_0055541,45.0,lower extremity,benign,nevus,male,0
+558d63d2bae47801cf734fb4,ISIC_0010820,50.0,head/neck,benign,nevus,female,0
+5c95469bdb6d7c19d0bc222c,ISIC_0061180,60.0,anterior torso,benign,nevus,male,0
+5aaf12d0116597691362c198,ISIC_0025649,50.0,anterior torso,benign,nevus,female,0
+5e95f357396583e25a508838,ISIC_2837581,85.0,head/neck,malignant,melanoma,female,1
+5c9547acdb6d7c19d0bc41c0,ISIC_0069264,65.0,head/neck,malignant,melanoma,male,1
+5aaf1318116597691362e6d3,ISIC_0026397,80.0,posterior torso,benign,nevus,male,0
+581cd6299fc3c13dcd0e0c67,ISIC_0012737,30.0,lower extremity,benign,nevus,female,0
+5c95460fdb6d7c19d0bc11d5,ISIC_0056997,65.0,upper extremity,benign,nevus,female,0
+5e81079b74440928c0be25a8,ISIC_5552385,50.0,posterior torso,benign,nevus,male,0
+5c954596db6d7c19d0bc044d,ISIC_0053533,40.0,anterior torso,malignant,melanoma,male,1
+5aaf13b71165976913633749,ISIC_0028010,50.0,anterior torso,benign,nevus,male,0
+IP_3458395,ISIC_4633003,40.0,torso,benign,nevus,female,0
+5aaf13f91165976913635962,ISIC_0028695,75.0,posterior torso,benign,nevus,female,0
+5c95478bdb6d7c19d0bc3dc5,ISIC_0068245,35.0,anterior torso,benign,nevus,male,0
+5c954633db6d7c19d0bc1617,ISIC_0058087,80.0,anterior torso,malignant,melanoma,female,1
+5c9545dfdb6d7c19d0bc0c75,ISIC_0055621,15.0,lower extremity,benign,nevus,female,0
+5aaf1320116597691362eac1,ISIC_0026475,40.0,posterior torso,malignant,melanoma,female,1
+5aaf15c4116597691364402c,ISIC_0033319,35.0,lower extremity,benign,nevus,female,0
+5aaf1320116597691362ea74,ISIC_0026469,45.0,anterior torso,benign,nevus,female,0
+IP_8402958,ISIC_2572370,35.0,torso,benign,nevus,male,0
+5aaf14ba116597691363ba17,ISIC_0030632,35.0,anterior torso,benign,nevus,female,0
+5e8403e32a5a4415fe6961af,ISIC_9305209,75.0,lower extremity,benign,nevus,male,0
+5c95471fdb6d7c19d0bc31c4,ISIC_0065172,30.0,anterior torso,benign,nevus,female,0
+5c9546fadb6d7c19d0bc2d57,ISIC_0064039,15.0,anterior torso,benign,nevus,male,0
+5e84039c2a5a4415fe695b53,ISIC_8119644,80.0,lower extremity,benign,nevus,male,0
+5aaf161e1165976913646dd4,ISIC_0034234,30.0,anterior torso,benign,nevus,female,0
+5c95473adb6d7c19d0bc34cb,ISIC_0065947,80.0,anterior torso,malignant,melanoma,female,1
+5aaf14ab116597691363b2c7,ISIC_0030486,80.0,head/neck,malignant,melanoma,male,1
+559435e49fc3c131551464b2,ISIC_0011992,85.0,lower extremity,benign,nevus,female,0
+IP_9616120,ISIC_1907939,75.0,torso,benign,nevus,female,0
+5c954805db6d7c19d0bc4cdf,ISIC_0072111,75.0,palms/soles,malignant,melanoma,female,1
+5c954721db6d7c19d0bc3215,ISIC_0065253,70.0,lower extremity,malignant,melanoma,male,1
+5c9547e8db6d7c19d0bc4949,ISIC_0071193,85.0,head/neck,malignant,melanoma,male,1
+IP_8631837,ISIC_6613228,50.0,torso,benign,nevus,male,0
+5aaf12d0116597691362c1cd,ISIC_0025653,55.0,anterior torso,benign,nevus,female,0
+5c95465adb6d7c19d0bc1a63,ISIC_0059187,25.0,lower extremity,benign,nevus,male,0
+558d6353bae47801cf734cc0,ISIC_0010568,65.0,lower extremity,benign,nevus,female,0
+5aaf143c1165976913637b10,ISIC_0029370,85.0,upper extremity,malignant,melanoma,female,1
+5aaf15a11165976913642e34,ISIC_0032958,70.0,lower extremity,malignant,melanoma,male,1
+5c9547abdb6d7c19d0bc41ad,ISIC_0069245,65.0,anterior torso,malignant,melanoma,female,1
+IP_3237448,ISIC_7353973,35.0,torso,benign,nevus,male,0
+5c9546bcdb6d7c19d0bc2626,ISIC_0062198,30.0,anterior torso,benign,nevus,female,0
+5c9547a6db6d7c19d0bc4115,ISIC_0069093,40.0,head/neck,malignant,melanoma,female,1
+5aaf12c3116597691362bb08,ISIC_0025517,50.0,anterior torso,benign,nevus,male,0
+5aa306411165972a9e9619bd,ISIC_0024238,85.0,torso,malignant,melanoma,female,1
+5c95470edb6d7c19d0bc2fd0,ISIC_0064672,45.0,lower extremity,malignant,melanoma,female,1
+5aaf137a1165976913631852,ISIC_0027389,45.0,anterior torso,benign,nevus,female,0
+5e95f372396583e25a508a9c,ISIC_6269166,75.0,upper extremity,malignant,melanoma,female,1
+558d6462bae47801cf73530e,ISIC_0011106,45.0,head/neck,benign,nevus,male,0
+5c954785db6d7c19d0bc3cfe,ISIC_0068046,40.0,anterior torso,benign,nevus,male,0
+5c9547fadb6d7c19d0bc4b65,ISIC_0071733,25.0,upper extremity,benign,nevus,female,0
+5c954592db6d7c19d0bc0400,ISIC_0053456,50.0,anterior torso,malignant,melanoma,female,1
+5c954740db6d7c19d0bc3572,ISIC_0066114,80.0,anterior torso,malignant,melanoma,female,1
+5c9546b7db6d7c19d0bc2588,ISIC_0062040,60.0,oral/genital,benign,nevus,female,0
+5594377c9fc3c131551465cc,ISIC_0012047,40.0,upper extremity,malignant,melanoma,male,1
+558d63cbbae47801cf734f90,ISIC_0010808,60.0,lower extremity,malignant,melanoma,male,1
+5aaf146d1165976913639420,ISIC_0029873,45.0,upper extremity,benign,nevus,male,0
+558d614fbae47801cf7347fb,ISIC_0010162,85.0,upper extremity,malignant,melanoma,female,1
+5e8f94504ad5f6bd588b18e3,ISIC_4267177,55.0,lower extremity,benign,nevus,male,0
+5c9547d5db6d7c19d0bc46fe,ISIC_0070606,40.0,head/neck,benign,nevus,female,0
+5aaf132c116597691362f08c,ISIC_0026591,55.0,upper extremity,benign,nevus,male,0
+5aaf158d11659769136423fe,ISIC_0032752,50.0,anterior torso,benign,nevus,male,0
+IP_9045497,ISIC_6222956,75.0,torso,benign,nevus,male,0
+5c9546a7db6d7c19d0bc2398,ISIC_0061544,50.0,anterior torso,malignant,melanoma,male,1
+5e84039d2a5a4415fe695b69,ISIC_6705932,60.0,lower extremity,benign,nevus,female,0
+5592fed29fc3c13155145e9e,ISIC_0011774,65.0,head/neck,malignant,melanoma,male,1
+5c954802db6d7c19d0bc4c75,ISIC_0072005,35.0,head/neck,benign,nevus,female,0
+IP_3587277,ISIC_1641366,60.0,torso,benign,nevus,male,0
+IP_3293726,ISIC_8686847,80.0,torso,benign,nevus,male,0
+5c9546d3db6d7c19d0bc28ec,ISIC_0062908,80.0,anterior torso,malignant,melanoma,female,1
+5aaf158a11659769136422ab,ISIC_0032726,65.0,head/neck,malignant,melanoma,male,1
+5aaf14701165976913639565,ISIC_0029898,80.0,anterior torso,benign,nevus,male,0
+5aaf125c11659769136287bc,ISIC_0024491,70.0,posterior torso,benign,nevus,male,0
+5592dc819fc3c13155145a9e,ISIC_0011721,60.0,posterior torso,benign,nevus,male,0
+5c954649db6d7c19d0bc189a,ISIC_0058730,35.0,anterior torso,benign,nevus,male,0
+IP_5820702,ISIC_9783128,50.0,torso,benign,nevus,male,0
+5c954752db6d7c19d0bc379a,ISIC_0066666,75.0,upper extremity,malignant,melanoma,female,1
+5c954713db6d7c19d0bc3058,ISIC_0064808,80.0,anterior torso,benign,nevus,male,0
+5e95f377396583e25a508b13,ISIC_8922893,50.0,upper extremity,malignant,melanoma,male,1
+5c954687db6d7c19d0bc1fa8,ISIC_0060536,85.0,upper extremity,benign,nevus,male,0
+IP_0521041,ISIC_4124332,65.0,lower extremity,benign,nevus,male,0
+5aaf1535116597691363f85f,ISIC_0031881,50.0,lower extremity,benign,nevus,female,0
+5e81073f74440928c0be20e3,ISIC_2479346,30.0,posterior torso,benign,nevus,female,0
+5c95480adb6d7c19d0bc4d64,ISIC_0072244,35.0,lower extremity,benign,nevus,female,0
+5aaf14f1116597691363d567,ISIC_0031179,45.0,lower extremity,benign,nevus,female,0
+558d616bbae47801cf73489a,ISIC_0010215,80.0,posterior torso,benign,nevus,female,0
+5c95461edb6d7c19d0bc1393,ISIC_0057443,40.0,anterior torso,benign,nevus,female,0
+5aaf15a9116597691364327c,ISIC_0033044,25.0,lower extremity,benign,nevus,male,0
+IP_2999492,ISIC_0924701,65.0,lower extremity,benign,nevus,male,0
+5c9545d2db6d7c19d0bc0af5,ISIC_0055237,60.0,anterior torso,benign,nevus,male,0
+5aaf15631165976913640f75,ISIC_0032342,60.0,lower extremity,benign,nevus,male,0
+5aaf1506116597691363dff3,ISIC_0031391,45.0,posterior torso,benign,nevus,male,0
+5c954627db6d7c19d0bc14aa,ISIC_0057722,40.0,lower extremity,benign,nevus,male,0
+5c954732db6d7c19d0bc33eb,ISIC_0065723,80.0,head/neck,malignant,melanoma,female,1
+581cd95f9fc3c13dcd0e3d3c,ISIC_0014038,50.0,posterior torso,benign,seborrheic keratosis,male,0
+5c9545abdb6d7c19d0bc066f,ISIC_0054079,75.0,anterior torso,malignant,melanoma,female,1
+5e8402b12a5a4415fe69567c,ISIC_1201523,45.0,lower extremity,benign,nevus,female,0
+5c9546c8db6d7c19d0bc278f,ISIC_0062559,50.0,palms/soles,malignant,melanoma,male,1
+5aaf156c1165976913641384,ISIC_0032423,70.0,posterior torso,benign,nevus,male,0
+5c9547fadb6d7c19d0bc4b67,ISIC_0071735,45.0,anterior torso,benign,nevus,male,0
+5c9547a7db6d7c19d0bc4140,ISIC_0069136,30.0,lower extremity,benign,nevus,female,0
+5aaf14b8116597691363b93f,ISIC_0030615,60.0,posterior torso,benign,nevus,male,0
+5e8402642a5a4415fe694f6d,ISIC_4722119,50.0,upper extremity,benign,nevus,male,0
+IP_3255507,ISIC_5294689,55.0,torso,benign,nevus,male,0
+5aaf13c61165976913633f31,ISIC_0028169,45.0,posterior torso,benign,nevus,male,0
+5e81073974440928c0be2066,ISIC_3624727,35.0,anterior torso,benign,nevus,female,0
+5aaf13531165976913630473,ISIC_0026991,45.0,lower extremity,benign,nevus,female,0
+5aaf14f0116597691363d51a,ISIC_0031173,5.0,lower extremity,benign,nevus,male,0
+5e80fbed74440928c0bdf3ce,ISIC_8503192,50.0,posterior torso,benign,lentigo NOS,male,0
+558d639fbae47801cf734e88,ISIC_0010720,85.0,head/neck,benign,solar lentigo,male,0
+5aaf128d116597691362a0be,ISIC_0024992,40.0,anterior torso,benign,nevus,male,0
+5c954791db6d7c19d0bc3e79,ISIC_0068425,65.0,anterior torso,benign,nevus,male,0
+558d6184bae47801cf734936,ISIC_0010266,55.0,upper extremity,malignant,melanoma,female,1
+5aaf129a116597691362a674,ISIC_0025105,65.0,posterior torso,malignant,melanoma,male,1
+5aaf14141165976913636723,ISIC_0028971,35.0,posterior torso,benign,nevus,female,0
+5592ff0b9fc3c13155145efd,ISIC_0011793,85.0,lower extremity,benign,nevus,male,0
+5aaf148c116597691363a381,ISIC_0030180,30.0,lower extremity,benign,nevus,male,0
+5c954691db6d7c19d0bc20f9,ISIC_0060873,50.0,lower extremity,malignant,melanoma,female,1
+IP_9576478,ISIC_0190870,50.0,torso,benign,nevus,male,0
+5c95463edb6d7c19d0bc1771,ISIC_0058433,85.0,head/neck,malignant,melanoma,male,1
+IP_0699776,ISIC_8352392,80.0,torso,benign,nevus,male,0
+5c9547d3db6d7c19d0bc46c9,ISIC_0070553,75.0,palms/soles,malignant,melanoma,female,1
+5c95467edb6d7c19d0bc1e88,ISIC_0060248,40.0,head/neck,malignant,melanoma,male,1
+5c9546addb6d7c19d0bc2465,ISIC_0061749,35.0,lower extremity,benign,nevus,female,0
+5c95467fdb6d7c19d0bc1ea7,ISIC_0060279,45.0,anterior torso,benign,nevus,female,0
+5e84038b2a5a4415fe6959ce,ISIC_0679494,55.0,upper extremity,benign,nevus,male,0
+558d644dbae47801cf735290,ISIC_0011064,50.0,anterior torso,benign,nevus,male,0
+5e80f8a274440928c0bdeddb,ISIC_7560157,65.0,anterior torso,benign,seborrheic keratosis,male,0
+5c954623db6d7c19d0bc141a,ISIC_0057578,65.0,anterior torso,benign,nevus,female,0
+5aaf135411659769136304ed,ISIC_0027000,45.0,lower extremity,benign,nevus,female,0
+5c954733db6d7c19d0bc340a,ISIC_0065754,80.0,anterior torso,benign,nevus,male,0
+5c9545a5db6d7c19d0bc05cb,ISIC_0053915,55.0,lower extremity,benign,nevus,female,0
+5aaf15aa11659769136432ba,ISIC_0033049,35.0,lower extremity,benign,nevus,male,0
+5aaf160f116597691364666e,ISIC_0034086,50.0,posterior torso,benign,nevus,male,0
+5c9547d5db6d7c19d0bc4706,ISIC_0070614,45.0,lower extremity,malignant,melanoma,female,1
+5e8402752a5a4415fe69510c,ISIC_3248316,45.0,upper extremity,benign,nevus,male,0
+5c9547c7db6d7c19d0bc4546,ISIC_0070166,60.0,anterior torso,malignant,melanoma,female,1
+5c954789db6d7c19d0bc3d84,ISIC_0068180,5.0,upper extremity,benign,nevus,female,0
