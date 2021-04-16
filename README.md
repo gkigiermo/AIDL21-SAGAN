@@ -1,1 +1,3 @@
-# AIDL21-SAGAN
+# AIDL21: GAN-based synthetic medical image augmentation
+
+
