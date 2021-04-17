@@ -71,10 +71,10 @@ Above all the main purpose of this project is to demonstrate the potential solut
 ## 3. Deep Neural Networks Models <a name="3-dnns"></a>
 ### 3.1. Generative Adversarial Networks (GANs)  <a name="31-gans"></a>
 
-- [DC-GAN](DC-GAN)<a name="DC-GAN"></a>
+- [DC-GAN](DC-GAN)<a name="DC-SN-GAN"></a>
 - [W-GAN](W-GAN)<a name="W-GAN"></a>
 - [AC-GAN](AC-GAN)<a name="AC-GAN"></a>
-- [SN-GAN](SN-GAN)<a name="SN-GAN"></a>
+- [SN-GAN](SN-GAN)<a name="DC-SN-GAN"></a>
 ### 3.2. EfficientNet  <a name="32-efficientnet"></a> 
 
 
@@ -85,5 +85,40 @@ Above all the main purpose of this project is to demonstrate the potential solut
 
 ## 5. Results <a name="5-results"></a>
 ### 5.1. Evaluation Metrics  <a name="51-metrics"></a>
+### Metrics
+
+Since lack from any medical expertise for assessing the quality of the generated images, we have implemented several metrics to measure traits of our output pictures.
+
+#### Peak Signal-to-Noise Ratio (PSNR)
+
+This metric is used to measure the quality of a given image (noise), which underwent some transformation, compared to the its original (signal). In our case, the original picture is the real batch of images feeded into our network and the noise is represented by a given generated image.
+
+#### Structural Similarity (SSIM)
+
+SSIM aims to predict the percieved the quality of a digital image. It is a perception based model that computes the degradation in an image comparison as in the precived change in the structural information. This metric captures the perceptual changes in traits such as luminance and contrast.
+
+#### Multi-Scale Gradient Magnitude Similarity Deviation (MS GMSD)
+
+MS-GMSD works on a similar version as SSIM, but it also accounts for different scales for computing luminance and incorporates chromatic distorsion support.
+
+#### Mean Deviation Similarity Index (MDSI)
+
+MDSI computes the joint similarity map of two chromatic channels through standard deviation pooling, which serves as an estimate of color changes. 
+
+#### Haar Perceptural Similarity Index (HaarPSI)
+
+HaarPSI works on the Haar wavelet decomposition and assesses local similarities between two images and the relative importance of those local regions. This metric is the current state-of-the-art as for the agreement with human opinion on image quality. 
+
+#### Bar of measures
+
+Measure | Bar | 
+:------: | :------:|
+PSNR   | Context dependant, generally the higher the better.      | 
+SSIM   |  Ranges from 0 to 1, being 1 the best value.     | 
+MS-GMSD |  Ranges from 0 to 1, being 1 the best value.    |  
+MDSI   |   Ranges from 0 to inf, being 0 the best value.    |
+HaarPSI |   Ranges from 0 to 1, being 1 the best value.   |
+
+
 
 ## 6. Conclusions <a name="6-conclusions"></a>
