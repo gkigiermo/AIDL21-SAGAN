@@ -5,14 +5,14 @@ This repository contains different Generative Adversarial Networks (GANs) implem
 Our project aims to display the effectiveness of synthetic  data generation as a form of image augmentation technique to improve the predictive classification performance of a scaled up Convolutional Neural Network (CNN) known as EfficientNet, proposed in [ICML 2019](https://arxiv.org/pdf/1905.11946.pdf). Therefore we suggest an augmentation scheme that  is  based  on  combination  of  standard  image  perturbation  and  synthetic  dermatologic  lesion  generation  using  GAN  for improved skin cancer classification.
 
 ### About
-Final Project for the UPC [Artificial Intelligence with Deep Learning Postgraduate Course](https://www.talent.upc.edu/ing/estudis/formacio/curs/310402/postgraduate-course-artificial-intelligence-deep-learning/) 2020-2021 edition, authored by:
+Final Project for the UPC [Artificial Intelligence with Deep Learning Postgraduate Course](https://www.talent.upc.edu/ing/estudis/formacio/curs/310402/postgraduate-course-artificial-intelligence-deep-learning/) 2020-2021 online edition, authored by:
 
 * [Alexis Molina](https://www.linkedin.com/in/alexismolinamr/)
 * [Antonio Castaño](https://www.linkedin.com/in/antoniocasblan/)
 * [Guillermo Oyarzun](http://www.cttc.upc.edu/?q=user/93)
 * [Marcos Estecha](https://www.linkedin.com/in/marcos-estecha-07a54a113)
 
-Advised by professor [Santiago Puch](https://www.linkedin.com/in/eva-mohedano-261b6889/)
+Advised by [Santiago Puch](https://www.linkedin.com/in/eva-mohedano-261b6889/)
 
 ## Table of Contents <a name="toc"></a>
 
@@ -54,11 +54,13 @@ In this project we have explored the possibilities of applying different flavors
 
 
 ### 1.2. Objectives <a name="12-milestones"></a>
-- Develop, implement and train a classification model.
-- GAN-based model for synthetic augmentation malign cases.
-- Establish a solid base line for the classifier.
-- Compare the performance of the classifier using the synthesized data.
 
+Above all the main purpose of this project is to demonstrate the potential solution to the problem of insufficiency data volume in the medical domain by means of comparing the proposed CNN-based classifier performance using standard against synthetic image augmentation. To tackle this task, it can be further broken down into the following sub-objectives:
+- Explore, clean and process the data that will be used for training and evaluating the implemented Deep Neural Networks.
+- Research, develop, implement and train a clasiffier model. This classifier will be based on a scaled up CNN whose function will be to detect malign dermathological lesions from the different augmented images.
+- Perform classifier performance tests. In order to establish a solid base evaluation model to compare with, there wil be necessary to undertake several experiments for fine tuning the model for the training data appropriately.
+- Research, develop, implement and train a series of GANs-based models to be able to demosntrate how much we can improve the performance of the classifier.
+- Draw final conclusions from all the experiments conducted. There will be necessary to compare the results obtained from the classifier using the different synthesed images and the different improvements attempted.
 
 ## 2. Corpora <a name="2-available-datasets"></a>
 
