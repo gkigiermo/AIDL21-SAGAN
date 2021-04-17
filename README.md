@@ -81,6 +81,13 @@ A DCGAN is a specific flavor of GAN dedicated to image generation. The architect
 - [W-GAN](W-GAN)<a name="W-GAN"></a>
 - [AC-GAN](AC-GAN)<a name="AC-GAN"></a>
 - [SN-GAN](SN-GAN)<a name="DC-SN-GAN"></a>
+
+The SNGAN is identical to DCGAN but implements _Spectral Normalization_ to deal with the issue of exploding gradients in the _Discriminator_. 
+
+Spectral normalization is a weight regularization technique with is applied to the GAN's _Discriminator_ to solve the issue of exploding gradients. Is works stabilizing the training process of the _Discriminator_ through a rescaling the weights of the convolution layers using a norm (spectral norm) which is calculated using the power iteration method. The method is triggered right before the _forward()_ function call.
+
+Some works refer to DCGANs that implement spectral normalization as SNGANs, which is also done in this work. SNGAN with the best parameters and implementations described in the respective folder was the one used for the image generation.
+
 ### 3.2. EfficientNet  <a name="32-efficientnet"></a> 
 
 
@@ -124,6 +131,26 @@ MS-GMSD |  Ranges from 0 to 1, being 1 the best value.    |
 MDSI   |   Ranges from 0 to inf, being 0 the best value.    |
 HaarPSI |   Ranges from 0 to 1, being 1 the best value.   |
 
+### Obtained metrics and images
 
+Architecture | PSNR | SSIM |MS-GMSD |MDSI |HaarPSI |
+:------: | :------:| :------:| :------:| :------:|:------:|
+DC-GAN |   12.92  | 0.35   | 0.29   |  0.45 | 0.39 |    
+AC-GAN |           |       |       |      |         |
+W-GAN |           |        |       |     |         |
+SN-GAN |  12.21  |   0.21   |   0.26   |   0.49  |  *0.41*  |  
+SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  *0.45*  |  
+
+
+#### DCGAN 64x64
+![skin_lesions_700_twick](https://user-images.githubusercontent.com/48655676/110391353-a1d4d980-8067-11eb-9eca-4f458fffd203.png)
+
+### SNGAN 64x64
+
+![skin_lesions_800_twick3_sn](https://user-images.githubusercontent.com/48655676/110391188-70f4a480-8067-11eb-9d8b-ce150ef7797b.png)
+
+### SNGAN 128x128
+
+![SN_final](https://user-images.githubusercontent.com/48655676/114686469-18be5b80-9d13-11eb-80ae-aa53aa7061e6.png)
 
 ## 6. Conclusions <a name="6-conclusions"></a>
