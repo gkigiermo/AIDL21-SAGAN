@@ -24,10 +24,10 @@ Advised by [Santiago Puch](https://www.linkedin.com/in/eva-mohedano-261b6889/)
     - [2.2. Pre-processing](#22-preprocessing) 
 - [3. Deep Neural Networks Models](#3-dnns)
     - [3.1. Generative Adversarial Networks (GANs)](#31-gans)
-        - DC-GAN
-        - W-GAN
-        - AC-GAN
-        - SN-GAN
+        - [DC-GAN](#DC-GAN)
+        - [W-GAN](#W-GAN)
+        - [AC-GAN](#AC-GAN)
+        - [SN-GAN](#SN-GAN)
     - [3.2. EfficientNet](#32-efficientnet) 
 - [4. Environment Requirements](#4-envs)
     - [4.1. Software](#41-software)
@@ -70,6 +70,11 @@ Above all the main purpose of this project is to demonstrate the potential solut
 
 ## 3. Deep Neural Networks Models <a name="3-dnns"></a>
 ### 3.1. Generative Adversarial Networks (GANs)  <a name="31-gans"></a>
+
+- [DC-GAN](DC-GAN)<a name="DC-GAN"></a>
+- [W-GAN](W-GAN)<a name="W-GAN"></a>
+- [AC-GAN](AC-GAN)<a name="AC-GAN"></a>
+- [SN-GAN](SN-GAN)<a name="SN-GAN"></a>
 ### 3.2. EfficientNet  <a name="32-efficientnet"></a> 
 
 
