@@ -1,4 +1,4 @@
-# MedImageGAN
+# DC-SN-GAN
 
 ## Description
 
