@@ -85,9 +85,8 @@ Above all the main purpose of this project is to demonstrate the potential solut
 
 ## 5. Results <a name="5-results"></a>
 ### 5.1. Evaluation Metrics  <a name="51-metrics"></a>
-### Metrics
 
-Since lack from any medical expertise for assessing the quality of the generated images, we have implemented several metrics to measure traits of our output pictures.
+Since we lack from any medical expertise for assessing the quality of the generated images, we have implemented several metrics to measure traits of our output pictures.
 
 #### Peak Signal-to-Noise Ratio (PSNR)
 
@@ -113,7 +112,7 @@ HaarPSI works on the Haar wavelet decomposition and assesses local similarities 
 
 Measure | Bar | 
 :------: | :------:|
-PSNR   | Context dependant, generally the higher the better.      | 
+PSNR   | Context dependant, generally the higher the better.  | 
 SSIM   |  Ranges from 0 to 1, being 1 the best value.     | 
 MS-GMSD |  Ranges from 0 to 1, being 1 the best value.    |  
 MDSI   |   Ranges from 0 to inf, being 0 the best value.    |
