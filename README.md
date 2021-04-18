@@ -55,7 +55,7 @@ In this project we have explored the possibilities of applying different flavors
 
 ### 1.2. Objectives <a name="12-milestones"></a>
 
-Above all the main purpose of this project is to demonstrate the potential solution to the problem of insufficiency data volume in the medical domain by means of comparing the proposed CNN-based classifier performance using standard against synthetic image augmentation. To tackle this task, it can be further broken down into the following sub-objectives:
+The main purpose of this project is to demonstrate the potential solution to the problem of insufficiency data volume in the medical domain. The proposed solution consists of using GANs for synthetic medical data augmentation for improving a CNN-based classifier's performance. To tackle this task, it can be further broken down into the following sub-objectives:
 - Explore, clean and process the data that will be used for training and evaluating the implemented Deep Neural Networks.
 - Research, develop, implement and train a clasiffier model. This classifier will be based on a scaled up CNN whose function will be to detect malign dermathological lesions from the different augmented images.
 - Perform classifier performance tests. In order to establish a solid base evaluation model to compare with, there wil be necessary to undertake several experiments for fine tuning the model for the training data appropriately.
