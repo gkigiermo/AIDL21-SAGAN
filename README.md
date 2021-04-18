@@ -143,13 +143,12 @@ Some works refer to DCGANs that implement spectral normalization as SNGANs, whic
 ## 4. Environment Requirements <a name="4-envs"></a>
 ### 4.1. Software  <a name="41-software"></a>
 
-The project has been developed using the PyTorch framework due to our familiarization during the postgraduate program. The input files are read using the YAML language that facilitates the human interpretability. Moreover, the package Pytorch Image Quality Assessment (PIQA) is used to generate the metrics that evaluate the quality of the synthetic images.
+We selected PyTorch as framwork for our scientific computing package to develop our project. Regarding the image transformations used for standard augmentations, we have selected both Torchvision and Albumentation packages. For visualization, we also used both classical Pyplot and Seaborn packages. For the dataset preprocessing, we made use of the modules available in Scikit-Learn library. Some of the GANs-based implementations developed make use of YAML as the preferred language for defining its configuration parameters files. Lastly, the package Pytorch Image Quality Assessment (PIQA) is used to generate the metrics that evaluate the quality of the synthetic images.
  
 
 ### 4.2. Hardware  <a name="42-hardware"></a> 
 
-The GANs were trained using Google Colab. This work environment provided us an easy way to work in teams and to access to GPUs.
-The Classifier also started as a Google Colab project, however, due to its high computing demands, we were forced to port it to Google Cloud to avoid the time limit of the Colab.  
+The GANs were trained using Google Colab. This work environment provided us an easy way to work in teams and to access to GPUs. The Classifier also started as a Google Colab project, however, due to its high computing demands, we were forced to port it to Google Cloud to avoid the time limit of the Colab.  
 
 - Google Cloud Platform
 ## TODO
