@@ -104,6 +104,9 @@ The project has been developed using the PyTorch framework due to our familiariz
 
 ### 4.2. Hardware  <a name="42-hardware"></a> 
 
+The GANs were trained using Google Colab. This work environment provided us an easy way to work in teams and to access to GPUs.
+The Classifier also started as a Google Colab project, however, due to its high computing demands, we were forced to port it to Google Cloud to avoid the time limit of the Colab.  
+
 
 ## 5. Results <a name="5-results"></a>
 ### 5.1. Evaluation Metrics  <a name="51-metrics"></a>
