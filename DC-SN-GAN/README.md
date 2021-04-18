@@ -17,7 +17,7 @@ A DCGAN is a specific flavor of GAN dedicated to image generation. The architect
 
 ### SNGAN
 
-This gan is identical to DCGAN but implements _Spectral Normalization_ to deal with the issue of exploding gradients in the _Discriminator_. This implementation will be explained later on with more detail.
+This gan is identical to DCGAN but implements _Spectral Normalization_ to deal with the issue of exploding gradients in the _Discriminator_. This implementation will be explained later on and in the main repository README with more detail.
 
 ### 128x128 & 256x256 image generation
 
