@@ -90,7 +90,20 @@ As we mention, we carried out a genlty Data Wrangling with which we obtain some 
 </p>
 
 ### 2.2. Pre-processing  <a name="22-preprocessing"></a> 
-## TODO
+
+To be able to feed our dataset into the classifier, we must first condition it to the network and to our resource’s limitations.
+
+#### 2.2.1 CSV files
+
+As mentioned before, every image comes with a JSON files with relevant information regarding the patient and the skin spot. This files were all put into a CSV file where each column stands for a field from the JSON file. 
+In addition to the initial fields, we added “dcm_name” to store the name of the image the data belongs to, and “target” which is set to 0 if the skin spot is benign and to 1 in case it is malignant.
+
+#### 2.2.2 Dataset reduction
+
+We reduced the dataset to 5K images to diminish the training cost, keeping the malignant/benign ratio so the results can be escalated to the complete dataset.
+
+Given the size of the image’s directory, we modified it so it only contained the images that were going to be fed into the network, in order not to use more storage than necessary in GCP. We did this through a series of automated functions in python.
+
 
 ## 3. Deep Neural Networks Models <a name="3-dnns"></a>
 
