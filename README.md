@@ -82,7 +82,7 @@ Through the API available in the ISIC home page we have been able to download al
 </p>
 
 
-As we mention, we carried out a genlty Data Wrangling with which we obtain some useful insght about the images data handling. From this procedure we have verified that there is a very high target class imbalance which need to take in consideration when Modeling.
+As we mention, we carried out a gently Data Wrangling to obtain some useful insight about the images data handling. From this procedure we have verified that there is a very high target class imbalance which need to take in consideration when modeling.
 
 <p align="center">
   <img width="70%" height="70%" src="Data/images-sagan/sex.png" /> 
