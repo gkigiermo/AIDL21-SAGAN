@@ -65,7 +65,7 @@ The main purpose of this project is to demonstrate the potential solution to the
 
 ## 2. Corpora <a name="2-available-datasets"></a>
 
-For the data training sets have made use of the dataset provided by the healthcare organization for informatics in medical imaging, the [Society for Imaging Informatics in Medicine (SIIM)](https://siim.org/) joined by the [International Skin Imaging Collaboration (ISIC)](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main). 
+For training and testing our models, we have used the dataset provided by the healthcare organization for informatics in medical imaging, the [Society for Imaging Informatics in Medicine (SIIM)](https://siim.org/) joined by the [International Skin Imaging Collaboration (ISIC)](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main). 
 
 After some filtering for rebalancing the missing or non-labeled images and cutting off the excess of bening lesions, we finish with a total number of 22,922 images split in Train (16,045 observations) and Test (6,877 observations).
 
