@@ -217,6 +217,7 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
 
 
 - #### DC-GAN 64x64
+- 
 ![skin_lesions_700_twick](https://user-images.githubusercontent.com/48655676/110391353-a1d4d980-8067-11eb-9eca-4f458fffd203.png)
 
 - #### SN-GAN 64x64
@@ -224,14 +225,15 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
 ![skin_lesions_800_twick3_sn](https://user-images.githubusercontent.com/48655676/110391188-70f4a480-8067-11eb-9d8b-ce150ef7797b.png)
 
 - #### W-GAN 64x64
+- 
 ![WGAN-64](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/gen_wgan_64.png)
 
 - #### SN-GAN 128x128
 
 ![SN_final](https://user-images.githubusercontent.com/48655676/114686469-18be5b80-9d13-11eb-80ae-aa53aa7061e6.png)
 
-
 - #### W-GAN 128x128
+- 
 ![WGAN-128](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/gen_wgan_128.png)
 
 ## 6. Conclusions <a name="6-conclusions"></a>
