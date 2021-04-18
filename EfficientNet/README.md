@@ -78,7 +78,7 @@ In addition to the augmentations, all the images were resized to 128x128 so to a
 
 To achieve a lower loss and thus, a higher accuracy, pretrained weights have been loaded to the network. The following figures present how the model was fine-tuned and improved just by unfreezing layers. Out of all the different configurations, these three were the ones that provided better results.
 
-Apart from freezing/unfreezing layers, other parameters were modified, such as Batch Normalization momentum, which is set to 0.1 by default in the EfficientNet, and we chanched it to 0.15 to attach more weight to the updated running means an variances. 
+Apart from freezing/unfreezing layers, other parameters were modified, such as Batch Normalization momentum, which is set to 0.1 by default in the EfficientNet, and we changed it to 0.15 to attach more weight to the updated running means an variances. 
 
 | Frozen layers | Train loss | Train acc |  Val loss |  Val acc |
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |
@@ -126,7 +126,7 @@ After the fine tuning, the model architecture was the following:
 ### Synthetic images
 
 Now that we have already trained our model successfully, we may feed and train it with the synthetically generated images.  There are different approaches to this.
-Firstly, we fed our network with a high number of GAN images, resulting in a balanced training. On the other hand, we may mantain the network imbalanced, by using the same
+Firstly, we fed our network with a high number of GAN images, equalling the number of malignant images to the number of benign ones, thus resulting in a balanced dataset. On the other hand, we may mantain the network imbalanced, by using the same
 dataset and adding an extra 10% of synthetic images to study how does the model behaves. For this approach it is important to take into account that Imbalance Dataset Sample does not shuffle the dataset, so this was manually done in the CSV file.
 
 We kept the previously set parameters, and tried both approaches on ACGAN and DCNSGAN.
@@ -137,3 +137,5 @@ We kept the previously set parameters, and tried both approaches on ACGAN and DC
 | AC Gan     |Imbalanced       |0.32       | 0.86      | 0.37 | 0.83  |
 | DCSN Gan     | Balanced       | 0.33       | 0.86      | 0.43 | 0.80 |
 | DCSN Gan     | Imbalanced      | 0.20      | 0.92      | 0.36 | 0.85 |
+
+Imbalanced DCSN Gan achieves the better result of the four. In spite of training accuracy improving considerably, both validation loss and validation accuracy are a few tenths below. Balancing the dataset with synthetic images means that there are more fake malignant images than benign. From the results from all four trainings, we can conclude that although the performance hasn't improve, it hasn't worsened excesively either, meaning that the generated images may be considered as a first step for developing a GAN and classifier that improves the accuracy with the required resources.
