@@ -1,4 +1,4 @@
-# DC-SN-GAN
+# DC-GAN & SN-GAN
 
 ## Description
 
