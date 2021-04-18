@@ -79,9 +79,10 @@ To achieve a lower loss and thus, a higher accuracy, pretrained weights have bee
 | Frozen layers | Train loss | Train acc |  Val loss |  Val acc |
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |
 | 22   | 0.30     | 0.87    |  0.34   |   0.87    | 
-| 19     |0.36       | 0.85      | 0.29 |  |
-| 18     | 0.28       | 0.88      | 0. |  |
-| 17     | 0.39      | 0.83      |  |  |
+| 19     |0.36       | 0.85      | 0.29 | 0.88  |
+| 18     | 0.28       | 0.88      | 0.3 | 0.88 |
+| 17     | 0.39      | 0.83      | 0.37 | 0.85 |
+
 
 
 22 Convblocks frozen.
