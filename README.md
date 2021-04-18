@@ -60,7 +60,7 @@ The main purpose of this project is to demonstrate the potential solution to the
 - Research, develop, implement and train a clasiffier model. This classifier will be based on a scaled up CNN whose function will be to detect malign dermathological lesions from the different augmented images.
 - Perform classifier performance tests. In order to establish a solid base evaluation model to compare with, there wil be necessary to undertake several experiments for fine tuning the model for the training data appropriately.
 - Research, develop, implement and train a series of GANs-based models to be able to demosntrate how much we can improve the performance of the classifier.
-- Carried out a series of experiments comparing the performance of the classifier using standard augmentation over the training data with regard to the performance obtained using the synthetic data obtained from the differents GANs.
+- Carried out a series of experiments comparing the performance of the classifier using standard augmentation over the training data with respect to the performance obtained using the synthetic data obtained from the differents GANs.
 - Draw final conclusions from all the experiments conducted and the different improvements attempted.
 
 ## 2. Corpora <a name="2-available-datasets"></a>
