@@ -93,6 +93,9 @@ As we mention, we carried out a genlty Data Wrangling with which we obtain some 
 ## TODO
 
 ## 3. Deep Neural Networks Models <a name="3-dnns"></a>
+
+Under this section we present all the GAN versions implemented. We approach to the proble with our own variation of implementation of the technique and methodology first introduced in [Frid-Adar et al.](https://arxiv.org/abs/1803.01229) in 2018.
+
 ### 3.1. Generative Adversarial Networks (GANs)  <a name="31-gans"></a>
 
 - [DC-GAN](DC-SN-GAN)<a name="DC-GAN"></a>
