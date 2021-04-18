@@ -72,7 +72,7 @@ Above all the main purpose of this project is to demonstrate the potential solut
 ## 3. Deep Neural Networks Models <a name="3-dnns"></a>
 ### 3.1. Generative Adversarial Networks (GANs)  <a name="31-gans"></a>
 
-- [DC-GAN](DC-GAN)<a name="DC-SN-GAN"></a>
+- [DC-GAN](DC-SN-GAN)<a name="DC-GAN"></a>
 
 A DCGAN is a specific flavor of GAN dedicated to image generation. The architecture consists on a _Generator_ and a _Discriminator_ built upon four 2d convolutional layers. It was first described by _Radford et. al._ in this [paper](https://arxiv.org/pdf/1511.06434.pdf). The _Discriminator_ in build out of strided convolutions, batch normalization layers and uses Leaky Relu activations. Originally, the input size of the images is 64 and it is already set to process color images (3x64x64). The _Generator_ differs from the _Discriminator_ in the convolutional layers, which are transposed. It has as an input a random vector sampled from a normal distribution which will be transformed by adversarial training into an RGB image of the selected shape.
 
@@ -86,7 +86,9 @@ By doing so, the loss of the discriminator seems to relate with the quality of t
 
 
 - [AC-GAN](AC-GAN)<a name="AC-GAN"></a>
-- [SN-GAN](SN-GAN)<a name="DC-SN-GAN"></a>
+
+
+- [SN-GAN](DC-SN-GAN)<a name="SN-GAN"></a>
 
 The SNGAN is identical to DCGAN but implements _Spectral Normalization_ to deal with the issue of exploding gradients in the _Discriminator_. 
 
