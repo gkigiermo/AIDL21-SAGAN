@@ -14,8 +14,9 @@ throughout the convolutional layers is the same except it gets modified by the c
 
 <img src="https://user-images.githubusercontent.com/37978771/115120986-b6828680-9fb0-11eb-94d7-94cbc80af7ac.png" width="500">
 
-EfficientNet includes batch normalization by the end of every Convolutional Block. This provides the network with a stabilizing effect for the layers’ internal distributions.
-Usually, Batch Normalization allows to train a network with relatively high learning rates. However, in this case we are fine-tuning our network, which requires a low LR in order not to overfit. 
+EfficientNet includes batch normalization by the end of every Convolutional Block. This provides the network with a stabilizing effect for the layers’ internal distributions, diminishing the effect of vanishing and exploding gradient.
+Usually, Batch Normalization allows to train a network with relatively high learning rates. However, in this case we are fine-tuning our network, which requires a low LR in order not to overfit.
+
 Although the model weights are pretrained and top layers unfrozen, Batch Normalization running mean and variance must keep updating themselves since the input images characteristics may differ from the pretrained ones.
 
 Given all the EfficientNet models available, we have used b3 model for its number of parameters and depth are good enough to obtain a proper accuracy without taking too long.
@@ -53,21 +54,38 @@ In order to accomplish our objective, the following parameters from both the mod
 
 *	Data augmentation.
 
-*	Learning rate.
+*	Fine-tuning
 
-*	Unfreezing pretrained layers.
-
-* Training the model using synthetic images
+* 	Training the model using synthetic images
 
 #### Data augmentation
 
 Due to the imbalance of the dataset, the model overfits fast. In order to avoid this, we have implemented some augmentations, using the library albumentations.
-The following figures show the model implemented without using augmentations, overfitting right at the beginning and the results of using them, where the model doesn’t overfit. 
-In addition to the augmentations, all the images were resized so to adapt the network to the images synthetically generated.
+The following figure show the model implemented without using augmentations, overfitting right at the beginning.
 
 <img src="https://user-images.githubusercontent.com/37978771/115122062-3bbc6a00-9fb6-11eb-9c05-519a13fa65cf.png" width="900">
 
+Once the augmentation were applied, the model doesn't overfit anymore.
+
 <img src="https://user-images.githubusercontent.com/37978771/115122075-4f67d080-9fb6-11eb-95f8-451a1ac36325.png" width="900">
+
+In addition to the augmentations, all the images were resized to 128x128 so to adapt the network to the images synthetically generated.
+
+
+### Fine tuning
+
+To achieve a lower loss and thus, a higher accuracy, pretrained weights have been loaded to the network. The following figures present how the model was fine-tuned and improved just by unfreezing layers. Out of all the different configurations, these three were the ones that provided better results.
+
+
+22 Convblocks frozen.
+
+<img src="https://user-images.githubusercontent.com/37978771/115137343-e750d300-a025-11eb-897e-809e7fcc7e57.png" width="900">
+
+
+
+
+
+
 
 
 
