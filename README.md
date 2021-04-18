@@ -161,6 +161,7 @@ By doing so, the loss of the discriminator seems to relate with the quality of t
 
 - [AC-GAN](AC-GAN)<a name="AC-GAN"></a>
 
+Conditional  GANs  are  an  extension  of  the  GAN model,  that  enable  the  model  to  be  conditioned  on  external information to improve the quality of the generated samples. It changes the discriminator to predict the class label of a given image rather than receive it as input. It has the effect of stabilizing the training process and allowing the generation of large high-quality images whilst learning a representation in the latent space that is independent of the class label.
 
 - [SN-GAN](DC-SN-GAN)<a name="SN-GAN"></a>
 
