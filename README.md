@@ -221,8 +221,8 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
 
 ![skin_lesions_800_twick3_sn](https://user-images.githubusercontent.com/48655676/110391188-70f4a480-8067-11eb-9d8b-ce150ef7797b.png)
 
-- #### SN-GAN 64x64
-![]()
+- #### W-GAN 64x64
+![WGAN-64](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/WGAN_64.jpg)
 
 - #### SN-GAN 128x128
 
