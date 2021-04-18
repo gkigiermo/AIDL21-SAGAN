@@ -1,4 +1,4 @@
-# Wasserstein GAN
+# W-GAN
 ## Description
 
 The Wasserstein GAN (WGAN) was first introduced in [Arjovsky et al.](arXiv:1701.07875) with the objective
