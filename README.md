@@ -207,7 +207,7 @@ To launch the instance we used Cloud Deep Learning VM Image. We created a Lunux 
 Architecture | PSNR | SSIM |MS-GMSD |MDSI |HaarPSI |
 :------: | :------:| :------:| :------:| :------:|:------:|
 DC-GAN |  12.92  | 0.35   | 0.29   |  0.45 | 0.39 |
-AC-GAN 64 |   12.17 |  0.32  | 0.27   | 0.49  | 0.31 |
+AC-GAN |   12.17 |  0.32  | 0.27   | 0.49  | 0.31 |
 AC-GAN 128 |  11.81  |  0.39     |    0.25   |   0.47    |   0.31     |
 W-GAN  |  12.63  |    0.30    |   0.27    |  0.50   |  0.35    |
 W-GAN 128 | 12.27 | 0.31 | 0.14 | 0.44 | 0.50 |
