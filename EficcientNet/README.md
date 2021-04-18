@@ -76,11 +76,29 @@ In addition to the augmentations, all the images were resized to 128x128 so to a
 
 To achieve a lower loss and thus, a higher accuracy, pretrained weights have been loaded to the network. The following figures present how the model was fine-tuned and improved just by unfreezing layers. Out of all the different configurations, these three were the ones that provided better results.
 
+| Frozen layers | Train loss | Train acc |  Val loss |  Val acc |
+|     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |
+| 22   | 0.30     | 0.87    |  0.34   |   0.87    | 
+| 19     |0.36       | 0.85      | 0.29 |  |
+| 18     | 0.28       | 0.88      | 0. |  |
+| 17     | 0.39      | 0.83      |  |  |
+
 
 22 Convblocks frozen.
 
 <img src="https://user-images.githubusercontent.com/37978771/115137343-e750d300-a025-11eb-897e-809e7fcc7e57.png" width="900">
 
+19 Convblocks frozen
+
+![pic 5](https://user-images.githubusercontent.com/37978771/115137985-9d69ec00-a029-11eb-8e28-dada80fc546c.png)
+
+18 Convblocks frozen
+
+![pic 8](https://user-images.githubusercontent.com/37978771/115138051-110bf900-a02a-11eb-8828-2fb9ee8d68da.png)
+
+17 Convblocks frozen
+
+![pic 9](https://user-images.githubusercontent.com/37978771/115138090-40bb0100-a02a-11eb-8446-0b4f886f4012.png)
 
 
 
