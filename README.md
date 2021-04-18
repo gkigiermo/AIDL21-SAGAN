@@ -157,7 +157,7 @@ MDSI computes the joint similarity map of two chromatic channels through standar
 
 HaarPSI works on the Haar wavelet decomposition and assesses local similarities between two images and the relative importance of those local regions. This metric is the current state-of-the-art as for the agreement with human opinion on image quality. 
 
-- #### Bar of measures
+- #### Measure Assessment
 
 Measure | Bar | 
 :------: | :------:|
