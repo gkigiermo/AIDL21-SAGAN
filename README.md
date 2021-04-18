@@ -97,6 +97,10 @@ Some works refer to DCGANs that implement spectral normalization as SNGANs, whic
 
 ## 4. Environment Requirements <a name="4-envs"></a>
 ### 4.1. Software  <a name="41-software"></a>
+
+The project has been developed using the PyTorch framework due to our familiarization during the postgraduate program. The input files are read using the YAML language that facilitates the human interpretability. Moreover, the package Pytorch Image Quality Assessment (PIQA) is used to generate the metrics that evaluate the quality of the synthetic images.
+ 
+
 ### 4.2. Hardware  <a name="42-hardware"></a> 
 
 
