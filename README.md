@@ -22,8 +22,9 @@ Advised by [Santiago Puch](https://www.linkedin.com/in/santipuch)
 - [2. Corpora](#2-available-datasets)
     - [2.1. Data Description](#21-eda)
     - [2.2. Pre-processing](#22-preprocessing) 
-- [3. Deep Neural Networks Models](#3-dnns)
-    - [3.1. Generative Adversarial Networks (GANs)](#31-gans)
+- [3. Deep Neural Networks Models](#3-dnns)    
+    - [3.1. Evaluation Metrics](#31-metrics)
+    - [3.2. Generative Adversarial Networks (GANs)](#32-gans)
         - [DC-GAN](#DC-SN-GAN)
         - [W-GAN](#W-GAN)
         - [AC-GAN](#AC-GAN)
@@ -33,7 +34,7 @@ Advised by [Santiago Puch](https://www.linkedin.com/in/santipuch)
     - [4.1. Software](#41-software)
     - [4.2. Hardware](#42-hardware)
 - [5. Results](#5-results)
-    - [5.1. Evaluation Metrics](#51-metrics)
+    - [5.1 Experiment Metrics Values and Synthetic Images](#51-Experiment)
 - [6. Conclusions](#6-conclusions) 
  
  
@@ -109,7 +110,41 @@ Given the size of the image’s directory, we modified it so it only contained t
 
 Under this section we present all the GAN versions implemented. We approach to the proble with our own variation of implementation of the technique and methodology first introduced in [Frid-Adar et al.](https://arxiv.org/abs/1803.01229) in 2018.
 
-### 3.1. Generative Adversarial Networks (GANs)  <a name="31-gans"></a>
+### 3.1. Evaluation Metrics  <a name="31-metrics"></a>
+
+Since we lack from any medical expertise for assessing the quality of the generated images, we have implemented several metrics to measure traits of our output pictures.
+
+- #### Peak Signal-to-Noise Ratio (PSNR)
+
+This metric is used to measure the quality of a given image (noise), which underwent some transformation, compared to the its original (signal). In our case, the original picture is the real batch of images feeded into our network and the noise is represented by a given generated image.
+
+- #### Structural Similarity (SSIM)
+
+SSIM aims to predict the percieved the quality of a digital image. It is a perception based model that computes the degradation in an image comparison as in the precived change in the structural information. This metric captures the perceptual changes in traits such as luminance and contrast.
+
+- #### Multi-Scale Gradient Magnitude Similarity Deviation (MS GMSD)
+
+MS-GMSD works on a similar version as SSIM, but it also accounts for different scales for computing luminance and incorporates chromatic distorsion support.
+
+- #### Mean Deviation Similarity Index (MDSI)
+
+MDSI computes the joint similarity map of two chromatic channels through standard deviation pooling, which serves as an estimate of color changes. 
+
+- #### Haar Perceptural Similarity Index (HaarPSI)
+
+HaarPSI works on the Haar wavelet decomposition and assesses local similarities between two images and the relative importance of those local regions. This metric is the current state-of-the-art as for the agreement with human opinion on image quality. 
+
+- #### Measure Assessment
+
+Measure | Bar | 
+:------: | :------:|
+PSNR   | Context dependant, generally the higher the better.  | 
+SSIM   |  Ranges from 0 to 1, being 1 the best value.     | 
+MS-GMSD |  Ranges from 0 to 1, being 1 the best value.    |  
+MDSI   |   Ranges from 0 to inf, being 0 the best value.    |
+HaarPSI |   Ranges from 0 to 1, being 1 the best value.   |
+
+### 3.2. Generative Adversarial Networks (GANs)  <a name="32-gans"></a>
 
 - [DC-GAN](DC-SN-GAN)<a name="DC-GAN"></a>
 
@@ -169,41 +204,8 @@ To launch the instance we used Cloud Deep Learning VM Image. We created a Lunux 
 
 
 ## 5. Results <a name="5-results"></a>
-### 5.1. Evaluation Metrics  <a name="51-metrics"></a>
 
-Since we lack from any medical expertise for assessing the quality of the generated images, we have implemented several metrics to measure traits of our output pictures.
-
-- #### Peak Signal-to-Noise Ratio (PSNR)
-
-This metric is used to measure the quality of a given image (noise), which underwent some transformation, compared to the its original (signal). In our case, the original picture is the real batch of images feeded into our network and the noise is represented by a given generated image.
-
-- #### Structural Similarity (SSIM)
-
-SSIM aims to predict the percieved the quality of a digital image. It is a perception based model that computes the degradation in an image comparison as in the precived change in the structural information. This metric captures the perceptual changes in traits such as luminance and contrast.
-
-- #### Multi-Scale Gradient Magnitude Similarity Deviation (MS GMSD)
-
-MS-GMSD works on a similar version as SSIM, but it also accounts for different scales for computing luminance and incorporates chromatic distorsion support.
-
-- #### Mean Deviation Similarity Index (MDSI)
-
-MDSI computes the joint similarity map of two chromatic channels through standard deviation pooling, which serves as an estimate of color changes. 
-
-- #### Haar Perceptural Similarity Index (HaarPSI)
-
-HaarPSI works on the Haar wavelet decomposition and assesses local similarities between two images and the relative importance of those local regions. This metric is the current state-of-the-art as for the agreement with human opinion on image quality. 
-
-- #### Measure Assessment
-
-Measure | Bar | 
-:------: | :------:|
-PSNR   | Context dependant, generally the higher the better.  | 
-SSIM   |  Ranges from 0 to 1, being 1 the best value.     | 
-MS-GMSD |  Ranges from 0 to 1, being 1 the best value.    |  
-MDSI   |   Ranges from 0 to inf, being 0 the best value.    |
-HaarPSI |   Ranges from 0 to 1, being 1 the best value.   |
-
-## Experiment Metrics Values and Synthetic Images
+## 5.1 Experiment Metrics Values and Synthetic Images  <a name="51-Experiment"></a>
 
 Architecture | PSNR | SSIM |MS-GMSD |MDSI |HaarPSI |
 :------: | :------:| :------:| :------:| :------:|:------:|
