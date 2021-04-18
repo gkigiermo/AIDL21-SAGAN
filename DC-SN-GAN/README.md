@@ -23,40 +23,6 @@ This gan is identical to DCGAN but implements _Spectral Normalization_ to deal w
 
 For our final goal, specific class balancing, we needed to generate images of the proper size. The original DCGAN implementation creates images of size 64x64, but our classificator, which is built using an EfficientNet works with input size of 128x128. Furthermore we were interested in creating even bigger images, of 256x256, and assess the quality of those. Thus, in this repository we modified the original architecture and for both DCGAN and SNGAN for generating bigger images. 
 
-### Metrics
-
-Since lack from any medical expertise for assessing the quality of the generated images, we have implemented several metrics to measure traits of our output pictures.
-
-#### Peak Signal-to-Noise Ratio (PSNR)
-
-This metric is used to measure the quality of a given image (noise), which underwent some transformation, compared to the its original (signal). In our case, the original picture is the real batch of images feeded into our network and the noise is represented by a given generated image.
-
-#### Structural Similarity (SSIM)
-
-SSIM aims to predict the percieved the quality of a digital image. It is a perception based model that computes the degradation in an image comparison as in the precived change in the structural information. This metric captures the perceptual changes in traits such as luminance and contrast.
-
-#### Multi-Scale Gradient Magnitude Similarity Deviation (MS GMSD)
-
-MS-GMSD works on a similar version as SSIM, but it also accounts for different scales for computing luminance and incorporates chromatic distorsion support.
-
-#### Mean Deviation Similarity Index (MDSI)
-
-MDSI computes the joint similarity map of two chromatic channels through standard deviation pooling, which serves as an estimate of color changes. 
-
-#### Haar Perceptural Similarity Index (HaarPSI)
-
-HaarPSI works on the Haar wavelet decomposition and assesses local similarities between two images and the relative importance of those local regions. This metric is the current state-of-the-art as for the agreement with human opinion on image quality. 
-
-#### Bar of measures
-
-Measure | Bar | 
-:------: | :------:|
-PSNR   | Context dependant, generally the higher the better.      | 
-SSIM   |  Ranges from 0 to 1, being 1 the best value.     | 
-MS-GMSD |  Ranges from 0 to 1, being 1 the best value.    |  
-MDSI   |   Ranges from 0 to inf, being 0 the best value.    |
-HaarPSI |   Ranges from 0 to 1, being 1 the best value.   |
-
 
 ## Execution
 
@@ -89,12 +55,6 @@ number_channels: 3
 gen_feature_maps: 64
 dis_feature_maps: 64
 ```
-
-## Data
-
-### ISIC - Skin lesions
-
-The International Skin Imaging Collaboration: Melanoma Project is an academia and industry partnership designed to facilitate the application of digital skin imaging to help reduce melanoma mortality. When recognized and treated in its earliest stages, melanoma is readily curable. Digital images of skin lesions can be used to educate professionals and the public in melanoma recognition as well as directly aid in the diagnosis of melanoma through teledermatology, clinical decision support, and automated diagnosis. Currently, a lack of standards for dermatologic imaging undermines the quality and usefulness of skin lesion imaging. ISIC is developing proposed standards to address the technologies, techniques, and terminology used in skin imaging with special attention to the issues of privacy and interoperability (i.e., the ability to share images across technology and clinical platforms). In addition, ISIC has developed and is expanding an open source public access archive of skin images to test and validate the proposed standards. This archive serves as a public resource of images for teaching and for the development and testing of automated diagnostic systems.
 
 ## Results
 
