@@ -32,7 +32,7 @@ parser.add_argument("--path", type=str, default="/media/mestecha/Samsung_T5/SAGA
                     help="images parent directory")
 parser.add_argument("--load-model", type=bool, default=False, help="images parent directory")
 parser.add_argument("--eval", type=str, default=False, help="trained model sampling")
-parser.add_argument("--n-epochs", type=int, default=800, help="number of epochs of training")
+parser.add_argument("--n-epochs", type=int, default=600, help="number of epochs of training")
 parser.add_argument("--batch-size", type=int, default=16, help="size of the batches")
 parser.add_argument("--lr", type=float, default=0.0002, help="adam: learning rate")
 parser.add_argument("--b1", type=float, default=0.5, help="adam: decay of first order momentum of gradient")
@@ -42,7 +42,7 @@ parser.add_argument("--latent-dim", type=int, default=600, help="dimensionality 
 parser.add_argument("--n-classes", type=int, default=2, help="number of classes for dataset")
 parser.add_argument("--img-size", type=int, default=128, help="size of each image dimension")
 parser.add_argument("--channels", type=int, default=3, help="number of image channels")
-parser.add_argument("--sample-interval", type=int, default=1000, help="interval between image sampling")
+parser.add_argument("--sample-interval", type=int, default=200, help="interval between image sampling")
 parser.add_argument("--print-interval", type=int, default=5,
                     help="batch interval between printing out the progress bar")
 parser.add_argument("--save-model-interval", type=int, default=100, help="epoch interval between model saving")
@@ -90,7 +90,7 @@ class ISICDataset(Dataset):
 # Auxiliar functions
 def get_isic_dataloader(path, batch_size):
     transform = transforms.Compose([
-        transforms.Resize((128, 128)),
+        transforms.Resize((opt.img_size, opt.img_size)),
         transforms.ToTensor()
     ])
 
@@ -328,8 +328,8 @@ if opt.load_model:
     discriminator = load_discriminator(D_path).cuda()
 
 # Sample noise_val and generate labels_val
-z_val = Variable(FloatTensor(np.random.normal(0, 1, (opt.batch_size, opt.latent_dim))))
-labels_val = Variable(LongTensor(np.random.randint(0, opt.n_classes, opt.batch_size)))
+z_val = Variable(FloatTensor(np.random.normal(0, 1, (64, opt.latent_dim))))
+labels_val = Variable(LongTensor(np.random.randint(0, opt.n_classes, 64)))
 
 if not opt.eval:
     avg_loss_G = []
@@ -406,7 +406,7 @@ if not opt.eval:
 
             curr_iter = epoch * len(dataloader) + i
             if curr_iter % opt.sample_interval == 0:
-                fake_gen = sample_val_image(z=z_val, labels=labels_val, n_row=int(floor(sqrt(opt.batch_size))), iter_done=curr_iter)
+                fake_gen = sample_val_image(z=z_val, labels=labels_val, n_row=int(floor(sqrt(64))), iter_done=curr_iter)
                 compute_metrics(real=next(iter(dataloader)), fakes=fake_gen, toPath=os.path.join("output"))
 
         avg_loss_G.append(sum(loss_G) / (curr_iter + 1))
