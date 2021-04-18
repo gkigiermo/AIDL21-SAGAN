@@ -34,7 +34,6 @@ Advised by [Santiago Puch](https://www.linkedin.com/in/santipuch)
     - [4.1. Software](#41-software)
     - [4.2. Hardware](#42-hardware)
 - [5. Results](#5-results)
-    - [5.1 Experiment Metrics Values and Synthetic Images](#51-Experiment)
 - [6. Conclusions](#6-conclusions) 
  
  
@@ -204,8 +203,6 @@ To launch the instance we used Cloud Deep Learning VM Image. We created a Lunux 
 
 
 ## 5. Results <a name="5-results"></a>
-
-## 5.1 Experiment Metrics Values and Synthetic Images  <a name="51-Experiment"></a>
 
 Architecture | PSNR | SSIM |MS-GMSD |MDSI |HaarPSI |
 :------: | :------:| :------:| :------:| :------:|:------:|
