@@ -137,27 +137,27 @@ The Classifier also started as a Google Colab project, however, due to its high 
 
 Since we lack from any medical expertise for assessing the quality of the generated images, we have implemented several metrics to measure traits of our output pictures.
 
-#### Peak Signal-to-Noise Ratio (PSNR)
+- #### Peak Signal-to-Noise Ratio (PSNR)
 
 This metric is used to measure the quality of a given image (noise), which underwent some transformation, compared to the its original (signal). In our case, the original picture is the real batch of images feeded into our network and the noise is represented by a given generated image.
 
-#### Structural Similarity (SSIM)
+- #### Structural Similarity (SSIM)
 
 SSIM aims to predict the percieved the quality of a digital image. It is a perception based model that computes the degradation in an image comparison as in the precived change in the structural information. This metric captures the perceptual changes in traits such as luminance and contrast.
 
-#### Multi-Scale Gradient Magnitude Similarity Deviation (MS GMSD)
+- #### Multi-Scale Gradient Magnitude Similarity Deviation (MS GMSD)
 
 MS-GMSD works on a similar version as SSIM, but it also accounts for different scales for computing luminance and incorporates chromatic distorsion support.
 
-#### Mean Deviation Similarity Index (MDSI)
+- #### Mean Deviation Similarity Index (MDSI)
 
 MDSI computes the joint similarity map of two chromatic channels through standard deviation pooling, which serves as an estimate of color changes. 
 
-#### Haar Perceptural Similarity Index (HaarPSI)
+- #### Haar Perceptural Similarity Index (HaarPSI)
 
 HaarPSI works on the Haar wavelet decomposition and assesses local similarities between two images and the relative importance of those local regions. This metric is the current state-of-the-art as for the agreement with human opinion on image quality. 
 
-#### Bar of measures
+- #### Bar of measures
 
 Measure | Bar | 
 :------: | :------:|
@@ -167,7 +167,7 @@ MS-GMSD |  Ranges from 0 to 1, being 1 the best value.    |
 MDSI   |   Ranges from 0 to inf, being 0 the best value.    |
 HaarPSI |   Ranges from 0 to 1, being 1 the best value.   |
 
-### Obtained metrics and images
+### Experiment Metrics Values and Synthetic Images
 
 Architecture | PSNR | SSIM |MS-GMSD |MDSI |HaarPSI |
 :------: | :------:| :------:| :------:| :------:|:------:|
@@ -178,14 +178,14 @@ SN-GAN |  12.21  |   0.21   |   0.26   |   0.49  |  **0.41**  |
 SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |  
 
 
-#### DCGAN 64x64
+- #### DCGAN 64x64
 ![skin_lesions_700_twick](https://user-images.githubusercontent.com/48655676/110391353-a1d4d980-8067-11eb-9eca-4f458fffd203.png)
 
-#### SNGAN 64x64
+- #### SNGAN 64x64
 
 ![skin_lesions_800_twick3_sn](https://user-images.githubusercontent.com/48655676/110391188-70f4a480-8067-11eb-9d8b-ce150ef7797b.png)
 
-#### SNGAN 128x128
+- #### SNGAN 128x128
 
 ![SN_final](https://user-images.githubusercontent.com/48655676/114686469-18be5b80-9d13-11eb-80ae-aa53aa7061e6.png)
 
