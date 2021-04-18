@@ -90,7 +90,7 @@ As we mention, we carried out a genlty Data Wrangling with which we obtain some 
 </p>
 
 ### 2.2. Pre-processing  <a name="22-preprocessing"></a> 
-
+## TODO
 
 ## 3. Deep Neural Networks Models <a name="3-dnns"></a>
 ### 3.1. Generative Adversarial Networks (GANs)  <a name="31-gans"></a>
@@ -135,7 +135,7 @@ Therefore, spectral normalization of a given passing weight **W** normalizes the
 Some works refer to DCGANs that implement spectral normalization as SNGANs, which is also done in this work. SNGAN with the best parameters and implementations described in the respective folder was the one used for the image generation.
 
 ### 3.2. EfficientNet  <a name="32-efficientnet"></a> 
-
+## TODO
 
 ## 4. Environment Requirements <a name="4-envs"></a>
 ### 4.1. Software  <a name="41-software"></a>
@@ -149,6 +149,7 @@ The GANs were trained using Google Colab. This work environment provided us an e
 The Classifier also started as a Google Colab project, however, due to its high computing demands, we were forced to port it to Google Cloud to avoid the time limit of the Colab.  
 
 - Google Cloud Platform
+## TODO
 
 ## 5. Results <a name="5-results"></a>
 ### 5.1. Evaluation Metrics  <a name="51-metrics"></a>
@@ -185,7 +186,7 @@ MS-GMSD |  Ranges from 0 to 1, being 1 the best value.    |
 MDSI   |   Ranges from 0 to inf, being 0 the best value.    |
 HaarPSI |   Ranges from 0 to 1, being 1 the best value.   |
 
-### Experiment Metrics Values and Synthetic Images
+## Experiment Metrics Values and Synthetic Images
 
 Architecture | PSNR | SSIM |MS-GMSD |MDSI |HaarPSI |
 :------: | :------:| :------:| :------:| :------:|:------:|
@@ -196,14 +197,14 @@ SN-GAN |  12.21  |   0.21   |   0.26   |   0.49  |  **0.41**  |
 SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |  
 
 
-- #### DCGAN 64x64
+- #### DC-GAN 64x64
 ![skin_lesions_700_twick](https://user-images.githubusercontent.com/48655676/110391353-a1d4d980-8067-11eb-9eca-4f458fffd203.png)
 
-- #### SNGAN 64x64
+- #### SN-GAN 64x64
 
 ![skin_lesions_800_twick3_sn](https://user-images.githubusercontent.com/48655676/110391188-70f4a480-8067-11eb-9d8b-ce150ef7797b.png)
 
-- #### SNGAN 128x128
+- #### SN-GAN 128x128
 
 ![SN_final](https://user-images.githubusercontent.com/48655676/114686469-18be5b80-9d13-11eb-80ae-aa53aa7061e6.png)
 
