@@ -3,7 +3,7 @@
 This repository folder contains an implementation of an Auxiliary Classifier GAN (AC-GAN) for image synthesis. 
 
 <p align="center">
-  <img width="70%" height="70%" src="acgan-images/acgan-architecture.png" /> 
+  <img width="60%" height="60%" src="acgan-images/acgan-architecture.png" /> 
 </p>
 
 ## Implementation
