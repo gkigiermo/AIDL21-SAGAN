@@ -90,14 +90,15 @@ To achieve a lower loss and thus, a higher accuracy, pretrained weights have bee
 
 19 Convblocks frozen
 
-![pic 5](https://user-images.githubusercontent.com/37978771/115137985-9d69ec00-a029-11eb-8e28-dada80fc546c.png)
+<img src="https://user-images.githubusercontent.com/37978771/115137985-9d69ec00-a029-11eb-8e28-dada80fc546c.png" width="900">
 
 18 Convblocks frozen
 
-![pic 8](https://user-images.githubusercontent.com/37978771/115138051-110bf900-a02a-11eb-8828-2fb9ee8d68da.png)
+<img src="https://user-images.githubusercontent.com/37978771/115138051-110bf900-a02a-11eb-8828-2fb9ee8d68da.png" width="900">
 
 17 Convblocks frozen
 
-![pic 9](https://user-images.githubusercontent.com/37978771/115138090-40bb0100-a02a-11eb-8446-0b4f886f4012.png)
+<img src="https://user-images.githubusercontent.com/37978771/115138090-40bb0100-a02a-11eb-8446-0b4f886f4012.png" width="900">
+
 
 
