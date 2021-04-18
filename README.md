@@ -12,7 +12,7 @@ Final Project for the UPC [Artificial Intelligence with Deep Learning Postgradua
 * [Guillermo Oyarzun](http://www.cttc.upc.edu/?q=user/93)
 * [Marcos Estecha](https://www.linkedin.com/in/marcos-estecha-07a54a113)
 
-Advised by [Santiago Puch](https://www.linkedin.com/in/eva-mohedano-261b6889/)
+Advised by [Santiago Puch](https://www.linkedin.com/in/santipuch)
 
 ## Table of Contents <a name="toc"></a>
 
@@ -48,9 +48,9 @@ On the other hand, since their introduction by [Goodfellowet al.](https://papers
 
 ### 1.1. Motivation <a name="11-motivation"></a>
 
-Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is responsible for 75% of skin cancer deaths, despite being the least common skin cancer. The American Cancer Society estimates over 100,000 new melanoma cases will be diagnosed in 2020. It's also expected that almost 7,000 people will die from the disease. As with other cancers, early and accurate detection—potentially aided by data science—can make treatment more effective. With the advance of the medical imaging informatics, there is an effort improving the melanoma diagnosis via new AI approaches. For that purpose, sufficient data volume is necessary for training a successful machine learning algorithm for medical image analysis. However, there is inherent problematic problematic in the field of medical imaging where abnormal findings are by definition uncommon. The paucity of annotated ddata and class imbalance of insufficient variability leads to poor classification performance.
+Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is responsible for 75% of skin cancer deaths, despite being the least common skin cancer. As with other cancers, early and accurate detection—potentially aided by data science—can make treatment more effective. With the advance of the medical imaging informatics, there is an effort improving the melanoma diagnosis via new AI approaches. For that purpose, sufficient data volume is necessary for training a successful machine learning algorithm for medical image analysis. However, there is inherent problematic in the field of medical imaging where abnormal findings are by definition uncommon. The paucity of annotated data and class imbalance of insufficient variability leads to poor classification performance.
 
-In this project we have explored the possibilities of applying different flavors of GANs given their potential to complement image interpretation and augment image representation and classification.
+In this project we have explored the possibilities of applying different flavors of GANs given their potential as an augmented method for image representation and classification.
 
 
 ### 1.2. Objectives <a name="12-milestones"></a>
@@ -60,7 +60,8 @@ Above all the main purpose of this project is to demonstrate the potential solut
 - Research, develop, implement and train a clasiffier model. This classifier will be based on a scaled up CNN whose function will be to detect malign dermathological lesions from the different augmented images.
 - Perform classifier performance tests. In order to establish a solid base evaluation model to compare with, there wil be necessary to undertake several experiments for fine tuning the model for the training data appropriately.
 - Research, develop, implement and train a series of GANs-based models to be able to demosntrate how much we can improve the performance of the classifier.
-- Draw final conclusions from all the experiments conducted. There will be necessary to compare the results obtained from the classifier using the different synthesed images and the different improvements attempted.
+- Carried out a series of experiments comparing the performance of the classifier using standard augmentation over the training data as with regard to the performance obtained using the synthetic data obtained from the differents GANs.
+- Draw final conclusions from all the experiments conducted and the different improvements attempted.
 
 ## 2. Corpora <a name="2-available-datasets"></a>
 
