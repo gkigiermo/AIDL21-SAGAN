@@ -68,14 +68,24 @@ Above all the main purpose of this project is to demonstrate the potential solut
 For the data training sets have made use of the dataset provided by the healthcare organization for informatics in medical imaging, the [Society for Imaging Informatics in Medicine (SIIM)](https://siim.org/) joined by the [International Skin Imaging Collaboration (ISIC)](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main). 
 
 <p align="center">
-  <img width="460" height="300" src="Data/images-sagan/data-tree-background.png">
+  <img src="Data/images-sagan/data-tree-background.png">
 </p>
 
 ### 2.1. Data Description  <a name="21-eda"></a>
 
-Through the API available in the ISIC home page we have been able to download all the images collection with its descriptions associated. The whole database is about 110 gigabytes (GB). The format of the colour images is both JPEG and PNG with a high variety of resolution sizes. Each image has a corresponding JSON-based description file with the image matadata information. From these metadata files we have been conducted a quick Exploratory Data Analysis (EDA) to acquire more awareness of how distributed it is. Initially, there were 27 matadata fields from which we later filtered out and kept only 8 of them. Some meaningful classes worthy to mention are the dcm_name field which identifies the image associated; the benign_malignant class from which we later classify; and finally the diagnosis class which details the diagnosis of the dermathological image lesion is referred to. 
+Through the API available in the ISIC home page we have been able to download all the images collection with its descriptions associated. The whole database is about 110 gigabytes (GB). The format of the colour images is both JPEG and PNG with a high variety of resolution sizes. Each image has a corresponding JSON-based description file with the image matadata information. From these metadata files we have been conducted a quick Exploratory Data Analysis (EDA) to acquire more awareness of how distributed it is. Initially, there were 27 matadata fields from which we later filtered out and kept only 8 of them. Some meaningful classes worthy to mention are the dcm_name field which identifies the image associated; the benign_malignant class from which we later classify; and finally the diagnosis class which details the diagnosis of the dermathological image lesion is referred to.
+
+<p align="center">
+  <img width="90%" height="90%" src="Data/images-sagan/diagnosis.png"/>
+</p>
+
 
 As we mention, we carried out a genlty Data Wrangling with which we obtain some useful insght about the images data handling. From this procedure we have verified that there is a very high target class imbalance which need to take in consideration when Modeling.
+
+<p align="center">
+  <img width="70%" height="70%" src="Data/images-sagan/sex.png" /> 
+  <img width="70%" height="70%" src="Data/images-sagan/age.png" />
+</p>
 
 ### 2.2. Pre-processing  <a name="22-preprocessing"></a> 
 
