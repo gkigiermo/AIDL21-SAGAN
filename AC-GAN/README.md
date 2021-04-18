@@ -1,4 +1,5 @@
 # AC-GAN
+ ## Description
 This repository folder contains an implementation of an Auxiliary Classifier GAN (AC-GAN) for image synthesis. 
 
 ## Implementation
