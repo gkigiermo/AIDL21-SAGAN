@@ -9,7 +9,9 @@ This repository folder contains an implementation of an Auxiliary Classifier GAN
 ## Implementation
 Conditional  GANs  are  an  extension  of  the  GANmodel,  that  enable  the  model  to  be  conditioned  on  external information to improve the quality of the generated samples.
 
-
+<p align="center">
+  <img width="60%" height="60%" src="acgan-images/acgan-comp.png" /> 
+</p>
 
 ## Execution
 
