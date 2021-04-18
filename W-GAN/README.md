@@ -1,7 +1,7 @@
 # W-GAN
 ## Description
 
-The Wasserstein GAN (WGAN) was first introduced in [Arjovsky et al.](arXiv:1701.07875) with the objective
+The Wasserstein GAN (W-GAN) was first introduced in [Arjovsky et al.](arXiv:1701.07875) with the objective
 to improve learning's stability and problems like mode collapse of the traditional GANs.
 The proposed GAN consist in using the Earth-Mover distance (Wasserstein-1) for the loss aiming 
 at improving the gradient descent.
