@@ -1,4 +1,4 @@
-# EfficientNet mod
+# EfficientNet model
 ## Description
 This repository includes everything related to the melanoma classification model, from the model itself to the preprocessing 
 of the dataset and the training/evaluation loops. The goal of this part of the project is to fine-tune our model architecture and
@@ -63,7 +63,7 @@ In order to accomplish our objective, the following parameters from both the mod
 #### Data augmentation
 
 Due to the imbalance of the dataset, the model overfits fast. In order to avoid this, we have implemented some augmentations, using the library albumentations.
-The following figure show the model implemented without using augmentations, overfitting right at the beginning.
+The following figure show the model implemented without using augmentations, overfitting right at the beginning. 
 
 <img src="https://user-images.githubusercontent.com/37978771/115122062-3bbc6a00-9fb6-11eb-9c05-519a13fa65cf.png" width="900">
 
@@ -84,7 +84,7 @@ Apart from freezing/unfreezing layers, other parameters were modified, such as B
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |
 | 22   | 0.30     | 0.87    |  0.34   |   0.87    | 
 | 19     |0.36       | 0.85      | 0.29 | 0.88  |
-| 18     | 0.28       | 0.88      | 0.3 | 0.88 |
+| 18     | 0.28       | 0.88      | 0.30 | 0.88 |
 | 17     | 0.39      | 0.83      | 0.37 | 0.85 |
 
 
@@ -127,5 +127,13 @@ After the fine tuning, the model architecture was the following:
 
 Now that we have already trained our model successfully, we may feed and train it with the synthetically generated images.  There are different approaches to this.
 Firstly, we fed our network with a high number of GAN images, resulting in a balanced training. On the other hand, we may mantain the network imbalanced, by using the same
-dataset and adding an extra 10% of synthetic images to study how does the model behaves.
+dataset and adding an extra 10% of synthetic images to study how does the model behaves. For this approach it is important to take into account that Imbalance Dataset Sample does not shuffle the dataset, so this was manually done in the CSV file.
+
 We kept the previously set parameters, and tried both approaches on ACGAN and DCNSGAN.
+
+| Type | Dataset | Train loss | Train acc |  Val loss |  Val acc |
+|     :---:    |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |
+| AC Gan   | Balanced     | 0.24     | 0.90    |  0.43   |   0.82    | 
+| AC Gan     |Imbalanced       |0.32       | 0.86      | 0.37 | 0.83  |
+| DCSN Gan     | Balanced       | 0.33       | 0.86      | 0.43 | 0.80 |
+| DCSN Gan     | Imbalanced      | 0.20      | 0.92      | 0.36 | 0.85 |
