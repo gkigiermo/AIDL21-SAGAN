@@ -87,6 +87,7 @@ Our first test consist in measuring the influence of the &#955; hyperparameter o
 
 <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/Lambda_test.png" width="110%" >
 
+The metrics obtained for the images are reported in the table below:
 
 Metric   | &#955; = 1  | &#955; = 3 | &#955; = 10 |
 :------: | ------:| ------: | ------: |
@@ -95,6 +96,7 @@ SSIM     |  0.27  |  0.28   | 0.31  |
 MS-GMSD  |  0.25  |  0.25   | 0.14  |
 MDSI     |  0.25  |  0.29   | 0.44  |
 HaarPSI  |  0.31  |  0.34   | 0.40  |
+
 
 
 ### Critic iterations
