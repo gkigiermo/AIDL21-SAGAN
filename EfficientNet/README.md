@@ -82,7 +82,7 @@ and other were tuned by trial and error.
 | Variable | Description | Value |
 |     :---:    |     :---:      |     :---:     |
 | batch size   | Batch size     | 64    |
-| num_epochs     | Number of epochs       | 50      |
+| num_epochs     | Number of epochs       | 30      |
 | learning_rate     | Learning rate       | 0.0001      |
 | frozen_layers     | Frozen layers       | 18      |
 | patience     | Patience       | 6      |
