@@ -32,7 +32,7 @@ where
 
  <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/xhat.png" width="2%">  is a random interpolation between the real and fake image
 
-
+The third term is the gradient penalty that acts as a regularization term 
 
 ## Execution
 
