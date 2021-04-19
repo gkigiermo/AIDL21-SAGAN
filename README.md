@@ -136,7 +136,7 @@ SSIM aims to predict the perceived the quality of a digital image. It is a perce
 
 - #### Multi-Scale Gradient Magnitude Similarity Deviation (MS GMSD)
 
-MS-GMSD works on a similar version as SSIM, but it also accounts for different scales for computing luminance and incorporates chromatic distorsion support.
+MS-GMSD works on a similar version as SSIM, but it also accounts for different scales for computing luminance and incorporates chromatic distortion support.
 
 - #### Mean Deviation Similarity Index (MDSI)
 
