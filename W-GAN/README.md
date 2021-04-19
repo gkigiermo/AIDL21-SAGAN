@@ -7,7 +7,7 @@ The proposed GAN consist in using the Earth-Mover distance (Wasserstein-1) for t
 at improving the gradient descent.
 On the original formulation, a weight clipping was used to achieve 1-Lipchitz functions. 
 However, in this work, we have based our implementation on [Gulrajani et al.] (https://arxiv.org/abs/1704.00028)
-article that proposes an alternative to the weight clipping, called gradient penalization. i
+article that proposes an alternative to the weight clipping, called gradient penalization. 
 
 ## Implementation
 
