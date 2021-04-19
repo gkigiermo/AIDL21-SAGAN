@@ -15,7 +15,7 @@ article that proposes an alternative to the weight clipping, called gradient pen
 
 ### Critic
 
-The last layer (sigmoid) of the traditional discriminator of the GANs is removed. Then, the discriminator becomes a “Critic” that evaluates how similar are two images. Note that without the sigmoid, the Wasserstein loss can take values in the range [-&#8734; : &#8734;]
+The last layer (sigmoid) of the traditional discriminator of the GANs is removed. Then, the discriminator becomes a “Critic” that evaluates how similar are two images. Note that without the sigmoid, the Wasserstein loss can take values in the range [-&#8734; , &#8734;]. Since this loss can be very large, the critic must fulfill the requimient of being a 1-Lipschitz continous function.  
 
 ### Gradient Penalty
 
