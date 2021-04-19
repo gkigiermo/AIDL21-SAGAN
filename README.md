@@ -93,17 +93,30 @@ As we mention, we carried out a gently Data Wrangling to obtain some useful insi
 
 To be able to feed our dataset into the classifier, we must first condition it to the network and to our resource’s limitations.
 
-#### 2.2.1 CSV files
+#### CSV files
 
 As mentioned before, every image comes with a JSON files with relevant information regarding the patient and the skin spot. This files were all put into a CSV file where each column stands for a field from the JSON file. 
 In addition to the initial fields, we added “dcm_name” to store the name of the image the data belongs to, and “target” which is set to 0 if the skin spot is benign and to 1 in case it is malignant.
 
-#### 2.2.2 Dataset reduction
+#### Dataset reduction
 
 We reduced the dataset to 5K images to diminish the training cost, keeping the malignant/benign ratio so the results can be escalated to the complete dataset.
 
 Given the size of the image’s directory, we modified it so it only contained the images that were going to be fed into the network, in order not to use more storage than necessary in GCP. We did this through a series of automated functions in python.
 
+#### Data augmentation
+
+We applied several transformations to avoid overfitting when training our network with the reduced dataset. To do that, we have used albumentations’ library due to the large number of augmentations it has available.
+
+The images input size was variable and with a bigger resolution, we resized them to 128x128 to fit the synthetically generated images. Furthermore, we applied techniques involving changing the image’s contrast and brightness scale and rotations. We also normalized its mean and standard deviation and finally we converted the images ton tensors so they can be feed into our model.
+
+Here are some of the images before and after applying the transformations.
+
+![image](https://user-images.githubusercontent.com/37978771/115211333-c0ff6600-a0ff-11eb-8ee7-fbd3dee7f332.png)
+
+![image](https://user-images.githubusercontent.com/37978771/115211501-e68c6f80-a0ff-11eb-878f-b2b58ff11400.png)
+
+![image](https://user-images.githubusercontent.com/37978771/115211526-ef7d4100-a0ff-11eb-9d35-5751703abaca.png)
 
 ## 3. Deep Neural Networks Models <a name="3-dnns"></a>
 
