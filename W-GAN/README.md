@@ -25,7 +25,7 @@ Using the weight clipping approach of the original WGAN article can end up limit
 
 where
 
-![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/x.png) is the real image
+ <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/x.pn" width="100" height="100"> is the real image
 
 ![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/xtilde.png) is the fake image generated
 
