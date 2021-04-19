@@ -34,10 +34,31 @@ Using b3 architecture, the model takes 30 minutes for each epoch. In addition, a
 - [PIL](http://pillow.readthedocs.io/en/3.1.x/installation.html) 8.1.0
 ### Execution
 
+To be able to train our model, we created three different scripts:
+
+- classifier.py: Main script, it executes everything related to the training process.
+- dataset.py: It contains the MyDataset class, used to access to the images and the csv files, linking each image to its diagnostic. It also includes the tools used for pre-processing the dataset.
+- model.py: Where the efficientnet model is.
+- utils.py: In this script you can find some other tools for modifying our dataset. This functions are manually executed. 
+
 ```
 python3 classifier.py
 ```
+Before executing the main script, these are the parameters that must be set, in order for the program to access and store certain files.
 
+```
+#File configuration
+    root_path = './'
+    path_img = root_path + 'images'
+    path_test_reduced = root_path + 'test_reduced.csv'
+    path_train_reduced = root_path + 'train_m_reduced.csv'
+    path_val_reduced = root_path + 'val_m_reduced.csv'
+    path_save_model = root_path + 'model' + model_number
+    path_train_dloader = root_path + 'Data/train_loader_reduced.pt'
+    path_val_dloader = root_path + 'Data/val_loader_reduced.pt'
+    path_results = root_path + "results_" + model_number
+    
+   ```
 ### Metrics
 
 To be able to evaluate and measure the effectiveness of our network, we have implemented the following metrics:
