@@ -85,6 +85,9 @@ Below are shown some images obtained from the trained network along with some lo
 
 - ### 128x128 resolution
 
+<p align="center">
+    <img src="acgan-images/128-16-600.gif"\>
+</p>
 
 <p align="center">
   <img alt="caca" src="acgan-images/real_samples-02.png" width="40%" />
