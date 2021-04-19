@@ -1,0 +1,24 @@
+run: acgan
+type: train
+run_path: './runs/run_03'
+data_path: '/media/mestecha/Samsung_T5/SAGAN/ISIC-Archive/Data/'
+
+manual_seed: 14
+
+optima:
+    lr: 0.0002
+    b1: 0.5
+    b2: 0.999
+
+n_class: 2
+batch_size: 64
+epochs: 30000
+print_interval: 1
+log_interval: 10
+sample_interval: 20
+save_model_interval: 100
+
+model:
+    image_size: 64
+    noise_dim: 100
+    class_dim: 2
