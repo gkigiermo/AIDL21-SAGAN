@@ -74,8 +74,8 @@ Below are shown some images obtained from the trained network along with some lo
 </p>
 
 <p align="center">
-  <img alt="caca" src="acgan-images/real_samples-01.png" width="40%" />
-  <img alt="pis" src="acgan-images/64-64-600.png" width="40%" /> 
+  <img src="acgan-images/real_samples-01.png" width="40%" />
+  <img src="acgan-images/64-64-600.png" width="40%" /> 
 </p>
 
 
@@ -92,6 +92,10 @@ Below are shown some images obtained from the trained network along with some lo
 <p align="center">
   <img src="acgan-images/real_samples-02.png" width="40%" />
   <img src="acgan-images/grid-128-64-600.jpg " width="40%" /> 
+</p>
+
+<p align="center">
+    <img img width="90%" height="90%" src="acgan-images/loss_plot-128.png"\>
 </p>
 
 The following set of images shown are the 1200 images that we have used for the synthatic augmentation for the AC-GAN use case.
