@@ -112,11 +112,17 @@ The images input size was variable and with a bigger resolution, we resized them
 
 Here are some of the images before and after applying the transformations.
 
-![image](https://user-images.githubusercontent.com/37978771/115211333-c0ff6600-a0ff-11eb-8ee7-fbd3dee7f332.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37978771/115211333-c0ff6600-a0ff-11eb-8ee7-fbd3dee7f332.png">
+</p>
 
-![image](https://user-images.githubusercontent.com/37978771/115211501-e68c6f80-a0ff-11eb-878f-b2b58ff11400.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37978771/115211501-e68c6f80-a0ff-11eb-878f-b2b58ff11400.png">
+</p>
 
-![image](https://user-images.githubusercontent.com/37978771/115211526-ef7d4100-a0ff-11eb-9d35-5751703abaca.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37978771/115211526-ef7d4100-a0ff-11eb-9d35-5751703abaca.png">
+</p>
 
 ## 3. Deep Neural Networks Models <a name="3-dnns"></a>
 
