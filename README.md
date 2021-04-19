@@ -255,7 +255,7 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
 - #### AC-GAN 128x128
 
 <p align="center">
-  <img width="40%" height="40%" src="AC-GAN/acgan-images/grid-128-64-600.jpg">
+  <img width="50%" height="50%" src="AC-GAN/acgan-images/grid-128-64-600.jpg">
 </p>
 
 ## 6. Conclusions <a name="6-conclusions"></a>
