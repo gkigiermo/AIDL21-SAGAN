@@ -98,4 +98,7 @@ Below are shown some images obtained from the trained network along with some lo
 
 As the reader can notice, there is one deprecated folder with an AC-GAN fully built. In our first approach we attempted to implemented the AC-GAN following [this](https://github.com/clvrai/ACGAN-PyTorch) AC-GAN version. However the results obtained through this implementation were not complying with our expectations. Therefore it was discarded, although some results are shown below. One property worthy to mention in this code is how substitute the label in the generated random noise instead of concatenate it.
 
+<p align="center">
+    <img src="acgan-images/deprecated-acgan-results.gif"\>
+</p>
 
