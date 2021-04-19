@@ -54,3 +54,20 @@ Once downloaded unzip the content within the **'output/ckpt'** folder, the scrip
 
 ## Results
 
+Leveraging again from the findings of the experimients conducted for the DC-GAN and SN-GAN, we have subsequently trained and tested our AC-GAN. For both 64x64 and 128x128 resolutions we have obtained the following results.
+
+
+Metric   | 64x64  | 128x128 | 
+:------: | ------:| ------: |
+PSNR     | 12.17  | 11.81   |
+SSIM     |  0.32  |  0.39   |
+MS-GMSD  |  0.27  |  0.25   |
+MDSI     |  0.49  |  0.47   |
+HaarPSI  |  0.31  |  0.31   |
+
+Below are shown some images obtained from the trained network
+
+- ####64x64 resolution
+<p align="center">
+    <img src="acgan-images/64-600.gif"\>
+</p>
