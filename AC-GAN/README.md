@@ -67,7 +67,8 @@ HaarPSI  |  0.31  |  0.31   |
 
 Below are shown some images obtained from the trained network
 
-- ####64x64 resolution
+- #### 64x64 resolution
+
 <p align="center">
     <img src="acgan-images/64-600.gif"\>
 </p>
