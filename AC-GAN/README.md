@@ -27,5 +27,9 @@ The second output is a probability of the image belonging to each class via the 
 
 ## Execution
 
+Run the following command for details of each arguments.
+```
+python3 main.py -h
+```
 
 ## Results
