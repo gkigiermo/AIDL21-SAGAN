@@ -25,7 +25,7 @@ Using the weight clipping approach of the original WGAN article can end up limit
 where
 ![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/x.png) is the real image
 ![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/xtilde.png) is the fake image generated
-![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/xhay.png) is a random interpolation between the real and fake image
+![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/xhat.png) is a random interpolation between the real and fake image
 
 
 ## Execution
