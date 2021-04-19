@@ -106,13 +106,13 @@ The following test consisted study how the freezing of the generator weights aff
 
  <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/Critic_test.png" width="90%" >
 
-Metric   | &#955; = 1  | &#955; = 3 | &#955; = 10 |
+Metric   | its = 1  | its = 3 | its = 10 |
 :------: | ------:| ------: | ------: |
-PSNR     |  |    |  |
-SSIM     |    |    |   |
-MS-GMSD  |    |     |   |
-MDSI     |   |    |   |
-HaarPSI  |    |     |   |
+PSNR     | 11.36  |  11.81  |  12.27 |
+SSIM     | 0.21   |  0.30  |  0.31 |
+MS-GMSD  | 0.24   |  0.25   | 0.14  |
+MDSI     | 0.52  |  0.47  |  0.44 |
+HaarPSI  | 0.34   |  0.35    | 0.40  |
 
 
 
