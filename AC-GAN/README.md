@@ -38,5 +38,6 @@ Run the following command for details of each arguments.
 ```bash
 $ python main.py -h
 ```
+You should specify the path to the dataset you are using with argument --path. In this folder is expected to be the images within a folder named **'Images'** and the **'train_data.csv'** CSV files metadata which can be found [here](https://github.com/mestecha/AIDL21-SAGAN/tree/main/Data). For downloading the images, please refer to ISIC [API](https://isic-archive.com/api/v1/#/). For convenience, there is available in [this](https://github.com/GalAvineri/ISIC-Archive-Downloader) repository a useful script which can download the entire ISIC archive automatically.
 
 ## Results
