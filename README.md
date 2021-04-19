@@ -224,6 +224,11 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
 
 ![WGAN-64](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/gen_wgan_64.png)
 
+- #### AC-GAN 64x64
+
+![AC-GAN-64](https://github.com/mestecha/AIDL21-SAGAN/blob/main/AC-GAN/acgan-images/64-64-600.png)
+
+
 - #### SN-GAN 128x128
 
 ![SN_final](https://user-images.githubusercontent.com/48655676/114686469-18be5b80-9d13-11eb-80ae-aa53aa7061e6.png)
