@@ -67,7 +67,7 @@ HaarPSI  |  0.31  |  0.31   |
 
 Below are shown some images obtained from the trained network along with some loss charts from the Generator and Discriminator training.
 
-- #### 64x64 resolution
+- ### 64x64 resolution
 
 <p align="center">
     <img src="acgan-images/64-600.gif"\>
@@ -81,4 +81,12 @@ Below are shown some images obtained from the trained network along with some lo
 
 <p align="center">
     <img img width="90%" height="90%" src="acgan-images/loss_plot-64-cool.png"\>
+</p>
+
+- ### 128x128 resolution
+
+
+<p align="center">
+  <img alt="caca" src="acgan-images/real_samples-02.png" width="40%" />
+  <img alt="pis" src="acgan-images/grid-128-64-600.jpg " width="40%" /> 
 </p>
