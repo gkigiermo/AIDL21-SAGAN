@@ -43,7 +43,9 @@ You should specify the path to the dataset you are using with argument --path. I
 ## Check-points
 Please find in the following links some of the checkpoints files generated every 100 epochs for both 64x64 and 128x128 images size runs. There are available the checkpoints for both Generator and Discriminator models. 
 
-* :inbox_tray: [ckpt.zip](https://drive.google.com/drive/folders/1xd0H8pSC0pl99TbbItDuYoGmyNEdZC9x?usp=sharing)
+* :inbox_tray: [ckpt](https://drive.google.com/drive/folders/1xd0H8pSC0pl99TbbItDuYoGmyNEdZC9x?usp=sharing)
+
+Once downloaded unzip the content within the **'output/ckpt'** folder, the script automatically will take the latest ckpt file available if applicable.
 
 ## Results
 
