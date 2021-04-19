@@ -132,7 +132,7 @@ This metric is used to measure the quality of a given image (noise), which under
 
 - #### Structural Similarity (SSIM)
 
-SSIM aims to predict the percieved the quality of a digital image. It is a perception based model that computes the degradation in an image comparison as in the precived change in the structural information. This metric captures the perceptual changes in traits such as luminance and contrast.
+SSIM aims to predict the perceived the quality of a digital image. It is a perception based model that computes the degradation in an image comparison as in the preceived change in the structural information. This metric captures the perceptual changes in traits such as luminance and contrast.
 
 - #### Multi-Scale Gradient Magnitude Similarity Deviation (MS GMSD)
 
