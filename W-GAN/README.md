@@ -82,7 +82,8 @@ gp_lambda : 10
 ## Results
 
 ### Gradient penalty 
-![WGAN scheme](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/Lambda_test.png)
+
+<img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/Lambda_test.png" width="2%" >
 
 ### Critic iterations
 
