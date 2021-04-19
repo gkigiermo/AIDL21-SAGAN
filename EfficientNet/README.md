@@ -118,7 +118,7 @@ Apart from freezing/unfreezing layers, other parameters were modified, such as B
 | Frozen layers | Train loss | Train acc |  Val loss |  Val acc |
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |
 | 22   | 0.30     | 0.87    |  0.34   |   0.87    | 
-| 19     |0.36       | 0.85      | 0.29 | 0.88  |
+| 19     |0.36       | 0.85      | 0.29 | 0.87  |
 | 18     | 0.28       | 0.88      | 0.30 | 0.88 |
 | 17     | 0.39      | 0.83      | 0.37 | 0.85 |
 
