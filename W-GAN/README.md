@@ -96,8 +96,10 @@ SSIM     |  0.27  |  0.28   | 0.31  |
 MS-GMSD  |  0.25  |  0.25   | 0.14  |
 MDSI     |  0.25  |  0.29   | 0.44  |
 HaarPSI  |  0.31  |  0.34   | 0.40  |
+ 
 
-
+The configuration &#955; = 10 outperforms the rest 60% of the time (3 out of 5). It is evident that  &#955; = 10  generates better images for the human eye. This behaviour is capture by the metric Haar PSI that is higher in such case. 
+ 
 
 ### Critic iterations
 
