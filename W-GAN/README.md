@@ -19,6 +19,8 @@ The last layer (sigmoid) of the traditional discriminator of the GANs is removed
 
 ### Gradient Penalty
 
+Using the weight clipping approach of the original WGAN article can end up limiting the parameters weights of the critic. The gradient penalty strategy arises as a way to enforce the Lipschitz continuity constraint without restricting the critic weights.
+
 ## Execution
 
 ```
