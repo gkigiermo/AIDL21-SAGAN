@@ -7,9 +7,8 @@ to provide the tools to establish wether the synthetic imaging approach through 
 ## Implementation
 
 ### Network architecture
-To be able to perform the melanoma classification task, we considered some pretrained networks like VGG and ResNet. However, 
-we decided to use a state-of-the-art approach by implementing a fine-tuned EfficientNet model, whose accuracy/number of parameters
-ratio is much higher and efficient than the other two. This is achieved by scaling the model, using coefficients so the structure
+To be able to perform the melanoma classification task, we considered some pretrained networks like VGG and ResNet. However, and given how time consuming was training a dataset with so many images, we decided to build a fine-tuned EfficientNet model, a state-of-the-art approach, whose accuracy/number of parameters
+ratio is much higher than the other two, making it smaller and faster. This is achieved by scaling the model, using coefficients so the structure
 throughout the convolutional layers is the same except it gets modified by the coefficients. 
 
 To implement this architecture we used [lukemelas](https://github.com/lukemelas/EfficientNet-PyTorch) model, which adapts from tensorflow's [original implementation](https://github.com/marketplace).
