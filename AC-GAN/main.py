@@ -28,8 +28,7 @@ os.makedirs("output", exist_ok=True)
 np.random.seed(43)
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--path", type=str, default="./ISIC-Archive/Data/",
-                    help="images parent directory")
+parser.add_argument("--path", type=str, required=True, help="images dataset and csv files parent directory")
 parser.add_argument("--load-model", type=bool, default=False, help="resume training/eval from checkpoint")
 parser.add_argument("--eval", type=str, default=False, help="trained model sampling")
 parser.add_argument("--n-epochs", type=int, default=600, help="number of epochs of training")
