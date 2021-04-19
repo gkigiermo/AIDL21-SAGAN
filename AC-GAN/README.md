@@ -90,9 +90,15 @@ Below are shown some images obtained from the trained network along with some lo
 </p>
 
 <p align="center">
-  <img alt="caca" src="acgan-images/real_samples-02.png" width="40%" />
-  <img alt="pis" src="acgan-images/grid-128-64-600.jpg " width="40%" /> 
+  <img src="acgan-images/real_samples-02.png" width="40%" />
+  <img src="acgan-images/grid-128-64-600.jpg " width="40%" /> 
 </p>
+
+The following set of images shown are the 1200 images that we have used for the synthatic augmentation for the AC-GAN use case.
+<p align="center">
+    <img width="90%" height="90%" src="acgan-images/grid-all-128-64-600.jpg"\>
+</p>
+
 
 ## Deprecated AC-GAN version
 
