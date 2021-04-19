@@ -83,9 +83,10 @@ gp_lambda : 10
 
 ### Gradient penalty 
 
+Our first test consist in measuring the influence of the &#955; hyperparameter on our medical dataset. For this purpose three different values of &#955; were tested, following the numerical experiments proposed on the article. The final generated images are depicted in the following figure.
+
 <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/Lambda_test.png" width="110%" >
 
-&#955;
 
 Metric   | &#955; = 1  | &#955; = 3 | &#955; = 10 |
 :------: | ------:| ------: | ------: |
