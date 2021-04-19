@@ -65,10 +65,14 @@ MS-GMSD  |  0.27  |  0.25   |
 MDSI     |  0.49  |  0.47   |
 HaarPSI  |  0.31  |  0.31   |
 
-Below are shown some images obtained from the trained network
+Below are shown some images obtained from the trained network along with some loss charts from the Generator and Discriminator training.
 
 - #### 64x64 resolution
 
 <p align="center">
     <img src="acgan-images/64-600.gif"\>
+</p>
+
+<p align="center">
+    <img img width="90%" height="90%" src="acgan-images/loss_plot-64-cool.png"\>
 </p>
