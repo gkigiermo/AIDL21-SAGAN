@@ -102,10 +102,23 @@ The configuration &#955; = 10 outperforms the rest 60% of the time (3 out of 5).
  
 
 ### Critic iterations
+The following test consisted study how the freezing of the generator weights affects the synthetic images. Three different configurations were tested as shown in the following figures.
+
+
+Metric   | &#955; = 1  | &#955; = 3 | &#955; = 10 |
+:------: | ------:| ------: | ------: |
+PSNR     |  |    |  |
+SSIM     |    |    |   |
+MS-GMSD  |    |     |   |
+MDSI     |   |    |   |
+HaarPSI  |    |     |   |
 
 
 
-### Metrics
+
+### General overview
+
+Considering the best option of the two hyperparameters we obtained the following metrics for generating images of size 64x64 and 128x128.
 
 Metric   | 64x64  | 128x128 | 
 :------: | ------:| ------: |
@@ -115,7 +128,7 @@ MS-GMSD  |  0.27  |  0.14   |
 MDSI     |  0.50  |  0.44   |
 HaarPSI  |  0.35  |  0.40   |
 
-### 64 x 64
+#### 64 x 64
 ![WGAN-64](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/gen_wgan_64.png)
-### 128 x 128
+#### 128 x 128
 ![WGAN-128](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/gen_wgan_128.png)
