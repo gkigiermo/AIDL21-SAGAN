@@ -35,7 +35,7 @@ Advised by [Santiago Puch](https://www.linkedin.com/in/santipuch)
     - [4.2. Hardware](#42-hardware)
 - [5. Results](#5-results)
 - [6. Conclusions](#6-conclusions) 
- 
+- [7. Acknowledgements](#7-acknowledgements)
  
 ## 1. Introduction <a name="1-intro"></a>
 
