@@ -95,7 +95,7 @@ def get_isic_dataloader(path, batch_size):
         transforms.ToTensor()
     ])
 
-    dataset = ISICDataset(os.path.join(path, 'test_data.csv'), os.path.join(path, 'Images'),
+    dataset = ISICDataset(os.path.join(path, 'train_data.csv'), os.path.join(path, 'Images'),
                           transform=transform, color=False)
     data_loader = DataLoader(dataset, batch_size=batch_size, shuffle=True, drop_last=True)
     return data_loader
