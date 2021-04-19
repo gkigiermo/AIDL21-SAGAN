@@ -275,3 +275,11 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
     * Fine-tuned **EfficientNet** achieves **high accuracy** with **reduced dataset**.
     * Dataset with **sysnthetic images** does **not improve accuracy**.
     * **Balanced dataset** with **synthetic images** and no augmentations achieves **good results**.
+
+## 7. Acknowledgements <a name="7-acknowledgements"></a>
+
+We would like to thank all the staff from the Prostgraduate Course on Artificial Intelligence with Deep Learning for all the effort and care that they took and showed preparing the materials and lecture which provided us with the tools to build this project.
+
+We would like to give a special thanks to Santi Puch, our advisor, who provided very helpful advise and spent numerous hours revising our material and searching tricks and tips for our project.
+
+Finally, we would also like to highlight the very useful work of François Rozet, the creator of PIQA. It really helped us to implement an standard of metrics in a really straightforward and clear manner.
