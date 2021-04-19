@@ -11,6 +11,7 @@ article that proposes an alternative to the weight clipping, called gradient pen
 
 ## Implementation
 
+![WGAN scheme](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/Modelo_WGAN.png)
 
 ### Critic
 
