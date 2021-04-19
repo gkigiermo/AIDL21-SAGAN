@@ -194,8 +194,9 @@ Therefore, spectral normalization of a given passing weight **W** normalizes the
 
 Some works refer to DCGANs that implement spectral normalization as SNGANs, which is also done in this work. SNGAN with the best parameters and implementations described in the respective folder was the one used for the image generation.
 
-### 3.2. EfficientNet  <a name="32-efficientnet"></a> 
-## TODO
+### 3.2. EfficientNet 
+
+EfficientNet is a convolutional neuronal network that provides and optimal relation between the number of parameters of a network and its efficiency. It accomplishes this using a mobile size baseline architecture, EfficientNet-b0, and performing a compound scaling to increase its size by replicating the baseline to different MBConv blocks. This network was firstly presented by Google in this [paper](https://arxiv.org/abs/1905.11946). Up to this day, EfficientNet has been scaled from its baseline that contains 5.3M parameters to b7, with 66M parameters.
 
 ## 4. Environment Requirements <a name="4-envs"></a>
 ### 4.1. Software  <a name="41-software"></a>
