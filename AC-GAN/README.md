@@ -45,7 +45,7 @@ Please find in the following links some of the checkpoints files generated every
 
 * :inbox_tray: [ckpt](https://drive.google.com/drive/folders/1xd0H8pSC0pl99TbbItDuYoGmyNEdZC9x?usp=sharing)
 
-Once downloaded unzip the content within the **'output/ckpt'** folder, the script automatically will take the latest ckpt file available if applicable.
+Once downloaded unzip the content within the **'output/ckpt'** folder, the script will automatically take the latest ckpt file available if applicable.
 
 ## Results
 
