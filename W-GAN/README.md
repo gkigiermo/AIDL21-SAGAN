@@ -128,6 +128,9 @@ MS-GMSD  |  0.27  |  0.14   |
 MDSI     |  0.50  |  0.44   |
 HaarPSI  |  0.35  |  0.40   |
 
+#### Training Loss
+![WGAN-64](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/gen_dis_loss.png)
+
 #### 64 x 64
 ![WGAN-64](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/gen_wgan_64.png)
 #### 128 x 128
