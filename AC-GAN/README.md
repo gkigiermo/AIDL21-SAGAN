@@ -27,10 +27,10 @@ The second output is a probability of the image belonging to each class via the 
 
 ## Dependencies
 - Python 3.7
-- [PyTorch 1.7.1+cu110](http://pytorch.org)
-- [NumPy 1.20.1](http://www.numpy.org/)
-- [PIL 8.1.0](http://pillow.readthedocs.io/en/3.1.x/installation.html)
-- [PIQA 1.1.3](https://pypi.org/project/piqa/)
+- [PyTorch](http://pytorch.org)1.7.1+cu110
+- [NumPy](http://www.numpy.org/)1.20.1
+- [PIL](http://pillow.readthedocs.io/en/3.1.x/installation.html)8.1.0
+- [PIQA](https://pypi.org/project/piqa/)  1.1.3
 
 ## Execution
 
