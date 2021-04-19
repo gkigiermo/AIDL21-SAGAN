@@ -83,6 +83,15 @@ gp_lambda : 10
 
 ### Critic iterations
 
+### Metrics
+
+Metric   | 64x64  | 128x128 | 
+:------: | ------:| ------: |
+PSNR     | 12.63  | 12.27   |
+SSIM     |  0.30  |  0.31   |
+MS-GMSD  |  0.27  |  0.14   |
+MDSI     |  0.50  |  0.44   |
+HaarPSI  |  0.35  |  0.40   |
 
 ### 64 x 64
 
