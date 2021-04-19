@@ -240,8 +240,9 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
 
 - #### AC-GAN 64x64
 
-![AC-GAN-64](https://github.com/mestecha/AIDL21-SAGAN/blob/main/AC-GAN/acgan-images/64-64-600.png)
-
+<p align="center">
+  <img src="AC-GAN/acgan-images/64-64-600.png">
+</p>
 
 - #### SN-GAN 128x128
 
@@ -250,6 +251,12 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
 - #### W-GAN 128x128
 
 ![WGAN-128](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/gen_wgan_128.png)
+
+- #### AC-GAN 128x128
+
+<p align="center">
+  <img src="AC-GAN/acgan-images/grid-128-64-600.jpg">
+</p>
 
 ## 6. Conclusions <a name="6-conclusions"></a>
 
