@@ -226,9 +226,8 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
 
 - #### AC-GAN 64x64
 
-<p align="center">
-  <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/AC-GAN/acgan-images/64-64-600.png">
-</p>
+![AC-GAN-64](https://github.com/mestecha/AIDL21-SAGAN/blob/main/AC-GAN/acgan-images/64-64-600.png)
+
 
 - #### SN-GAN 128x128
 
@@ -238,12 +237,28 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
 
 ![WGAN-128](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/gen_wgan_128.png)
 
-
-- #### AC-GAN 128x128
-
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/AC-GAN/acgan-images/grid-128-64-600.jpg">
-</p>
-
 ## 6. Conclusions <a name="6-conclusions"></a>
-## TODO
+
+* **Training GANs** proved to be a **hard task**
+    * Requires a vest amount of **resources**
+    * **Training process** is **not straightforward**
+
+* **SNGAN outperformed** DCGAN, ACGAN and WGAN
+    * Even though **after huge amount of experimentation** metrics were still far from initial goal
+
+* On the GAN training parametrization:
+    * Batch size is among the most relevant parameters to reduce training times and improve image quality. The reasonale behind this effect could come from the _Discriminator_ having less examples to generalize its classification of real and fake images.
+    * The number of training epochs also affects the quality of the generated images. Longer traning usually ends up producing better images even though the two losses did not converge.
+    * Another parameter tweak that comes handy when training these architectures is the size of the latent vector size. With higher sizes the quality of images did not improve, but it did reduce the training time.
+    * Label smoothing has another critical change that was done in our GANs. It did produce better images and also it did stabilize the training. Mathematically, the class probabilities of the discriminator are, in general, lower when using this technique and thus, it balances the performance of the _Discriminator_ and the _Generator_.
+    * Spectral normalization, which deals with exploding gradients, did also increase the quality of the generated images. It gave out a new architecture purely based on a DCGAN.
+    * Different learning rates, more specifically with higher values for the _Discriminator_, did stabilize training and also increased the quality of the images. The explanation behind this behavior is that setting bigger steps for optimizing the loss function of the _Discriminator_  makes this agent more imprecise at the classification task whereas the smaller steps for the _Generator_ gives it a more precise approach to image generation.
+
+* **Different metrics** are sensible to **different aspects** of image quality
+    * Best practice to **use a set** of them to assess the generated images
+    * **Include a metric** based on **human perception**
+ 
+* Good results for a **lack** of **resources**
+    * Fine-tuned **EfficientNet** achieves **high accuracy** with **reduced dataset**
+    * Dataset with **sysnthetic images** does **not improve accuracy**
+    * **Balanced dataset** with **synthetic images** and no augmentations achieves **good results**
