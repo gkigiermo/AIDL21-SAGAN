@@ -30,13 +30,13 @@ np.random.seed(43)
 parser = argparse.ArgumentParser()
 parser.add_argument("--path", type=str, default="/media/mestecha/Samsung_T5/SAGAN/ISIC-Archive/Data/",
                     help="images parent directory")
-parser.add_argument("--load-model", type=bool, default=False, help="images parent directory")
+parser.add_argument("--load-model", type=bool, default=False, help="resume training/eval from checkpoint")
 parser.add_argument("--eval", type=str, default=False, help="trained model sampling")
 parser.add_argument("--n-epochs", type=int, default=600, help="number of epochs of training")
 parser.add_argument("--batch-size", type=int, default=16, help="size of the batches")
 parser.add_argument("--lr", type=float, default=0.0002, help="adam: learning rate")
 parser.add_argument("--b1", type=float, default=0.5, help="adam: decay of first order momentum of gradient")
-parser.add_argument("--b2", type=float, default=0.999, help="adam: decay of first order momentum of gradient")
+parser.add_argument("--b2", type=float, default=0.999, help="adam: decay of second order momentum of gradient")
 parser.add_argument("--n-cpu", type=int, default=8, help="number of cpu threads to use during batch generation")
 parser.add_argument("--latent-dim", type=int, default=600, help="dimensionality of the latent space")
 parser.add_argument("--n-classes", type=int, default=2, help="number of classes for dataset")
@@ -46,8 +46,9 @@ parser.add_argument("--sample-interval", type=int, default=200, help="interval b
 parser.add_argument("--print-interval", type=int, default=5,
                     help="batch interval between printing out the progress bar")
 parser.add_argument("--save-model-interval", type=int, default=100, help="epoch interval between model saving")
-opt = parser.parse_args(args=[])
+opt = parser.parse_args()  # replace if inline execution: opt = parser.parse_args(args=[])
 print(opt)
+# exit()
 
 cuda = True if torch.cuda.is_available() else False
 print(f'Cuda: {cuda}')
@@ -125,8 +126,10 @@ def load_discriminator(D_path):
     return D
 
 
-def save_model(model, optimizer, file_path):
+def save_model(model, optimizer, e, file_path):
     """ Save model checkpoints. """
+    if opt.load_model:
+        file_path = os.path.join('output', 'ckpt', f'G_{max(numbers)+e:04}.pth')
 
     state = {'model': model.state_dict(),
              'optim': optimizer.state_dict(),
@@ -407,20 +410,19 @@ if not opt.eval:
             curr_iter = epoch * len(dataloader) + i
             if curr_iter % opt.sample_interval == 0:
                 fake_gen = sample_val_image(z=z_val, labels=labels_val, n_row=int(floor(sqrt(64))), iter_done=curr_iter)
-                compute_metrics(real=next(iter(dataloader)), fakes=fake_gen, toPath=os.path.join("output"))
 
         avg_loss_G.append(sum(loss_G) / (curr_iter + 1))
         avg_loss_D.append(sum(loss_D) / (curr_iter + 1))
+        compute_metrics(real=next(iter(dataloader)), fakes=fake_gen, toPath=os.path.join("output"))
 
         if epoch % opt.save_model_interval == 0:
             os.makedirs(os.path.join('output', 'ckpt'), exist_ok=True)
-            save_model(generator, optimizer_G, os.path.join('output', 'ckpt', f'G_{epoch:04}.pth'))
-            save_model(discriminator, optimizer_D, os.path.join('output', 'ckpt', f'D_{epoch:04}.pth'))
+            save_model(generator, optimizer_G, epoch, os.path.join('output', 'ckpt', f'G_{epoch:04}.pth'))
+            save_model(discriminator, optimizer_D, epoch, os.path.join('output', 'ckpt', f'D_{epoch:04}.pth'))
 
-
-    save_model(generator, optimizer_G, os.path.join('output', 'ckpt', f'G_{opt.n_epochs:04}.pth'))
-    save_model(discriminator, optimizer_D, os.path.join('output', 'ckpt', f'D_{opt.n_epochs:04}.pth'))
     loss_plot(G_losses=avg_loss_G, D_losses=avg_loss_D, toPath=os.path.join("output"))
+    save_model(generator, optimizer_G, os.path.join('output', 'ckpt', opt.n_epochs, f'G_{opt.n_epochs:04}.pth'))
+    save_model(discriminator, optimizer_D, os.path.join('output', 'ckpt', opt.n_epochs, f'D_{opt.n_epochs:04}.pth'))
 
 sample_class_images(nImgs=300, ofst=0)
 # sample_class_images(nImgs=300, ofst=300)
