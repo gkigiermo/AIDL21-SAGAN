@@ -6,16 +6,6 @@ from os import listdir
 from os.path import isfile, join
 
 
-def accuracy(labels, outputs):
-    preds = outputs.argmax(-1)
-    acc = (preds == labels.view_as(preds)).float().detach().numpy().mean()
-    return acc
-
-
-def save_model(model, path):
-    torch.save(model.state_dict(), path)
-
-
 def remove_files(path, list): #Remove images that are not in the list
     for filename in os.listdir(path):
         if filename.endswith('.jpeg'):
@@ -29,13 +19,17 @@ def remove_files(path, list): #Remove images that are not in the list
             os.remove(full_file_path)
 
 def copy_paste_images(origin, destiny, list): #Copy images that are in the list and paste them into destiny folder
-    for name in list:
+    dataset = MyDataset(origin, list)
+    dset_dcm = dataset.get_dcm_name()
+    for name in dset_dcm:
         try:
             full_file_path = os.path.join(origin, name + '.jpeg')
             shutil.copy(full_file_path, destiny)
         except FileNotFoundError:
             full_file_path = os.path.join(origin, name + '.png')
             shutil.copy(full_file_path, destiny)
+
+
 
 def delete_images_from_dataset(train_dataset,val_dataset,test_dataset, data_transforms,img_path,img_reduced_path, dset_path):
 ##Crea una carpeta con sólo las imágenes que se encuentren en los dataset
@@ -52,12 +46,7 @@ def img_folder_to_csv_list(folder_path, save_csv_path): #lists all the files in 
     images = [f for f in listdir(path) if isfile(join(path, f))]
     df = pandas.DataFrame(data = {"col1": images})
     df.to_csv(save_csv_path, sep = ';', index = False)
-'''
-from model import *
-model = MyModel()
-checkpoint = model.load_state_dict(torch.load('models saved/model09041.pt'))
-print(model)
-'''
+
 import matplotlib.pyplot as plt
 def plot_df_dset(df_path):
 
@@ -75,8 +64,6 @@ def plot_df_dset(df_path):
     ax1 = fig.add_subplot(1, 2, 1)
     ax2 = fig.add_subplot(1, 2, 2)
 
-
-
     ax1.plot(train_loss_history, label = 'Training Loss')
     ax1.plot(val_loss_history, label = 'Validation Loss')
     ax1.set_title("Losses")
@@ -91,5 +78,5 @@ def plot_df_dset(df_path):
     ax2.set_ylabel('Accuracy')
     ax2.legend()
     plt.show()
-plot_df_dset('./results_11041.csv')
+
 

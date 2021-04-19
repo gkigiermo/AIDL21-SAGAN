@@ -19,13 +19,13 @@ def callback_get_label(dataset, idx):
     return int(target)
 
 
-def imbalanced_dataloader(dataset, hparams, save_address):  # modificar save address para generalizarlo
-    train_loader = DataLoader(dataset, batch_size = hparams["batch_size"], sampler = ImbalancedDatasetSampler(
+def imbalanced_dataloader(dataset, bsize, save_address):
+    train_loader = DataLoader(dataset, bsize, sampler = ImbalancedDatasetSampler(
         dataset, callback_get_label = callback_get_label))
     torch.save(train_loader, save_address)
 
 
-def data_loader(dataset, bsize, balanced=False, imbalanced_dloader_address=None):
+def data_loader(bsize, dataset = None, balanced=False, imbalanced_dloader_address=None):
     if not balanced:
         dloader = torch.load(imbalanced_dloader_address)
     else:
@@ -39,24 +39,26 @@ def load_dataloader(path_train_dloader, path_img):
 
 
 def main():
-    model_number = '18043'
+    model_number = '19041'
     device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
     print(device)
+
+    #File configuration
     root_path = './'
     path_img = root_path + 'images'
     path_test_reduced = root_path + 'test_reduced.csv'
-    path_train_reduced = root_path + 'train_dcsngan.csv'
-    path_val_reduced = root_path + 'val_reduced_balanced.csv'
+    path_train_reduced = root_path + 'train_m_reduced.csv'
+    path_val_reduced = root_path + 'val_m_reduced.csv'
     path_save_model = root_path + 'model' + model_number
-    path_train_dloader = root_path + 'Data/train_loader_dcsngan.pt'
-    path_val_dloader = root_path + 'Data/val_loader_acgan.pt'
-    path_results = root_path + "results_" + model_number + "_dcsngan"
+    path_train_dloader = root_path + 'Data/train_loader_reduced.pt'
+    path_val_dloader = root_path + 'Data/val_loader_reduced.pt'
+    path_results = root_path + "results_" + model_number
 
     hparams = {
         'batch_size': 64,
         'num_epochs': 50,
-        'learning_rate': 0.001,
-        'frozen_layers': 18
+        'learning_rate': 0.0001,
+        'frozen_layers': 16
     }
 
     mean = (0.485, 0.456, 0.406)
@@ -123,7 +125,7 @@ def main():
         albumentations.RandomContrast(p = 0.5),
         albumentations.VerticalFlip(p = 0.5),
         albumentations.Flip(p = 0.5),
-        albumentations.Cutout(p = 0.5),
+        albumentations.Cutout(p = 1),
         albumentations.ShiftScaleRotate(p = 0.5),
         albumentations.OneOf([
             albumentations.RandomBrightnessContrast(brightness_limit = 0.3, contrast_limit = 0.3),
@@ -135,7 +137,6 @@ def main():
         ToTensorV2(transpose_mask = True)
     ])
 
-
     valid_transforms = albumentations.Compose([
         albumentations.Resize(128, 128),
         albumentations.Normalize(mean, std, max_pixel_value = 255.0, always_apply = True),
@@ -144,12 +145,17 @@ def main():
 
     train_dataset = MyDataset(path_img, path_train_reduced, train_transforms)
     val_dataset = MyDataset(path_img, path_val_reduced, valid_transforms)
-    test_dataset = MyDataset(path_img, path_test_reduced, data_transforms)
-    
-    train_loader = torch.load(path_train_dloader)
-    val_loader = torch.load(path_val_dloader)
-    test_loader = DataLoader(test_dataset, batch_size = hparams["batch_size"], shuffle = True)
 
+    #imbalanced_dataloader(train_dataset, hparams["batch_size"], 'Data/train_loader_reduced.pt')
+    #imbalanced_dataloader(val_dataset, hparams["batch_size"], 'Data/val_loader_reduced.pt')
+
+    train_loader = data_loader(hparams["batch_size"], dataset = None, balanced = False,
+                               imbalanced_dloader_address = path_train_dloader)
+    val_loader = data_loader(hparams["batch_size"], dataset = None, balanced = False,
+                               imbalanced_dloader_address = path_val_dloader)
+
+    train_loader.dataset.images_path = path_img
+    val_loader.dataset.images_path = path_img
     #Network definition
     network = MyModel(frozen_layers=hparams["frozen_layers"], trained_features="effnet" ).to(device)
     optimizer = torch.optim.Adam(network.parameters(), hparams["learning_rate"])

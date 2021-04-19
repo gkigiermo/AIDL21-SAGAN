@@ -4,16 +4,16 @@ import os
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
-
+import matplotlib.pyplot as plt
 
 class MyDataset(Dataset):
 
-    def __init__(self, images_path, description_path, transform=None):
+    def __init__(self, images_path, description_path, transform=None, plot = False):
         super().__init__()
         self.images_path = images_path
         self.transform = transform
         self.clinical_df = pd.read_csv(description_path, sep = ';')
-
+        self.plot_img = plot
     def __len__(self):
         return len(self.clinical_df)
 
@@ -30,7 +30,14 @@ class MyDataset(Dataset):
         else:
             pass
         if self.transform:
+            sample_not_transformed = sample
             sample = self.transform(**{"image": np.array(sample)})["image"]  # for albumentations
+        if self.transform and self.plot_img:
+            fig = plt.figure()
+            ax1 = fig.add_subplot(2, 2, 1)
+            ax1.imshow(sample_not_transformed)
+            ax2 = fig.add_subplot(2, 2, 2)
+            ax2.imshow(sample.permute(1, 2, 0))
         return sample, benign_malign
 
     def get_dcm_name(self):

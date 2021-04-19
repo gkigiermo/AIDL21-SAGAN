@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-#from torchvision.models import vgg16, resnet50
 from efficientnet_pytorch import EfficientNet
 
 
@@ -50,7 +49,6 @@ class MyModel(nn.Module):
         self.avg_pooling = nn.AdaptiveAvgPool2d(1)
         self.drop = nn.Dropout(p = 0.3)
 
-
         pass
 
     def forward(self, x):
@@ -64,7 +62,6 @@ class MyModel(nn.Module):
 
             x = self.fc1(x)
             x = self.fc2(x)
-
 
         elif self.net_type == 'effnet':
             x = self.model(x)
