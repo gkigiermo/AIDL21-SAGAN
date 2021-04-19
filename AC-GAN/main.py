@@ -419,9 +419,9 @@ if not opt.eval:
             save_model(generator, optimizer_G, epoch, os.path.join('output', 'ckpt', f'G_{epoch:04}.pth'))
             save_model(discriminator, optimizer_D, epoch, os.path.join('output', 'ckpt', f'D_{epoch:04}.pth'))
 
-    loss_plot(G_losses=avg_loss_G, D_losses=avg_loss_D, toPath=os.path.join("output"))
-    save_model(generator, optimizer_G, os.path.join('output', 'ckpt', opt.n_epochs, f'G_{opt.n_epochs:04}.pth'))
-    save_model(discriminator, optimizer_D, os.path.join('output', 'ckpt', opt.n_epochs, f'D_{opt.n_epochs:04}.pth'))
+    loss_plot(G_losses=avg_loss_G, D_losses=avg_loss_D, toPath=os.path.join("output"))    
+    save_model(generator, optimizer_G, opt.n_epochs, os.path.join('output', 'ckpt', f'G_{opt.n_epochs:04}.pth'))
+    save_model(discriminator, optimizer_D, opt.n_epochs, os.path.join('output', 'ckpt', f'D_{opt.n_epochs:04}.pth'))
 
 sample_class_images(nImgs=300, ofst=0)
 # sample_class_images(nImgs=300, ofst=300)
