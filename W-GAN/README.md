@@ -25,11 +25,13 @@ Using the weight clipping approach of the original WGAN article can end up limit
 
 where
 
- <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/x.pn" width="100" height="100"> is the real image
+ <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/x.png" width="50" height="50"> is the real image
 
-![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/xtilde.png) is the fake image generated
 
-![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/xhat.png) is a random interpolation between the real and fake image
+ <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/xtilde.png" width="50" height="50"> is the fake image generated
+
+ <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/xhat.png" width="50" height="50">  is a random interpolation between the real and fake image
+
 
 
 ## Execution
