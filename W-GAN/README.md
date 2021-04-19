@@ -21,6 +21,7 @@ The last layer (sigmoid) of the traditional discriminator of the GANs is removed
 
 Using the weight clipping approach of the original WGAN article can end up limiting the parameters weights of the Critic. The gradient penalty strategy arises as a way to enforce the Lipschitz continuity constraint without restricting the Critic weights. The idea consist in adding a new term to the loss:
 
+![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/gradpe.png)
 ## Execution
 
 ```
