@@ -74,5 +74,11 @@ Below are shown some images obtained from the trained network along with some lo
 </p>
 
 <p align="center">
+  <img alt="caca" src="acgan-images/real_samples-01.png" width="40%" />
+  <img alt="pis" src="acgan-images/64-64-600.png" width="40%" /> 
+</p>
+
+
+<p align="center">
     <img img width="90%" height="90%" src="acgan-images/loss_plot-64-cool.png"\>
 </p>
