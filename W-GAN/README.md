@@ -45,7 +45,7 @@ The .yaml file described for the DC-GAN must include two new parameters:
 
 * critic_its = The number of iterations that the generator is frozen
 
-* gp_lamba   = Controls the magnitude of the gradient penaly added to the discrimitor loss
+* gp_lambda   = Controls the magnitude of the gradient penaly added to the discrimitor loss
 
 The input file reads:
 
