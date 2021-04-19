@@ -22,8 +22,11 @@ The last layer (sigmoid) of the traditional discriminator of the GANs is removed
 Using the weight clipping approach of the original WGAN article can end up limiting the parameters weights of the Critic. The gradient penalty strategy arises as a way to enforce the Lipschitz continuity constraint without restricting the Critic weights. The idea consist in adding a new term to the loss:
 
 ![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/gradpe.png)
+where
+![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/x.png) is the real image
+![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/xtilde.png) is the fake image generated
+![gradpe](https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/xhay.png) is a random interpolation between the real and fake image
 
-&tilde x
 
 ## Execution
 
