@@ -239,12 +239,12 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
 
 ## 6. Conclusions <a name="6-conclusions"></a>
 
-* **Training GANs** proved to be a **hard task**
-    * Requires a vest amount of **resources**
-    * **Training process** is **not straightforward**
+* **Training GANs** proved to be a **hard task**.
+    * Requires a vest amount of **resources**.
+    * **Training process** is **not straightforward**.
 
-* **SNGAN outperformed** DCGAN, ACGAN and WGAN
-    * Even though **after huge amount of experimentation** metrics were still far from initial goal
+* **SNGAN outperformed** DCGAN, ACGAN and WGAN.
+    * Even though **after huge amount of experimentation** metrics were still far from initial goal.
 
 * On the **GAN training parametrization**:
     * **Batch size** is among the most relevant parameters to reduce training times and improve image quality. The reasonale behind this effect could come from the _Discriminator_ having less examples to generalize its classification of real and fake images.
@@ -254,11 +254,11 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
     * **Spectral normalization**, which deals with exploding gradients, did also increase the quality of the generated images. It gave out a new architecture purely based on a DCGAN.
     * **Different learning rates**, more specifically with higher values for the _Discriminator_, did stabilize training and also increased the quality of the images. The explanation behind this behavior is that setting bigger steps for optimizing the loss function of the _Discriminator_  makes this agent more imprecise at the classification task whereas the smaller steps for the _Generator_ gives it a more precise approach to image generation.
 
-* **Different metrics** are sensible to **different aspects** of image quality
-    * Best practice to **use a set** of them to assess the generated images
-    * **Include a metric** based on **human perception**
+* **Different metrics** are sensible to **different aspects** of image quality.
+    * Best practice to **use a set** of them to assess the generated images.
+    * **Include a metric** based on **human perception**.
  
-* Good results for a **lack** of **resources**
-    * Fine-tuned **EfficientNet** achieves **high accuracy** with **reduced dataset**
-    * Dataset with **sysnthetic images** does **not improve accuracy**
-    * **Balanced dataset** with **synthetic images** and no augmentations achieves **good results**
+* Good results for a **lack** of **resources**.
+    * Fine-tuned **EfficientNet** achieves **high accuracy** with **reduced dataset**.
+    * Dataset with **sysnthetic images** does **not improve accuracy**.
+    * **Balanced dataset** with **synthetic images** and no augmentations achieves **good results**.
