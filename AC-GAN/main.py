@@ -28,7 +28,7 @@ os.makedirs("output", exist_ok=True)
 np.random.seed(43)
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--path", type=str, default="/media/mestecha/Samsung_T5/SAGAN/ISIC-Archive/Data/",
+parser.add_argument("--path", type=str, default="./ISIC-Archive/Data/",
                     help="images parent directory")
 parser.add_argument("--load-model", type=bool, default=False, help="resume training/eval from checkpoint")
 parser.add_argument("--eval", type=str, default=False, help="trained model sampling")
