@@ -25,11 +25,18 @@ Addressing the outputs of the discriminator, the first output is a single probab
 
 The second output is a probability of the image belonging to each class via the softmax activation function, like any given multi-class classification neural network model, and is optimized using categorical cross entropy.
 
+## Dependencies
+- Python 3.7
+- [PyTorch 1.7.1+cu110](http://pytorch.org)
+- [NumPy 1.20.1](http://www.numpy.org/)
+- [PIL 8.1.0](http://pillow.readthedocs.io/en/3.1.x/installation.html)
+- [PIQA 1.1.3](https://pypi.org/project/piqa/)
+
 ## Execution
 
 Run the following command for details of each arguments.
-```
-python3 main.py -h
+```bash
+$ python main.py -h
 ```
 
 ## Results
