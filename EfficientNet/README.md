@@ -23,6 +23,21 @@ Although the model weights are pretrained and top layers unfrozen, Batch Normali
 Given all the EfficientNet models available, we have used model b3 for its number of parameters (12M) and depth are good enough to obtain a proper accuracy without taking too long.
 Using b3 architecture, the model takes 30 minutes for each epoch. In addition, a deeper network may cause overfitting to the model due to the dataset's size.
 
+### Dependencies
+
+- Python 3.7
+- [PyTorch](http://pytorch.org) 1.7.1+cu110
+- [NumPy](http://www.numpy.org/) 1.20.1
+- [Albumentations](https://github.com/ufoym/imbalanced-dataset-sampler) 0.5.2 
+- [scikit-learn](https://scikit-learn.org/stable/index.html) 0.24.1  
+- [efficientnet-pytorch](https://github.com/lukemelas/EfficientNet-PyTorch) 0.7.0
+- [PIL](http://pillow.readthedocs.io/en/3.1.x/installation.html) 8.1.0
+### Execution
+
+```
+python3 classifier.py
+```
+
 ### Metrics
 
 To be able to evaluate and measure the effectiveness of our network, we have implemented the following metrics:
