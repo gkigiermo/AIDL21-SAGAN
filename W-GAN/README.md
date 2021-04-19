@@ -103,7 +103,7 @@ The configuration &#955; = 10 outperforms the rest 60% of the time (3 out of 5).
 
 ### Critic iterations
 The following test consisted study how the freezing of the generator weights affects the synthetic images. Three different configurations were tested as shown in the following figures.
-
+ <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/W-GAN/wgan-images/Critic_test.png" width="2%" >
 
 Metric   | &#955; = 1  | &#955; = 3 | &#955; = 10 |
 :------: | ------:| ------: | ------: |
