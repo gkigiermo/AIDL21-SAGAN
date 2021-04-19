@@ -242,7 +242,7 @@ SN-GAN 128 |  12.18  |   0.24   |   0.15   |   0.52  |  **0.45**  |
 - #### AC-GAN 128x128
 
 <p align="center">
-  <img src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/AC-GAN/acgan-images/grid-128-64-600.jpg">
+  <img width="60%" height="60%" src="https://github.com/mestecha/AIDL21-SAGAN/blob/main/AC-GAN/acgan-images/grid-128-64-600.jpg">
 </p>
 
 ## 6. Conclusions <a name="6-conclusions"></a>
