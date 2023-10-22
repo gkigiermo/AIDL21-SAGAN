@@ -9,7 +9,7 @@ Final Project for the UPC [Artificial Intelligence with Deep Learning Postgradua
 
 * [Alexis Molina](https://www.linkedin.com/in/alexismolinamr/)
 * [Antonio Castaño](https://www.linkedin.com/in/antoniocasblan/)
-* [Guillermo Oyarzun](www.linkedin.com/in/guillermo-oyarzun-altamirano)
+* [Guillermo Oyarzun](https://www.linkedin.com/in/guillermo-oyarzun-altamirano)
 * [Marcos Estecha](https://www.linkedin.com/in/marcos-estecha-07a54a113)
 
 Advised by [Santiago Puch](https://www.linkedin.com/in/santipuch)
